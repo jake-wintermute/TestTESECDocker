@@ -1,0 +1,52 @@
+# To check more avaialble options see:
+# https://matplotlib.org/tutorials/introductory/customizing.html
+
+# TURN ON LATEX
+# text.usetex     : True
+
+# FIGURE
+figure.figsize  : 5.5, 3
+figure.facecolor : FFFFFF   # true white
+figure.edgecolor : 222222   # kelly black
+
+
+# PDF Generation
+pdf.fonttype    : 42 # Use TrueType fonts
+ps.fonttype     : 42
+
+# FONTS
+font.family         : arial, sans-serif
+mathtext.default    : regular
+
+# FONT SIZES
+font.size       : 7
+axes.titlesize  : 7
+axes.labelsize  : 7
+xtick.labelsize : 7
+ytick.labelsize : 7
+legend.fontsize : 7
+
+# AXES 
+axes.labelweight : normal
+axes.labelpad  : 1.0 
+axes.edgecolor : 222222
+axes.labelcolor : 222222
+axes.linewidth : 1
+axes.spines.top : False
+axes.spines.right : False
+axes.spines.bottom : True
+axes.spines.left : True
+
+xtick.color : 222222
+ytick.color : 222222
+xtick.direction : in
+ytick.direction : in
+
+# LINES
+lines.linewidth : 1.5
+
+# SCATTER PLOT
+scatter.marker : .
+lines.markersize : 4 
+
+
