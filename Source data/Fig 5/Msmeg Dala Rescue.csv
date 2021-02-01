@@ -1,0 +1,7 @@
+Drug Treatment,Rescue Treatment,Rep 1,Rep 2,Rep 3,Rep 4,Rep 5
+No Drug,With Dala,0.344,0.334,0.364,0.372,0.339
+No Drug,No Dala,0.27,0.28,0.278,0.285,0.28
+DCS,With Dala,0.312,0.242,0.247,0.286,0.238
+DCS,No Dala,0.048,0.048,0.045,0.047,0.046
+Benazepril,With Dala,0.056,0.058,0.064,0.06,0.06
+Benazepril,No Dala,0.046,0.046,0.047,0.047,0.045

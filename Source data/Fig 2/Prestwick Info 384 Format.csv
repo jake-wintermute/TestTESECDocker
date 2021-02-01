@@ -1,0 +1,1537 @@
+,Plate 384,Well 384,Plate 96,Well 96,Chemical name,Prestwick number,CAS number,Chemical formula,Class,Effect
+0,Plate01,A01,Plate01,A01,DMSO,nan,nan,nan,,
+1,Plate01,A02,Plate02,A01,DMSO,nan,nan,nan,,
+2,Plate01,A03,Plate01,A02,Azaguanine-8,Prestw-1,134-58-7,C4H4N6O,['Oncology'],['Antineoplastic']
+3,Plate01,A04,Plate02,A02,Metronidazole,Prestw-81,443-48-1,C6H9N3O3,"['Infectiology', 'Metabolism']","['Antiamebic', 'Antibacterial', 'Antiprotozoal']"
+4,Plate01,A05,Plate01,A03,Allantoin,Prestw-2,97-59-6,C4H6N4O3,['Dermatology'],"['Antipsoriatic', 'Vulnerary']"
+5,Plate01,A06,Plate02,A03,Fulvestrant,Prestw-1424,129453-61-8,C32H47F5O3S,"['Endocrinology', 'Oncology']",['Antineoplastic']
+6,Plate01,A07,Plate01,A04,Acetazolamide,Prestw-3,59-66-5,C4H6N4O3S2,['Metabolism'],"['Anticonvulsant', 'Antiglaucoma', 'Diuretic']"
+7,Plate01,A08,Plate02,A04,Edrophonium chloride,Prestw-83,116-38-1,C10H16ClNO,"['Diagnostic', 'Neuromuscular']",['Anti-fatigue']
+8,Plate01,A09,Plate01,A05,Metformin hydrochloride,Prestw-4,1115-70-4,C4H12ClN5,['Endocrinology'],"['Anorectic', 'Antidiabetic', 'Antilipemic']"
+9,Plate01,A10,Plate02,A05,Moroxidine hydrochloride,Prestw-84,3160-91-6,C6H14ClN5O,['Infectiology'],['Antiviral']
+10,Plate01,A11,Plate01,A06,Atracurium besylate,Prestw-5,64228-81-5,C65H82N2O18S2,['Neuromuscular'],['Curarizing']
+11,Plate01,A12,Plate02,A06,"Baclofen (R,S)",Prestw-85,1134-47-0,C10H12ClNO2,['Central Nervous System'],"['Antispastic', 'Muscle relaxant']"
+12,Plate01,A13,Plate01,A07,Isoflupredone acetate,Prestw-6,338-98-7,C23H29FO6,['Endocrinology'],['Anti-inflammatory']
+13,Plate01,A14,Plate02,A07,Acyclovir,Prestw-86,59277-89-3,C8H11N5O3,['Metabolism'],['Antiviral']
+14,Plate01,A15,Plate01,A08,Amiloride hydrochloride dihydrate,Prestw-7,17440-83-4,C6H13Cl2N7O3,['Metabolism'],"['Antihypertensive', 'Diuretic']"
+15,Plate01,A16,Plate02,A08,Diazoxide,Prestw-87,364-98-7,C8H7ClN2O2S,"['Cardiovascular', 'Metabolism']","['Antidiuretic', 'Antihypertensive', 'Vasodilator']"
+16,Plate01,A17,Plate01,A09,Amprolium hydrochloride,Prestw-8,137-88-2,C14H20Cl2N4,"['Infectiology', 'Metabolism']","['Anticoccidial', 'Antiparasitic']"
+17,Plate01,A18,Plate02,A09,Amidopyrine,Prestw-88,58-15-1,C13H17N3O,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+18,Plate01,A19,Plate01,A10,Hydrochlorothiazide,Prestw-9,58-93-5,C7H8ClN3O4S2,['Metabolism'],"['Antihypertensive', 'Diuretic']"
+19,Plate01,A20,Plate02,A10,Busulfan,Prestw-1179,55-98-1,C6H14O6S2,['Oncology'],['Antineoplastic']
+20,Plate01,A21,Plate01,A11,Sulfaguanidine,Prestw-10,57-67-0,C7H10N4O2S,"['Infectiology', 'Metabolism']",['Antibacterial']
+21,Plate01,A22,Plate02,A11,Pindolol,Prestw-90,13523-86-9,C14H20N2O2,"['Cardiovascular', 'Ophthalmology']","['Antianginal', 'Antiarrhythmic', 'Antiglaucoma', 'Antihypertensive']"
+22,Plate01,A23,Plate01,A12,DMSO,nan,nan,nan,,
+23,Plate01,A24,Plate02,A12,DMSO,nan,nan,nan,,
+24,Plate01,B01,Plate03,A01,DMSO,nan,nan,nan,,
+25,Plate01,B02,Plate04,A01,DMSO,nan,nan,nan,,
+26,Plate01,B03,Plate03,A02,Isoniazid,Prestw-161,54-85-3,C6H7N3O,"['Infectiology', 'Metabolism']",['Antibacterial']
+27,Plate01,B04,Plate04,A02,Mexiletine hydrochloride,Prestw-241,5370-01-4,C11H18ClNO,"['Cardiovascular', 'Neuromuscular']","['Antiarrhythmic', 'Local anesthetic']"
+28,Plate01,B05,Plate03,A03,Pentylenetetrazole,Prestw-162,54-95-5,C6H10N4,"['Central Nervous System', 'Respiratory']","['Analeptic', 'CNS Stimulant']"
+29,Plate01,B06,Plate04,A03,Flavoxate hydrochloride,Prestw-242,3717-88-2,C24H26ClNO4,['Metabolism'],['Antispastic']
+30,Plate01,B07,Plate03,A04,Chlorzoxazone,Prestw-163,95-25-0,C7H4ClNO2,['Central Nervous System'],"['Anticonvulsant', 'Muscle relaxant']"
+31,Plate01,B08,Plate04,A04,Bufexamac,Prestw-243,2438-72-4,C12H17NO3,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+32,Plate01,B09,Plate03,A05,Ornidazole,Prestw-164,16773-42-5,C7H10ClN3O3,"['Infectiology', 'Metabolism']","['Antibacterial', 'Antiparasitic', 'Antiprotozoal', 'Antitrichomonal']"
+33,Plate01,B10,Plate04,A05,"Glutethimide, para-amino",Prestw-244,125-84-8,C13H16N2O2,['Oncology'],['Antineoplastic']
+34,Plate01,B11,Plate03,A06,Ethosuximide,Prestw-165,77-67-8,C7H11NO2,['Central Nervous System'],['Anticonvulsant']
+35,Plate01,B12,Plate04,A06,"Dropropizine (R,S)",Prestw-245,17692-31-8,C13H20N2O2,['Respiratory'],['Antitussive']
+36,Plate01,B13,Plate03,A07,Mafenide hydrochloride,Prestw-166,138-37-4,C7H11ClN2O2S,"['Infectiology', 'Metabolism']","['Antibacterial', 'Antiseptic']"
+37,Plate01,B14,Plate04,A07,Pinacidil,Prestw-246,85371-64-8,C13H19N5,['Cardiovascular'],"['Antihypertensive', 'Vasodilator']"
+38,Plate01,B15,Plate03,A08,Riluzole hydrochloride,Prestw-167,not available,C8H6ClF3N2OS,['Central Nervous System'],"['Antispastic', 'Neuroprotectant']"
+39,Plate01,B16,Plate04,A08,Albendazole,Prestw-247,54965-21-8,C12H15N3O2S,['Metabolism'],"['Antihelmintic', 'Antiparasitic']"
+40,Plate01,B17,Plate03,A09,Nitrofurantoin,Prestw-168,67-20-9,C8H6N4O5,['Infectiology'],['Antibacterial']
+41,Plate01,B18,Plate04,A09,Clonidine hydrochloride,Prestw-248,4205-91-8,C9H10Cl3N3,"['Cardiovascular', 'Central Nervous System']","['Analgesic', 'Antihypotensive', 'Sedative']"
+42,Plate01,B19,Plate03,A10,Hydralazine hydrochloride,Prestw-169,304-20-1,C8H9ClN4,['Cardiovascular'],['Antihypertensive']
+43,Plate01,B20,Plate04,A10,Bupropion hydrochloride,Prestw-249,31677-93-7,C13H19Cl2NO,['Central Nervous System'],['Antidepressant']
+44,Plate01,B21,Plate03,A11,Phenelzine sulfate,Prestw-170,156-51-4,C8H14N2O4S,['Central Nervous System'],['Antidepressant']
+45,Plate01,B22,Plate04,A11,Alprenolol hydrochloride,Prestw-250,13707-88-5,C15H24ClNO2,['Cardiovascular'],"['Antianginal', 'Antiarrhythmic', 'Antihypertensive']"
+46,Plate01,B23,Plate03,A12,DMSO,nan,nan,nan,,
+47,Plate01,B24,Plate04,A12,DMSO,nan,nan,nan,,
+48,Plate01,C01,Plate01,B01,DMSO,nan,nan,nan,,
+49,Plate01,C02,Plate02,B01,DMSO,nan,nan,nan,,
+50,Plate01,C03,Plate01,B02,Meticrane,Prestw-11,1084-65-7,C10H13NO4S2,['Metabolism'],"['Antihypertensive', 'Diuretic']"
+51,Plate01,C04,Plate02,B02,Khellin,Prestw-91,82-02-0,C14H12O5,"['Cardiovascular', 'Gastroenterology', 'Respiratory']","['Antispastic', 'Antitussive', 'Vasodilator']"
+52,Plate01,C05,Plate01,B03,Benzonatate,Prestw-12,104-31-4,C30H53NO11,['Neuromuscular'],"['Antitussive', 'Local anesthetic']"
+53,Plate01,C06,Plate02,B03,Zimelidine dihydrochloride monohydrate,Prestw-92,61129-30-4,C16H21BrCl2N2O,['Central Nervous System'],['Antidepressant']
+54,Plate01,C07,Plate01,B04,Hydroflumethiazide,Prestw-13,135-09-1,C8H8F3N3O4S2,['Metabolism'],"['Antihypertensive', 'Diuretic']"
+55,Plate01,C08,Plate02,B04,Azacyclonol,Prestw-93,115-46-8,C18H21NO,['Central Nervous System'],['Antipsychotic']
+56,Plate01,C09,Plate01,B05,Sulfacetamide sodic hydrate,Prestw-14,6209-17-2,C8H11N2NaO4S,"['Dermatology', 'Infectiology', 'Metabolism']","['Antibacterial', 'Antipsoriatic']"
+57,Plate01,C10,Plate02,B05,Azathioprine,Prestw-94,446-86-6,C9H7N7O2S,['Oncology'],"['Antineoplastic', 'Immunosuppressant']"
+58,Plate01,C11,Plate01,B06,Heptaminol hydrochloride,Prestw-15,543-15-7,C8H20ClNO,['Cardiovascular'],"['Analeptic', 'Positive inotropic', 'Vasodilator']"
+59,Plate01,C12,Plate02,B06,Lynestrenol,Prestw-95,52-76-6,C20H28O,['Endocrinology'],['Contraceptive']
+60,Plate01,C13,Plate01,B07,Sulfathiazole,Prestw-16,72-14-0,C9H9N3O2S2,"['Infectiology', 'Metabolism']",['Antibacterial']
+61,Plate01,C14,Plate02,B07,Guanabenz acetate,Prestw-96,23256-50-0,C10H12Cl2N4O2,['Central Nervous System'],['Antihypertensive']
+62,Plate01,C15,Plate01,B08,Levodopa,Prestw-17,59-92-7,C9H11NO4,['Central Nervous System'],['Antiparkinsonian']
+63,Plate01,C16,Plate02,B08,Disulfiram,Prestw-97,97-77-8,C10H20N2S4,['Metabolism'],['Antabuse effect']
+64,Plate01,C17,Plate01,B09,Idoxuridine,Prestw-18,54-42-2,C9H11IN2O5,['Infectiology'],['Antiviral']
+65,Plate01,C18,Plate02,B09,Acetylsalicylsalicylic acid,Prestw-98,530-75-6,C16H12O6,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anticoagulant', 'Anti-inflammatory', 'Antipyretic']"
+66,Plate01,C19,Plate01,B10,Captopril,Prestw-19,62571-86-2,C9H15NO3S,['Cardiovascular'],"['Antihypertensive', 'Vasodilator']"
+67,Plate01,C20,Plate02,B10,Mianserine hydrochloride,Prestw-99,21535-47-7,C18H21ClN2,['Cardiovascular'],"['Antidepressant', 'Anxiolytic']"
+68,Plate01,C21,Plate01,B11,Minoxidil,Prestw-20,38304-91-5,C9H15N5O,['Cardiovascular'],"['Anti-alopecia', 'Antihypertensive', 'Vasodilator']"
+69,Plate01,C22,Plate02,B11,Nocodazole,Prestw-100,31430-18-9,C14H11N3O3S,['Oncology'],['Antineoplastic']
+70,Plate01,C23,Plate01,B12,DMSO,nan,nan,nan,,
+71,Plate01,C24,Plate02,B12,DMSO,nan,nan,nan,,
+72,Plate01,D01,Plate03,B01,DMSO,nan,nan,nan,,
+73,Plate01,D02,Plate04,B01,DMSO,nan,nan,nan,,
+74,Plate01,D03,Plate03,B02,Tranexamic acid,Prestw-171,1197-18-8,C8H15NO2,['Hematology'],['Hemostatic']
+75,Plate01,D04,Plate04,B02,Chlorothiazide,Prestw-251,58-94-6,C7H6ClN3O4S2,['Metabolism'],"['Antihypertensive', 'Diuretic']"
+76,Plate01,D05,Plate03,B03,Etofylline,Prestw-172,519-37-9,C9H12N4O3,"['Cardiovascular', 'Respiratory']","['Antispastic', 'Bronchodilator', 'Cardiotonic', 'Diuretic']"
+77,Plate01,D06,Plate04,B03,Diphenidol hydrochloride,Prestw-252,3254-89-5,C21H28ClNO,['Central Nervous System'],"['Antiemetic', 'Antivertigo']"
+78,Plate01,D07,Plate03,B04,Tranylcypromine hydrochloride,Prestw-173,1986-47-6,C9H12ClN,['Central Nervous System'],['Antidepressant']
+79,Plate01,D08,Plate04,B04,Norethindrone,Prestw-253,68-22-4,C20H26O2,['Endocrinology'],['Contraceptive']
+80,Plate01,D09,Plate03,B05,Alverine citrate salt,Prestw-174,5560-59-8,C26H35NO7,['Neuromuscular'],['Antispastic']
+81,Plate01,D10,Plate04,B05,Nortriptyline hydrochloride,Prestw-254,894-71-3,C19H22ClN,['Central Nervous System'],"['Antidepressant', 'CNS Stimulant']"
+82,Plate01,D11,Plate03,B06,Aceclofenac,Prestw-175,89796-99-6,C16H13Cl2NO4,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory']"
+83,Plate01,D12,Plate04,B06,Niflumic acid,Prestw-255,4394-00-7,C13H9F3N2O2,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+84,Plate01,D13,Plate03,B07,Iproniazide phosphate,Prestw-176,305-33-9,C9H16N3O5P,"['Cardiovascular', 'Central Nervous System']","['Antidepressant', 'Antihypertensive']"
+85,Plate01,D14,Plate04,B07,Isotretinoin,Prestw-256,4759-48-2,C20H28O2,['Dermatology'],['Keratolytic']
+86,Plate01,D15,Plate03,B08,Sulfamethoxazole,Prestw-177,723-46-6,C10H11N3O3S,"['Infectiology', 'Metabolism']",['Antibacterial']
+87,Plate01,D16,Plate04,B08,Retinoic acid ,Prestw-257,302-79-4,C20H28O2,['Dermatology'],['Keratolytic']
+88,Plate01,D17,Plate03,B09,Mephenesin,Prestw-178,59-47-2,C10H14O3,"['Central Nervous System', 'Neuromuscular']","['Anticonvulsant', 'Local anesthetic', 'Muscle relaxant']"
+89,Plate01,D18,Plate04,B09,Antazoline hydrochloride,Prestw-258,2508-72-7,C17H20ClN3,"['Allergology', 'Central Nervous System']","['Antihistaminic', 'Sedative']"
+90,Plate01,D19,Plate03,B10,Phenformin hydrochloride,Prestw-179,834-28-6,C10H16ClN5,['Endocrinology'],['Antidiabetic']
+91,Plate01,D20,Plate04,B10,Ethacrynic acid,Prestw-259,58-54-8,C13H12Cl2O4,['Metabolism'],['Diuretic']
+92,Plate01,D21,Plate03,B11,Flutamide,Prestw-180,13311-84-7,C11H11F3N2O3,['Oncology'],['Antineoplastic']
+93,Plate01,D22,Plate04,B11,Praziquantel,Prestw-260,55268-74-1,C19H24N2O2,['Infectiology'],['Antihelmintic']
+94,Plate01,D23,Plate03,B12,DMSO,nan,nan,nan,,
+95,Plate01,D24,Plate04,B12,DMSO,nan,nan,nan,,
+96,Plate01,E01,Plate01,C01,DMSO,nan,nan,nan,,
+97,Plate01,E02,Plate02,C01,DMSO,nan,nan,nan,,
+98,Plate01,E03,Plate01,C02,Sulfaphenazole,Prestw-21,526-08-9,C15H14N4O2S,"['Infectiology', 'Metabolism']",['Antibacterial']
+99,Plate01,E04,Plate02,C02,R(-) Apomorphine hydrochloride hemihydrate,Prestw-101,41372-20-7,C34H38Cl2N2O5,['Central Nervous System'],"['Antiparkinsonian', 'Emetic']"
+100,Plate01,E05,Plate01,C03,Panthenol (D),Prestw-22,81-13-0,C9H19NO4,['Metabolism'],['Anti-alopecia']
+101,Plate01,E06,Plate02,C03,Amoxapine,Prestw-102,14028-44-5,C17H16ClN3O,['Central Nervous System'],"['Antidepressant', 'Antipsychotic']"
+102,Plate01,E07,Plate01,C04,Sulfadiazine,Prestw-23,68-35-9,C10H10N4O2S,"['Infectiology', 'Metabolism']",['Antibacterial']
+103,Plate01,E08,Plate02,C04,Cyproheptadine hydrochloride,Prestw-103,969-33-5,C21H22ClN,"['Allergology', 'Central Nervous System']","['Antihistaminic', 'Antipruritic', 'Sedative']"
+104,Plate01,E09,Plate01,C05,Norethynodrel,Prestw-24,68-23-5,C20H26O2,['Endocrinology'],['Contraceptive']
+105,Plate01,E10,Plate02,C05,Famotidine,Prestw-104,76824-35-6,C8H15N7O2S3,['Gastroenterology'],['Antiulcer']
+106,Plate01,E11,Plate01,C06,Thiamphenicol,Prestw-25,15318-45-3,C12H15Cl2NO5S,"['Infectiology', 'Metabolism']",['Antibacterial']
+107,Plate01,E12,Plate02,C06,Danazol,Prestw-105,17230-88-5,C22H27NO2,['Endocrinology'],"['Anabolic', 'Antigonadotropin']"
+108,Plate01,E13,Plate01,C07,Cimetidine,Prestw-26,51481-61-9,C10H16N6S,['Gastroenterology'],['Antiulcer']
+109,Plate01,E14,Plate02,C07,Nicorandil,Prestw-106,65141-46-0,C8H9N3O4,['Cardiovascular'],"['Antianginal', 'Vasodilator']"
+110,Plate01,E15,Plate01,C08,Doxylamine succinate,Prestw-27,562-10-7,C21H28N2O5,"['Allergology', 'Central Nervous System']","['Anti-anorectic', 'Antiemetic', 'Antihistaminic', 'Antitussive', 'Sedative']"
+111,Plate01,E16,Plate02,C08,Pioglitazone,Prestw-1314,111025-46-8,C19H20N2O3S,"['Endocrinology', 'Metabolism']",[nan]
+112,Plate01,E17,Plate01,C09,Ethambutol dihydrochloride,Prestw-28,1070-11-7,C10H26Cl2N2O2,['Infectiology'],['Antibacterial']
+113,Plate01,E18,Plate02,C09,Nomifensine maleate,Prestw-108,32795-47-4,C20H22N2O4,['Central Nervous System'],['Antidepressant']
+114,Plate01,E19,Plate01,C10,Antipyrine,Prestw-29,60-80-0,C11H12N2O,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+115,Plate01,E20,Plate02,C10,Dizocilpine maleate,Prestw-109,77086-22-7,C20H19NO4,['Central Nervous System'],['Anticonvulsant']
+116,Plate01,E21,Plate01,C11,"Antipyrine, 4-hydroxy",Prestw-30,1672-63-5,C11H12N2O2,['Metabolism'],[nan]
+117,Plate01,E22,Plate02,C11,Oxandrolone,Prestw-1192,53-39-4,C19H30O3,['Endocrinology'],[nan]
+118,Plate01,E23,Plate01,C12,DMSO,nan,nan,nan,,
+119,Plate01,E24,Plate02,C12,DMSO,nan,nan,nan,,
+120,Plate01,F01,Plate03,C01,DMSO,nan,nan,nan,,
+121,Plate01,F02,Plate04,C01,DMSO,nan,nan,nan,,
+122,Plate01,F03,Plate03,C02,Ampyrone,Prestw-181,83-07-8,C11H13N3O,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anticoagulant', 'Anti-inflammatory', 'Antipyretic']"
+123,Plate01,F04,Plate04,C02,Ethisterone,Prestw-261,434-03-7,C21H28O2,['Endocrinology'],['Contraceptive']
+124,Plate01,F05,Plate03,C03,Levamisole hydrochloride,Prestw-182,16595-80-5,C11H13ClN2S,"['Immunology', 'Infectiology', 'Metabolism']","['Antihelmintic', 'Immunomodulator']"
+125,Plate01,F06,Plate04,C03,Triprolidine hydrochloride,Prestw-262,550-70-9,C19H23ClN2,"['Allergology', 'Central Nervous System']","['Antihistaminic', 'Sedative']"
+126,Plate01,F07,Plate03,C04,Pargyline hydrochloride,Prestw-183,306-07-0,C11H14ClN,"['Cardiovascular', 'Central Nervous System']","['Antidepressant', 'Antihypertensive']"
+127,Plate01,F08,Plate04,C04,Doxepin hydrochloride,Prestw-263,1229-29-4,C19H22ClNO,"['Allergology', 'Central Nervous System']","['Anticonvulsant', 'Antidepressant', 'Antipruritic', 'Antispastic', 'Muscle relaxant']"
+128,Plate01,F09,Plate03,C05,Methocarbamol,Prestw-184,532-03-6,C11H15NO5,['Central Nervous System'],"['Analgesic', 'Muscle relaxant']"
+129,Plate01,F10,Plate04,C05,Dyclonine hydrochloride,Prestw-264,536-43-6,C18H28ClNO2,['Neuromuscular'],['Local anesthetic']
+130,Plate01,F11,Plate03,C06,Aztreonam,Prestw-185,78110-38-0,C13H17N5O8S2,"['Infectiology', 'Metabolism']",['Antibacterial']
+131,Plate01,F12,Plate04,C06,Dimenhydrinate,Prestw-265,523-87-5,C24H28ClN5O3,"['Allergology', 'Central Nervous System']","['Antiemetic', 'Antihistaminic', 'Antivertigo']"
+132,Plate01,F13,Plate03,C07,Cloxacillin sodium salt,Prestw-186,642-78-4,C19H17ClN3NaO5S,"['Infectiology', 'Metabolism']",['Antibacterial']
+133,Plate01,F14,Plate04,C07,Disopyramide,Prestw-266,3737-09-5,C21H29N3O,['Cardiovascular'],['Antiarrhythmic']
+134,Plate01,F15,Plate03,C08,Catharanthine,Prestw-187,2468-21-5,C21H24N2O2,['Oncology'],['Antineoplastic']
+135,Plate01,F16,Plate04,C08,Clotrimazole,Prestw-267,23593-75-1,C22H17ClN2,['Infectiology'],"['Antibacterial', 'Antifungal']"
+136,Plate01,F17,Plate03,C09,Pentolinium bitartrate,Prestw-188,52-62-0,C23H42N2O12,['Cardiovascular'],['Antihypertensive']
+137,Plate01,F18,Plate04,C09,Vinpocetine,Prestw-268,42971-09-5,C22H26N2O2,"['Cardiovascular', 'Central Nervous System']","['CNS Stimulant', 'Neuroprotectant', 'Vasodilator']"
+138,Plate01,F19,Plate03,C10,"Aminopurine, 6-benzyl",Prestw-189,1214-39-7,C12H11N5,['Endocrinology'],[nan]
+139,Plate01,F20,Plate04,C10,Clomipramine hydrochloride,Prestw-269,17321-77-6,C19H24Cl2N2,['Central Nervous System'],['Antidepressant']
+140,Plate01,F21,Plate03,C11,Tolbutamide,Prestw-190,64-77-7,C12H18N2O3S,['Endocrinology'],['Antidiabetic']
+141,Plate01,F22,Plate04,C11,Fendiline hydrochloride,Prestw-270,13636-18-5,C23H26ClN,['Cardiovascular'],['Antianginal']
+142,Plate01,F23,Plate03,C12,DMSO,nan,nan,nan,,
+143,Plate01,F24,Plate04,C12,DMSO,nan,nan,nan,,
+144,Plate01,G01,Plate01,D01,DMSO,nan,nan,nan,,
+145,Plate01,G02,Plate02,D01,DMSO,nan,nan,nan,,
+146,Plate01,G03,Plate01,D02,Chloramphenicol,Prestw-31,56-75-7,C11H12Cl2N2O5,"['Infectiology', 'Metabolism']",['Antibacterial']
+147,Plate01,G04,Plate02,D02,Naloxone hydrochloride,Prestw-111,357-08-4,C19H22ClNO4,['Central Nervous System'],['Opioate antidote']
+148,Plate01,G05,Plate01,D03,Epirizole,Prestw-32,18694-40-1,C11H14N4O2,['Central Nervous System'],"['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+149,Plate01,G06,Plate02,D03,Metolazone,Prestw-112,17560-51-9,C16H16ClN3O3S,['Cardiovascular'],"['Antihypertensive', 'Diuretic']"
+150,Plate01,G07,Plate01,D04,Diprophylline,Prestw-33,479-18-5,C10H14N4O4,"['Cardiovascular', 'Respiratory']","['Analeptic', 'Antispastic', 'Bronchodilator', 'Diuretic']"
+151,Plate01,G08,Plate02,D04,Ciprofloxacin hydrochloride monohydrate,Prestw-113,93107-08-5,C17H21ClFN3O4,"['Infectiology', 'Metabolism']","['Antibacterial', 'Antiprotozoal']"
+152,Plate01,G09,Plate01,D05,Triamterene,Prestw-34,396-01-0,C12H11N7,['Metabolism'],"['Antihypertensive', 'Diuretic']"
+153,Plate01,G10,Plate02,D05,Ampicillin trihydrate,Prestw-114,7177-48-2,C16H25N3O7S,"['Infectiology', 'Metabolism']",['Antibacterial']
+154,Plate01,G11,Plate01,D06,Dapsone,Prestw-35,80-08-0,C12H12N2O2S,['Infectiology'],"['Antibacterial', 'Antimalarial']"
+155,Plate01,G12,Plate02,D06,Haloperidol,Prestw-115,52-86-8,C21H23ClFNO2,['Central Nervous System'],"['Antiemetic', 'Antipsychotic']"
+156,Plate01,G13,Plate01,D07,Troleandomycin,Prestw-36,2751-09-9,C41H67NO15,"['Infectiology', 'Metabolism']",['Antibacterial']
+157,Plate01,G14,Plate02,D07,Naltrexone hydrochloride dihydrate,Prestw-116,16676-29-2,C20H28ClNO6,['Central Nervous System'],['Analgesic']
+158,Plate01,G15,Plate01,D08,Pyrimethamine,Prestw-37,58-14-0,C12H13ClN4,['Infectiology'],"['Antimalarial', 'Antiprotozoal']"
+159,Plate01,G16,Plate02,D08,Chlorpheniramine maleate,Prestw-117,113-92-8,C20H23ClN2O4,"['Allergology', 'Central Nervous System']","['Antihistaminic', 'Antitussive', 'Sedative']"
+160,Plate01,G17,Plate01,D09,Hexamethonium dibromide dihydrate,Prestw-38,55-97-0,C12H34Br2N2O2,"['Cardiovascular', 'Neuromuscular']",['Antihypertensive']
+161,Plate01,G18,Plate02,D09,Nalbuphine hydrochloride,Prestw-118,23277-43-2,C21H28ClNO4,['Central Nervous System'],['Analgesic']
+162,Plate01,G19,Plate01,D10,Diflunisal,Prestw-39,22494-42-4,C13H8F2O3,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic', 'Uricosuric']"
+163,Plate01,G20,Plate02,D10,Picotamide monohydrate,Prestw-119,80530-63-8,C21H22N4O4,['Hematology'],"['Anticoagulant', 'Antiplatelet', 'Thrombolytic']"
+164,Plate01,G21,Plate01,D11,Niclosamide,Prestw-40,50-65-7,C13H8Cl2N2O4,['Infectiology'],['Antihelmintic']
+165,Plate01,G22,Plate02,D11,Triamcinolone,Prestw-120,124-94-7,C21H27FO6,"['Endocrinology', 'Immunology']","['Anti-inflammatory', 'Immunosuppressant']"
+166,Plate01,G23,Plate01,D12,DMSO,nan,nan,nan,,
+167,Plate01,G24,Plate02,D12,DMSO,nan,nan,nan,,
+168,Plate01,H01,Plate03,D01,DMSO,nan,nan,nan,,
+169,Plate01,H02,Plate04,D01,DMSO,nan,nan,nan,,
+170,Plate01,H03,Plate03,D02,Midodrine hydrochloride,Prestw-191,3092-17-9,C12H19ClN2O4,['Cardiovascular'],['Antihypertensive']
+171,Plate01,H04,Plate04,D02,Vincamine,Prestw-271,1617-90-9,C21H26N2O3,['Central Nervous System'],"['CNS Stimulant', 'Vasodilator']"
+172,Plate01,H05,Plate03,D03,Thalidomide,Prestw-192,50-35-1,C13H10N2O4,"['Central Nervous System', 'Immunology']","['Hypnotic', 'Immunosuppressant']"
+173,Plate01,H06,Plate04,D03,Indomethacin,Prestw-272,53-86-1,C19H16ClNO4,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic', 'Uricosuric']"
+174,Plate01,H07,Plate03,D04,Oxolinic acid,Prestw-193,14698-29-4,C13H11NO5,"['Metabolism', 'Infectiology']",['Antibacterial']
+175,Plate01,H08,Plate04,D04,Cortisone,Prestw-273,53-06-5,C21H28O5,"['Endocrinology', 'Metabolism']","['Anti-inflammatory', 'Immunosuppressant']"
+176,Plate01,H09,Plate03,D05,Nimesulide,Prestw-194,51803-78-2,C13H12N2O5S,['Metabolism'],['Anti-inflammatory']
+177,Plate01,H10,Plate04,D05,Prednisolone,Prestw-274,50-24-8,C21H28O5,"['Endocrinology', 'Immunology']","['Anti-inflammatory', 'Immunosuppressant']"
+178,Plate01,H11,Plate03,D06,Asenapine maleate,Prestw-1231,85650-56-2,C21H20ClNO5,['Central Nervous System'],['Antipsychotic']
+179,Plate01,H12,Plate04,D06,Fenofibrate,Prestw-275,49562-28-9,C20H21ClO4,['Metabolism'],"['Hypocholesterolemic', 'Lipid-lowering', 'Uricosuric']"
+180,Plate01,H13,Plate03,D07,Pentoxifylline,Prestw-196,6493-05-6,C13H18N4O3,"['Cardiovascular', 'Respiratory']","['Bronchodilator', 'Vasodilator']"
+181,Plate01,H14,Plate04,D07,Bumetanide,Prestw-276,28395-03-1,C17H20N2O5S,['Metabolism'],['Diuretic']
+182,Plate01,H15,Plate03,D08,Metaraminol bitartrate,Prestw-197,33402-03-8,C17H25NO14,['Cardiovascular'],"['Antihypotensive', 'Vasoconstrictor']"
+183,Plate01,H16,Plate04,D08,Labetalol hydrochloride,Prestw-277,32780-64-6,C19H25ClN2O3,['Cardiovascular'],['Antihypotensive']
+184,Plate01,H17,Plate03,D09,Salbutamol,Prestw-198,18559-94-9,C13H21NO3,"['Neuromuscular', 'Respiratory']","['Bronchodilator', 'Tocolytic']"
+185,Plate01,H18,Plate04,D09,Cinnarizine,Prestw-278,298-57-7,C26H28N2,"['Allergology', 'Central Nervous System']","['Antihistaminic', 'Antivertigo', 'Sedative', 'Vasodilator']"
+186,Plate01,H19,Plate03,D10,Prilocaine hydrochloride,Prestw-199,1786-81-8,C13H21ClN2O,['Neuromuscular'],['Local anesthetic']
+187,Plate01,H20,Plate04,D10,"Methylprednisolone, 6-alpha",Prestw-279,83-43-2,C22H30O5,['Endocrinology'],"['Anti-inflammatory', 'Immunosuppressant']"
+188,Plate01,H21,Plate03,D11,"Camptothecine (S,+)",Prestw-200,7689-03-4,C20H16N2O4,['Oncology'],['Antineoplastic']
+189,Plate01,H22,Plate04,D11,Quinidine hydrochloride monohydrate,Prestw-280,6151-40-2,C20H27ClN2O3,"['Cardiovascular', 'Infectiology']","['Antiarrhythmic', 'Antimalarial']"
+190,Plate01,H23,Plate03,D12,DMSO,nan,nan,nan,,
+191,Plate01,H24,Plate04,D12,DMSO,nan,nan,nan,,
+192,Plate01,I01,Plate01,E01,DMSO,nan,nan,nan,,
+193,Plate01,I02,Plate02,E01,DMSO,nan,nan,nan,,
+194,Plate01,I03,Plate01,E02,Procaine hydrochloride,Prestw-41,51-05-8,C13H21ClN2O2,['Neuromuscular'],['Local anesthetic']
+195,Plate01,I04,Plate02,E02,Bromocryptine mesylate,Prestw-121,22260-51-1,C33H44BrN5O8S,['Central Nervous System'],['Antiparkinsonian']
+196,Plate01,I05,Plate01,E03,Moxisylyte hydrochoride,Prestw-42,964-52-3,C16H26ClNO3,['Cardiovascular'],"['Erectile dysfunction treatment', 'Vasodilator']"
+197,Plate01,I06,Plate02,E03,Amfepramone hydrochloride,Prestw-1471,90-84-6,C13H20ClNO,['Central Nervous System'],[nan]
+198,Plate01,I07,Plate01,E04,Betazole hydrochloride,Prestw-43,138-92-1,C5H11Cl2N3,['Gastroenterology'],['Diagnostic']
+199,Plate01,I08,Plate02,E04,Dehydrocholic acid,Prestw-123,81-23-2,C24H34O5,"['Gastroenterology', 'Metabolism']",['Choleretic']
+200,Plate01,I09,Plate01,E05,Isoxicam,Prestw-44,34552-84-6,C14H13N3O5S,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+201,Plate01,I10,Plate02,E05,Tioconazole,Prestw-1184,65899-73-2,C16H13Cl3N2OS,"['Infectiology', 'Metabolism']",['Antifungal']
+202,Plate01,I11,Plate01,E06,Naproxen,Prestw-45,22204-53-1,C14H14O3,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+203,Plate01,I12,Plate02,E06,Perphenazine,Prestw-125,58-39-9,C21H26ClN3OS,['Central Nervous System'],"['Antiemetic', 'Antipsychotic']"
+204,Plate01,I13,Plate01,E07,Naphazoline hydrochloride,Prestw-46,550-99-2,C14H15ClN2,['Cardiovascular'],"['Nasal Decongestant', 'Vasoconstrictor']"
+205,Plate01,I14,Plate02,E07,Mefloquine hydrochloride,Prestw-126,51773-92-3,C17H17ClF6N2O,['Infectiology'],['Antimalarial']
+206,Plate01,I15,Plate01,E08,Ticlopidine hydrochloride,Prestw-47,53885-35-1,C14H15Cl2NS,['Hematology'],"['Anticoagulant', 'Antiplatelet']"
+207,Plate01,I16,Plate02,E08,Isoconazole,Prestw-127,27523-40-6,C18H14Cl4N2O,"['Infectiology', 'Metabolism']","['Antibacterial', 'Antifungal']"
+208,Plate01,I17,Plate01,E09,Dicyclomine hydrochloride,Prestw-48,67-92-5,C19H36ClNO2,['Gastroenterology'],['Antispastic']
+209,Plate01,I18,Plate02,E09,Spironolactone,Prestw-128,52-01-7,C24H32O4S,['Endocrinology'],['Diuretic']
+210,Plate01,I19,Plate01,E10,Amyleine hydrochloride,Prestw-49,532-59-2,C14H22ClNO2,['Neuromuscular'],['Local anesthetic']
+211,Plate01,I20,Plate02,E10,Pirenzepine dihydrochloride,Prestw-129,29868-97-1,C19H23Cl2N5O2,['Gastroenterology'],['Antiulcer']
+212,Plate01,I21,Plate01,E11,Lidocaine hydrochloride,Prestw-50,73-78-9,C14H23ClN2O,"['Cardiovascular', 'Neuromuscular']","['Antiarrhythmic', 'Local anesthetic']"
+213,Plate01,I22,Plate02,E11,Dexamethasone acetate,Prestw-130,1177-87-3,C24H31FO6,"['Endocrinology', 'Metabolism']","['Anti-inflammatory', 'Immunosuppressant']"
+214,Plate01,I23,Plate01,E12,DMSO,nan,nan,nan,,
+215,Plate01,I24,Plate02,E12,DMSO,nan,nan,nan,,
+216,Plate01,J01,Plate03,E01,DMSO,nan,nan,nan,,
+217,Plate01,J02,Plate04,E01,DMSO,nan,nan,nan,,
+218,Plate01,J03,Plate03,E02,Ranitidine hydrochloride,Prestw-201,66357-59-3,C13H23ClN4O3S,['Gastroenterology'],['Antiulcer']
+219,Plate01,J04,Plate04,E02,Fludrocortisone acetate,Prestw-281,514-36-3,C23H31FO6,"['Dermatology', 'Endocrinology']","['Anti-inflammatory', 'Antipruritic']"
+220,Plate01,J05,Plate03,E03,"Tiratricol, 3,3',5-triiodothyroacetic acid",Prestw-202,51-24-1,C14H9I3O4,['Endocrinology'],"['Antihypothyroid', 'Hypocholesterolemic']"
+221,Plate01,J06,Plate04,E03,Fenoterol hydrobromide,Prestw-282,1944-12-3,C17H22BrNO4,"['Neuromuscular', 'Respiratory']","['Bronchodilator', 'Tocolytic']"
+222,Plate01,J07,Plate03,E04,Flufenamic acid,Prestw-203,530-78-9,C14H10F3NO2,['Central Nervous System'],"['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+223,Plate01,J08,Plate04,E04,Homochlorcyclizine dihydrochloride,Prestw-283,1982-36-1,C19H25Cl3N2,"['Allergology', 'Central Nervous System']","['Antihistaminic', 'Sedative']"
+224,Plate01,J09,Plate03,E05,Flumequine,Prestw-204,42835-25-6,C14H12FNO3,"['Infectiology', 'Metabolism']",['Antibacterial']
+225,Plate01,J10,Plate04,E05,Diethylcarbamazine citrate,Prestw-284,1642-54-2,C16H29N3O8,"['Infectiology', 'Metabolism']",['Antihelmintic']
+226,Plate01,J11,Plate03,E06,Tolfenamic acid,Prestw-205,13710-19-5,C14H12ClNO2,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory']"
+227,Plate01,J12,Plate04,E06,Chenodiol,Prestw-285,474-25-9,C24H40O4,['Gastroenterology'],"['Cholagogue', 'Choleretic']"
+228,Plate01,J13,Plate03,E07,Meclofenamic acid sodium salt monohydrate,Prestw-206,6385-02-0,C14H12Cl2NNaO3,['Central Nervous System'],"['Anti-inflammatory', 'Antipyretic']"
+229,Plate01,J14,Plate04,E07,Perhexiline maleate,Prestw-286,6724-53-4,C23H39NO4,['Cardiovascular'],['Antianginal']
+230,Plate01,J15,Plate03,E08,Tibolone,Prestw-1181,5630-53-5,C21H28O2,['Endocrinology'],[nan]
+231,Plate01,J16,Plate04,E08,Oxybutynin chloride,Prestw-287,1508-65-2,C22H32ClNO3,['Neuromuscular'],['Antispastic']
+232,Plate01,J17,Plate03,E09,Trimethoprim ,Prestw-208,738-70-5,C14H18N4O3,"['Infectiology', 'Metabolism']","['Antibacterial', 'Antimalarial']"
+233,Plate01,J18,Plate04,E09,Spiperone,Prestw-288,749-02-0,C23H26FN3O2,['Central Nervous System'],['Antipsychotic']
+234,Plate01,J19,Plate03,E10,Metoclopramide monohydrochloride,Prestw-209,7232-21-5,C14H23Cl2N3O2,['Central Nervous System'],['Antiemetic']
+235,Plate01,J20,Plate04,E10,Pyrilamine maleate,Prestw-289,59-33-6,C21H27N3O5,"['Allergology', 'Central Nervous System', 'Respiratory']","['Antihistaminic', 'Antipruritic', 'Antitussive', 'Sedative']"
+236,Plate01,J21,Plate03,E11,Fenbendazole,Prestw-210,43210-67-9,C15H13N3O2S,"['Infectiology', 'Metabolism']",['Antihelmintic']
+237,Plate01,J22,Plate04,E11,Sulfinpyrazone,Prestw-290,57-96-5,C23H20N2O3S,"['Hematology', 'Metabolism']","['Antiplatelet', 'Uricosuric']"
+238,Plate01,J23,Plate03,E12,DMSO,nan,nan,nan,,
+239,Plate01,J24,Plate04,E12,DMSO,nan,nan,nan,,
+240,Plate01,K01,Plate01,F01,DMSO,nan,nan,nan,,
+241,Plate01,K02,Plate02,F01,DMSO,nan,nan,nan,,
+242,Plate01,K03,Plate01,F02,Trichlorfon,Prestw-51,52-68-6,C4H8Cl3O4P,['Infectiology'],['Antiparasitic']
+243,Plate01,K04,Plate02,F02,Glipizide,Prestw-131,29094-61-9,C21H27N5O4S,['Endocrinology'],['Antidiabetic']
+244,Plate01,K05,Plate01,F03,Carbamazepine,Prestw-52,298-46-4,C15H12N2O,['Central Nervous System'],"['Analgesic', 'Anticonvulsant', 'Antidiuretic', 'Muscle relaxant']"
+245,Plate01,K06,Plate02,F03,Loxapine succinate,Prestw-132,27833-64-3,C22H24ClN3O5,['Central Nervous System'],"['Antipsychotic', 'Anxiolytic']"
+246,Plate01,K07,Plate01,F04,Triflupromazine hydrochloride,Prestw-53,1098-60-8,C18H20ClF3N2S,['Central Nervous System'],"['Antiemetic', 'Antipsychotic', 'Anxiolytic']"
+247,Plate01,K08,Plate02,F04,Hydroxyzine dihydrochloride,Prestw-133,2192-20-3,C21H29Cl3N2O2,"['Allergology', 'Central Nervous System']","['Antiemetic', 'Antihistaminic', 'Antipruritic', 'Anxiolytic', 'Sedative']"
+248,Plate01,K09,Plate01,F05,Mefenamic acid,Prestw-54,61-68-7,C15H15NO2,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+249,Plate01,K10,Plate02,F05,Diltiazem hydrochloride,Prestw-134,33286-22-5,C22H27ClN2O4S,"['Cardiovascular', 'Hematology', 'Metabolism']","['Antianginal', 'Antiarrhythmic', 'Antihypertensive', 'Antiplatelet', 'Diuretic', 'Vasodilator']"
+250,Plate01,K11,Plate01,F06,Acetohexamide,Prestw-55,968-81-0,C15H20N2O4S,['Endocrinology'],['Antidiabetic']
+251,Plate01,K12,Plate02,F06,Methotrexate,Prestw-135,59-05-2,C20H22N8O5,['Oncology'],['Antineoplastic']
+252,Plate01,K13,Plate01,F07,Sulpiride,Prestw-56,15676-16-1,C15H23N3O4S,['Central Nervous System'],"['Antidepressant', 'Antiemetic', 'Antipsychotic']"
+253,Plate01,K14,Plate02,F07,Astemizole,Prestw-136,68844-77-9,C28H31FN4O,['Allergology'],['Antihistaminic']
+254,Plate01,K15,Plate01,F08,Benoxinate hydrochloride,Prestw-57,5987-82-6,C17H29ClN2O3,['Neuromuscular'],['Local anesthetic']
+255,Plate01,K16,Plate02,F08,Clindamycin hydrochloride,Prestw-137,21462-39-5,C18H34Cl2N2O5S,"['Infectiology', 'Metabolism']",['Antibacterial']
+256,Plate01,K17,Plate01,F09,Oxethazaine,Prestw-58,126-27-2,C28H41N3O3,['Neuromuscular'],['Local anesthetic']
+257,Plate01,K18,Plate02,F09,Terfenadine,Prestw-138,50679-08-8,C32H41NO2,['Allergology'],"['Antihistaminic', 'Antipruritic']"
+258,Plate01,K19,Plate01,F10,Pheniramine maleate,Prestw-59,132-20-7,C20H24N2O4,"['Allergology', 'Central Nervous System']","['Antihistaminic', 'Antitussive', 'Sedative']"
+259,Plate01,K20,Plate02,F10,Cefotaxime sodium salt,Prestw-139,64485-93-4,C16H16N5NaO7S2,"['Infectiology', 'Metabolism']",['Antibacterial']
+260,Plate01,K21,Plate01,F11,Tolazoline hydrochloride,Prestw-60,59-97-2,C10H13ClN2,['Cardiovascular'],['Vasodilator']
+261,Plate01,K22,Plate02,F11,Tetracycline hydrochloride,Prestw-140,64-75-5,C22H25ClN2O8,"['Infectiology', 'Metabolism']",['Antibacterial']
+262,Plate01,K23,Plate01,F12,DMSO,nan,nan,nan,,
+263,Plate01,K24,Plate02,F12,DMSO,nan,nan,nan,,
+264,Plate01,L01,Plate03,F01,DMSO,nan,nan,nan,,
+265,Plate01,L02,Plate04,F01,DMSO,nan,nan,nan,,
+266,Plate01,L03,Plate03,F02,Piroxicam,Prestw-211,36322-90-4,C15H13N3O4S,"['Central Nervous System', 'Hematology', 'Metabolism']","['Analgesic', 'Anticoagulant', 'Anti-inflammatory', 'Antiplatelet', 'Antipyretic', 'Uricosuric']"
+267,Plate01,L04,Plate04,F02,Dantrolene sodium salt ,Prestw-291,14663-23-1,C14H9N4NaO5,['Neuromuscular'],['Muscle relaxant']
+268,Plate01,L05,Plate03,F03,Pyrantel tartrate,Prestw-212,33401-94-4,C15H20N2O6S,['Infectiology'],['Antihelmintic']
+269,Plate01,L06,Plate04,F03,Trazodone hydrochloride,Prestw-292,25332-39-2,C19H23Cl2N5O,['Central Nervous System'],['Antidepressant']
+270,Plate01,L07,Plate03,F04,Fenspiride hydrochloride,Prestw-213,5053-08-7,C15H21ClN2O2,['Respiratory'],"['Antitussive', 'Bronchodilator']"
+271,Plate01,L08,Plate04,F04,Glafenine hydrochloride,Prestw-293,65513-72-6,C19H18Cl2N2O4,['Metabolism'],['Analgesic']
+272,Plate01,L09,Plate03,F05,Gemfibrozil,Prestw-214,25812-30-0,C15H22O3,['Metabolism'],"['Hypocholesterolemic', 'Lipid-lowering']"
+273,Plate01,L10,Plate04,F05,Pimethixene maleate,Prestw-294,13187-06-9,C23H23NO4S,"['Allergology', 'Central Nervous System', 'Respiratory']","['Antihistaminic', 'Antitussive', 'Bronchodilator', 'Sedative']"
+274,Plate01,L11,Plate03,F06,Mefexamide hydrochloride,Prestw-215,3413-64-7,C15H25ClN2O3,['Central Nervous System'],['CNS Stimulant']
+275,Plate01,L12,Plate04,F06,Pergolide mesylate,Prestw-295,66104-23-2,C20H30N2O3S2,['Central Nervous System'],['Antiparkinsonian']
+276,Plate01,L13,Plate03,F07,Tiapride hydrochloride,Prestw-216,51012-33-0,C15H25ClN2O4S,['Central Nervous System'],"['Antiemetic', 'Antipsychotic', 'Anxiolytic', 'Sedative']"
+277,Plate01,L14,Plate04,F07,Acemetacin,Prestw-296,53164-05-9,C21H18ClNO6,['Metabolism'],['Anti-inflammatory']
+278,Plate01,L15,Plate03,F08,Mebendazole,Prestw-217,31431-39-7,C16H13N3O3,"['Infectiology', 'Metabolism']",['Antihelmintic']
+279,Plate01,L16,Plate04,F08,Benzydamine hydrochloride,Prestw-297,132-69-4,C19H24ClN3O,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+280,Plate01,L17,Plate03,F09,Fenbufen,Prestw-218,36330-85-5,C16H14O3,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+281,Plate01,L18,Plate04,F09,Fipexide hydrochloride,Prestw-298,34161-23-4,C20H22Cl2N2O4,['Central Nervous System'],"['Anti-fatigue', 'CNS Stimulant']"
+282,Plate01,L19,Plate03,F10,Ketoprofen,Prestw-219,22071-15-4,C16H14O3,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+283,Plate01,L20,Plate04,F10,Mifepristone,Prestw-299,84371-65-3,C29H35NO2,['Endocrinology'],['Abortifacient']
+284,Plate01,L21,Plate03,F11,Indapamide,Prestw-220,26807-65-8,C16H16ClN3O3S,['Metabolism'],"['Antihypertensive', 'Diuretic']"
+285,Plate01,L22,Plate04,F11,Diperodon hydrochloride,Prestw-300,537-12-2,C22H28ClN3O4,['Neuromuscular'],['Local anesthetic']
+286,Plate01,L23,Plate03,F12,DMSO,nan,nan,nan,,
+287,Plate01,L24,Plate04,F12,DMSO,nan,nan,nan,,
+288,Plate01,M01,Plate01,G01,DMSO,nan,nan,nan,,
+289,Plate01,M02,Plate02,G01,DMSO,nan,nan,nan,,
+290,Plate01,M03,Plate01,G02,Morantel tartrate,Prestw-61,26155-31-7,C16H22N2O6S,['Infectiology'],['Antihelmintic']
+291,Plate01,M04,Plate02,G02,Verapamil hydrochloride,Prestw-141,152-11-4,C27H39ClN2O4,['Cardiovascular'],['Antihypertensive']
+292,Plate01,M05,Plate01,G03,"Homatropine hydrobromide (R,S)",Prestw-62,51-56-9,C16H22BrNO3,"['Diagnostic', 'Ophthalmology']","['Antispastic', 'Mydriatic']"
+293,Plate01,M06,Plate02,G03,Dipyridamole,Prestw-142,58-32-2,C24H40N8O4,"['Cardiovascular', 'Hematology']","['Anticoagulant', 'Antiplatelet', 'Vasodilator']"
+294,Plate01,M07,Plate01,G04,Nifedipine,Prestw-63,21829-25-4,C17H18N2O6,['Cardiovascular'],"['Antianginal', 'Antihypertensive', 'Vasodilator']"
+295,Plate01,M08,Plate02,G04,Chlorhexidine,Prestw-143,55-56-1,C22H30Cl2N10,['Infectiology'],"['Antibacterial', 'Antiseptic']"
+296,Plate01,M09,Plate01,G05,Chlorpromazine hydrochloride,Prestw-64,69-09-0,C17H20Cl2N2S,"['Cardiovascular', 'Central Nervous System']","['Antiemetic', 'Antihypertensive', 'Antipsychotic']"
+297,Plate01,M10,Plate02,G05,Loperamide hydrochloride,Prestw-144,34552-83-5,C29H34Cl2N2O2,['Gastroenterology'],['Antidiarrheal']
+298,Plate01,M11,Plate01,G06,Diphenhydramine hydrochloride,Prestw-65,147-24-0,C17H22ClNO,"['Allergology', 'Central Nervous System']","['Antiemetic', 'Antihistaminic', 'Antitussive', 'Sedative']"
+299,Plate01,M12,Plate02,G06,Chlortetracycline hydrochloride,Prestw-145,64-72-2,C22H24Cl2N2O8,"['Infectiology', 'Metabolism']","['Antiamebic', 'Antibacterial']"
+300,Plate01,M13,Plate01,G07,Minaprine dihydrochloride,Prestw-66,25953-17-7,C17H24Cl2N4O,['Central Nervous System'],"['Anti-Alzheimer', 'Antidepressant']"
+301,Plate01,M14,Plate02,G07,Tamoxifen citrate,Prestw-146,54965-24-1,C32H37NO8,"['Endocrinology', 'Oncology']",['Antineoplastic']
+302,Plate01,M15,Plate01,G08,Miconazole,Prestw-67,22916-47-8,C18H14Cl4N2O,"['Infectiology', 'Metabolism']",['Antifungal']
+303,Plate01,M16,Plate02,G08,Nicergoline,Prestw-147,not available,C24H26BrN3O3,['Cardiovascular'],"['Anti-ischemic', 'Vasodilator']"
+304,Plate01,M17,Plate01,G09,Isoxsuprine hydrochloride,Prestw-68,579-56-6,C18H24ClNO3,['Cardiovascular'],['Vasodilator']
+305,Plate01,M18,Plate02,G09,Canrenoic acid potassium salt,Prestw-148,2181-04-6,C22H29KO4,['Endocrinology'],"['Antihypertensive', 'Diuretic']"
+306,Plate01,M19,Plate01,G10,Acebutolol hydrochloride,Prestw-69,34381-68-5,C18H29ClN2O4,['Cardiovascular'],"['Antianginal', 'Antiarrhythmic', 'Antihypertensive']"
+307,Plate01,M20,Plate02,G10,Thioproperazine dimesylate,Prestw-149,2347-80-0,C24H38N4O8S4,['Central Nervous System'],"['Antiemetic', 'Antipsychotic']"
+308,Plate01,M21,Plate01,G11,Tolnaftate,Prestw-70,2398-96-1,C19H17NOS,['Infectiology'],['Antifungal']
+309,Plate01,M22,Plate02,G11,Dihydroergotamine tartrate,Prestw-150,5989-77-5,C70H80N10O16,['Central Nervous System'],['Antimigraine']
+310,Plate01,M23,Plate01,G12,DMSO,nan,nan,nan,,
+311,Plate01,M24,Plate02,G12,DMSO,nan,nan,nan,,
+312,Plate01,N01,Plate03,G01,DMSO,nan,nan,nan,,
+313,Plate01,N02,Plate04,G01,DMSO,nan,nan,nan,,
+314,Plate01,N03,Plate03,G02,Norfloxacin,Prestw-221,70458-96-7,C16H18FN3O3,"['Infectiology', 'Metabolism']",['Antibacterial']
+315,Plate01,N04,Plate04,G02,Lisinopril,Prestw-301,83915-83-7,C21H35N3O7,['Cardiovascular'],"['Antihypertensive', 'Vasodilator']"
+316,Plate01,N05,Plate03,G03,Antimycin A,Prestw-222,1397-94-0,C28H40N2O9,"['Infectiology', 'Metabolism']","['Antibacterial', 'Antifungal']"
+317,Plate01,N06,Plate04,G03,Lincomycin hydrochloride,Prestw-302,859-18-7,C18H35ClN2O6S,"['Infectiology', 'Metabolism']",['Antibacterial']
+318,Plate01,N07,Plate03,G04,Xylometazoline hydrochloride,Prestw-223,1218-35-5,C16H25ClN2,['Cardiovascular'],"['Nasal Decongestant', 'Vasoconstrictor']"
+319,Plate01,N08,Plate04,G04,Telenzepine dihydrochloride,Prestw-303,147416-96-4,C19H24Cl2N4O2S,['Gastroenterology'],['Antiulcer']
+320,Plate01,N09,Plate03,G05,Oxymetazoline hydrochloride,Prestw-224,2315-02-8,C16H25ClN2O,['Respiratory'],"['Nasal Decongestant', 'Vasoconstrictor']"
+321,Plate01,N10,Plate04,G05,Econazole nitrate,Prestw-304,24169-02-6,C18H16Cl3N3O4,"['Infectiology', 'Metabolism']",['Antifungal']
+322,Plate01,N11,Plate03,G06,Nifenazone,Prestw-225,2139-47-1,C17H16N4O2,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+323,Plate01,N12,Plate04,G06,Bupivacaine hydrochloride ,Prestw-305,18010-40-7,C18H29ClN2O,['Neuromuscular'],['Local anesthetic']
+324,Plate01,N13,Plate03,G07,Griseofulvin,Prestw-226,126-07-8,C17H17ClO6,"['Infectiology', 'Metabolism']","['Antifungal', 'Anti-inflammatory']"
+325,Plate01,N14,Plate04,G07,Clemastine fumarate,Prestw-306,14976-57-9,C25H30ClNO5,"['Allergology', 'Central Nervous System']","['Antiemetic', 'Antihistaminic', 'Sedative']"
+326,Plate01,N15,Plate03,G08,Clemizole hydrochloride,Prestw-227,1163-36-6,C19H21Cl2N3,"['Allergology', 'Dermatology', 'Infectiology']","['Antibacterial', 'Antifungal', 'Antihistaminic', 'Antipruritic']"
+327,Plate01,N16,Plate04,G08,Oxytetracycline dihydrate,Prestw-307,6153-64-6,C22H28N2O11,"['Infectiology', 'Metabolism']",['Antibacterial']
+328,Plate01,N17,Plate03,G09,Tropicamide,Prestw-228,1508-75-4,C17H20N2O2,['Neuromuscular'],['Mydriatic']
+329,Plate01,N18,Plate04,G09,Pimozide,Prestw-308,2062-78-4,C28H29F2N3O,['Central Nervous System'],['Antipsychotic']
+330,Plate01,N19,Plate03,G10,Nefopam hydrochloride,Prestw-229,23327-57-3,C17H20ClNO,['Central Nervous System'],['Analgesic']
+331,Plate01,N20,Plate04,G10,Amodiaquin dihydrochloride dihydrate,Prestw-309,6398-98-7,C20H28Cl3N3O3,"['Infectiology', 'Metabolism']","['Anti-inflammatory', 'Antimalarial']"
+332,Plate01,N21,Plate03,G11,Phentolamine hydrochloride,Prestw-230,73-05-2,C17H20ClN3O,['Cardiovascular'],"['Antihypertensive', 'Vasodilator']"
+333,Plate01,N22,Plate04,G11,Mebeverine hydrochloride,Prestw-310,2753-45-9,C25H36ClNO5,['Neuromuscular'],['Antispastic']
+334,Plate01,N23,Plate03,G12,DMSO,nan,nan,nan,,
+335,Plate01,N24,Plate04,G12,DMSO,nan,nan,nan,,
+336,Plate01,O01,Plate01,H01,DMSO,nan,nan,nan,,
+337,Plate01,O02,Plate02,H01,DMSO,nan,nan,nan,,
+338,Plate01,O03,Plate01,H02,Todralazine hydrochloride,Prestw-71,3778-76-5,C11H13ClN4O2,['Cardiovascular'],['Antihypertensive']
+339,Plate01,O04,Plate02,H02,Erythromycin,Prestw-151,114-07-8,C37H67NO13,"['Infectiology', 'Metabolism']","['Antibacterial', 'Anti-inflammatory']"
+340,Plate01,O05,Plate01,H03,Imipramine hydrochloride,Prestw-72,113-52-0,C19H25ClN2,['Central Nervous System'],['Antidepressant']
+341,Plate01,O06,Plate02,H03,Chloroxine,Prestw-1474,773-76-2,C9H5Cl2NO,"['Dermatology', 'Metabolism']",[nan]
+342,Plate01,O07,Plate01,H04,Sulindac,Prestw-73,38194-50-2,C20H17FO3S,['Central Nervous System'],"['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+343,Plate01,O08,Plate02,H04,Didanosine,Prestw-153,69655-05-6,C10H12N4O3,"['Infectiology', 'Metabolism']",['Antiviral']
+344,Plate01,O09,Plate01,H05,Amitryptiline hydrochloride,Prestw-74,549-18-8,C20H24ClN,['Central Nervous System'],['Antidepressant']
+345,Plate01,O10,Plate02,H05,Josamycin,Prestw-154,16846-24-5,C42H69NO15,"['Infectiology', 'Metabolism']",['Antibacterial']
+346,Plate01,O11,Plate01,H06,Adiphenine hydrochloride,Prestw-75,50-42-0,C20H26ClNO2,['Neuromuscular'],['Antispastic']
+347,Plate01,O12,Plate02,H06,Paclitaxel,Prestw-155,33069-62-4,C47H51NO14,['Oncology'],['Antineoplastic']
+348,Plate01,O13,Plate01,H07,Dibucaine,Prestw-76,85-79-0,C20H29N3O2,['Neuromuscular'],['Local anesthetic']
+349,Plate01,O14,Plate02,H07,Ivermectin,Prestw-156,70288-86-7,C48H74O14,"['Infectiology', 'Metabolism']","['Antihelmintic', 'Antiparasitic']"
+350,Plate01,O15,Plate01,H08,Prednisone,Prestw-77,53-03-2,C21H26O5,"['Dermatology', 'Endocrinology', 'Immunology']","['Anti-inflammatory', 'Antipruritic', 'Immunosuppressant']"
+351,Plate01,O16,Plate02,H08,Gallamine triethiodide,Prestw-157,65-29-2,C30H60I3N3O3,['Neuromuscular'],['Muscle relaxant']
+352,Plate01,O17,Plate01,H09,Thioridazine hydrochloride,Prestw-78,130-61-0,C21H27ClN2S2,['Central Nervous System'],['Antipsychotic']
+353,Plate01,O18,Plate02,H09,Neomycin sulfate,Prestw-158,1405-10-3,C23H48N6O17S,"['Infectiology', 'Metabolism']",['Antibacterial']
+354,Plate01,O19,Plate01,H10,Diphemanil methylsulfate,Prestw-79,62-97-5,C21H27NO4S,['Gastroenterology'],"['Antispastic', 'Antiulcer']"
+355,Plate01,O20,Plate02,H10,Dihydrostreptomycin sulfate,Prestw-159,5490-27-7,C42H88N14O36S3,"['Infectiology', 'Metabolism']",['Antibacterial']
+356,Plate01,O21,Plate01,H11,Trimethobenzamide hydrochloride,Prestw-80,554-92-7,C21H29ClN2O5,['Central Nervous System'],['Antiemetic']
+357,Plate01,O22,Plate02,H11,Gentamicine sulfate,Prestw-160,1405-41-0,C60H125N15O25S,"['Infectiology', 'Metabolism']",['Antibacterial']
+358,Plate01,O23,Plate01,H12,DMSO,nan,nan,nan,,
+359,Plate01,O24,Plate02,H12,DMSO,nan,nan,nan,,
+360,Plate01,P01,Plate03,H01,DMSO,nan,nan,nan,,
+361,Plate01,P02,Plate04,H01,DMSO,nan,nan,nan,,
+362,Plate01,P03,Plate03,H02,Etodolac,Prestw-231,41340-25-4,C17H21NO3,"['Central Nervous System', 'Hematology']","['Analgesic', 'Anti-inflammatory', 'Antiplatelet', 'Antipyretic']"
+363,Plate01,P04,Plate04,H02,Ifenprodil tartrate,Prestw-311,23210-58-4,C25H33NO8,['Cardiovascular'],['Vasodilator']
+364,Plate01,P05,Plate03,H03,Scopolamin-N-oxide hydrobromide,Prestw-232,6106-81-6,C17H22BrNO5,['Neuromuscular'],"['Antispastic', 'Mydriatic']"
+365,Plate01,P06,Plate04,H03,Flunarizine dihydrochloride,Prestw-312,30484-77-6,C26H28Cl2F2N2,['Central Nervous System'],"['Anticonvulsant', 'Vasodilator']"
+366,Plate01,P07,Plate03,H04,Hyoscyamine (L) ,Prestw-233,101-31-5,C17H23NO3,"['Central Nervous System', 'Ophthalmology']","['Antiemetic', 'Antispastic', 'Mydriatic']"
+367,Plate01,P08,Plate04,H04,Trifluoperazine dihydrochloride,Prestw-313,440-17-5,C21H26Cl2F3N3S,['Central Nervous System'],"['Antiemetic', 'Antipsychotic']"
+368,Plate01,P09,Plate03,H05,Chlorphensin carbamate,Prestw-234,886-74-8,C10H12ClNO4,['Central Nervous System'],['Muscle relaxant']
+369,Plate01,P10,Plate04,H05,Enalapril maleate,Prestw-314,76095-16-4,C24H32N2O9,['Cardiovascular'],['Antihypertensive']
+370,Plate01,P11,Plate03,H06,Carmofur,Prestw-1771,61422-45-5,C11H16FN3O3,['Metabolism'],['Antineoplastic']
+371,Plate01,P12,Plate04,H06,Minocycline hydrochloride,Prestw-315,13614-98-7,C23H28ClN3O7,"['Infectiology', 'Metabolism']",['Antibacterial']
+372,Plate01,P13,Plate03,H07,Dilazep dihydrochloride,Prestw-236,20153-98-4,C31H46Cl2N2O10,"['Cardiovascular', 'Hematology']","['Antiplatelet', 'Vasodilator']"
+373,Plate01,P14,Plate04,H07,Glibenclamide,Prestw-316,10238-21-8,C23H28ClN3O5S,['Endocrinology'],['Antidiabetic']
+374,Plate01,P15,Plate03,H08,Ofloxacin,Prestw-237,82419-36-1,C18H20FN3O4,"['Infectiology', 'Metabolism']",['Antibacterial']
+375,Plate01,P16,Plate04,H08,Guanethidine sulfate ,Prestw-317,60-02-6,C20H46N8O4S,"['Central Nervous System', 'Diagnostic']","['Antihypertensive', 'Local anesthetic']"
+376,Plate01,P17,Plate03,H09,Lomefloxacin hydrochloride,Prestw-238,98079-52-8,C17H20ClF2N3O3,"['Infectiology', 'Metabolism']",['Antibacterial']
+377,Plate01,P18,Plate04,H09,Quinacrine dihydrochloride hydrate,Prestw-318,69-05-6,C23H36Cl3N3O3,"['Infectiology', 'Metabolism']","['Antihelmintic', 'Antileishmanial', 'Antimalarial', 'Antiparasitic', 'Antiprotozoal', 'Antitrichomonal']"
+378,Plate01,P19,Plate03,H10,Orphenadrine hydrochloride,Prestw-239,341-69-5,C18H24ClNO,"['Allergology', 'Central Nervous System']","['Antihistaminic', 'Antiparkinsonian']"
+379,Plate01,P20,Plate04,H10,Clofilium tosylate,Prestw-319,92953-10-1,C28H44ClNO3S,['Cardiovascular'],['Antiarrhythmic']
+380,Plate01,P21,Plate03,H11,Proglumide,Prestw-240,6620-60-6,C18H26N2O4,['Gastroenterology'],['Antiulcer']
+381,Plate01,P22,Plate04,H11,Fluphenazine dihydrochloride,Prestw-320,146-56-5,C22H28Cl2F3N3OS,['Central Nervous System'],['Antipsychotic']
+382,Plate01,P23,Plate03,H12,DMSO,nan,nan,nan,,
+383,Plate01,P24,Plate04,H12,DMSO,nan,nan,nan,,
+384,Plate02,A01,Plate05,A01,DMSO,nan,nan,nan,,
+385,Plate02,A02,Plate06,A01,DMSO,nan,nan,nan,,
+386,Plate02,A03,Plate05,A02,Streptomycin sulfate,Prestw-321,3810-74-0,C42H84N14O36S3,"['Infectiology', 'Metabolism']",['Antibacterial']
+387,Plate02,A04,Plate06,A02,Testosterone propionate,Prestw-401,57-85-2,C22H32O3,['Endocrinology'],['Anabolic']
+388,Plate02,A05,Plate05,A03,Alfuzosin hydrochloride,Prestw-322,81403-68-1,C19H28ClN5O4,['Cardiovascular'],['Vasodilator']
+389,Plate02,A06,Plate06,A03,Haloprogin,Prestw-1269,777-11-7,C9H4Cl3IO,['Central Nervous System'],"['Anesthetic', 'Antifungal']"
+390,Plate02,A07,Plate05,A04,Chlorpropamide,Prestw-323,94-20-2,C10H13ClN2O3S,['Endocrinology'],['Antidiabetic']
+391,Plate02,A08,Plate06,A04,Thyroxine (L),Prestw-403,51-48-9,C15H11I4NO4,"['Endocrinology', 'Metabolism']","['Antihypothyroid', 'Antilipemic', 'Hypocholesterolemic', 'Lipid-lowering']"
+392,Plate02,A09,Plate05,A05,Phenylpropanolamine hydrochloride,Prestw-324,154-41-6,C9H14ClNO,['Respiratory'],"['Antihypotensive', 'Nasal Decongestant', 'Vasoconstrictor']"
+393,Plate02,A10,Plate06,A05,Idebenone,Prestw-1288,58186-27-9,C19H30O5,['Oncology'],['Antineoplastic']
+394,Plate02,A11,Plate05,A06,Ascorbic acid,Prestw-325,50-81-7,C6H8O6,['Metabolism'],"['Anti-oxidant', 'CNS Stimulant', 'Hemostatic']"
+395,Plate02,A12,Plate06,A06,Pepstatin A,Prestw-405,26305-03-3,C34H63N5O9,"['Infectiology', 'Metabolism']",['Antiviral']
+396,Plate02,A13,Plate05,A07,"Methyldopa (L,-)",Prestw-326,555-30-6,C10H13NO4,"['Cardiovascular', 'Central Nervous System']",['Antihypertensive']
+397,Plate02,A14,Plate06,A07,"Morpholinoethylamino-3-benzocyclohepta-(5,6-c)-pyridazine dihydrochloride",Prestw-406,115767-94-7,C19H26Cl2N4O,[nan],[nan]
+398,Plate02,A15,Plate05,A08,Cefoperazone dihydrate,Prestw-327,not available,C25H31N9O10S2,"['Infectiology', 'Metabolism']",['Antibacterial']
+399,Plate02,A16,Plate06,A08,Adamantamine fumarate,Prestw-407,80789-67-9,C24H38N2O4,['Infectiology'],['Antiviral']
+400,Plate02,A17,Plate05,A09,Zoxazolamine,Prestw-328,61-80-3,C7H5ClN2O,"['Metabolism', 'Neuromuscular']","['Antigout', 'Muscle relaxant', 'Uricosuric']"
+401,Plate02,A18,Plate06,A09,Butoconazole nitrate,Prestw-408,32872-77-1,C19H18Cl3N3O3S,"['Infectiology', 'Metabolism']","['Antibacterial', 'Antifungal']"
+402,Plate02,A19,Plate05,A10,Tacrine hydrochloride,Prestw-329,1684-40-8,C13H15ClN2,['Central Nervous System'],['CNS Stimulant']
+403,Plate02,A20,Plate06,A10,Amiodarone hydrochloride,Prestw-409,19774-82-4,C25H30ClI2NO3,['Cardiovascular'],"['Antianginal', 'Antiarrhythmic']"
+404,Plate02,A21,Plate05,A11,Bisoprolol fumarate,Prestw-330,104344-23-2,C40H66N2O12,['Cardiovascular'],"['Antianginal', 'Antiarrhythmic', 'Antihypertensive']"
+405,Plate02,A22,Plate06,A11,Amphotericin B,Prestw-410,1397-89-3,C47H73NO17,['Infectiology'],"['Antibacterial', 'Antifungal']"
+406,Plate02,A23,Plate05,A12,DMSO,nan,nan,nan,,
+407,Plate02,A24,Plate06,A12,DMSO,nan,nan,nan,,
+408,Plate02,B01,Plate07,A01,DMSO,nan,nan,nan,,
+409,Plate02,B02,Plate08,A01,DMSO,nan,nan,nan,,
+410,Plate02,B03,Plate07,A02,Serotonin hydrochloride,Prestw-481,153-98-0,C10H13ClN2O,"['Central Nervous System', 'Endocrinology']",['CNS Stimulant']
+411,Plate02,B04,Plate08,A02,Ziprasidone  Hydrochloride,Prestw-1188,138982-67-9,C21H22Cl2N4OS,['Central Nervous System'],['Antipsychotic']
+412,Plate02,B05,Plate07,A03,Cefotiam hydrochloride,Prestw-482,61622-34-2,C18H24ClN9O4S3,"['Infectiology', 'Metabolism']",['Antibacterial']
+413,Plate02,B06,Plate08,A03,Mevastatin,Prestw-1441,73573-88-3,C23H34O5,['Cardiovascular'],['Hypocholesterolemic']
+414,Plate02,B07,Plate07,A04,Rofecoxib,Prestw-1336,162011-90-7,C17H14O4S,['Metabolism'],['Anti-inflammatory']
+415,Plate02,B08,Plate08,A04,Pyridostigmine iodide,Prestw-1322,4685-03-4,C9H13IN2O2,['Central Nervous System'],[nan]
+416,Plate02,B09,Plate07,A05,Benperidol,Prestw-484,2062-84-2,C22H24FN3O2,['Central Nervous System'],['Antipsychotic']
+417,Plate02,B10,Plate08,A05,Pentobarbital,Prestw-1491,76-74-4,C11H18N2O3,['Central Nervous System'],"['Anesthetic', 'Hypnotic', 'Sedative']"
+418,Plate02,B11,Plate07,A06,Cefaclor hydrate,Prestw-485,70356-03-5,C15H16ClN3O5S,"['Infectiology', 'Metabolism']",['Antibacterial']
+419,Plate02,B12,Plate08,A06,Atropine sulfate monohydrate,Prestw-565,5908-99-6,C34H50N2O11S,['Ophthalmology'],"['Antispastic', 'Mydriatic']"
+420,Plate02,B13,Plate07,A07,Colistin sulfate,Prestw-486,1264-72-8,C52H100N16O17S,['Infectiology'],['Antibacterial']
+421,Plate02,B14,Plate08,A07,Eserine hemisulfate salt,Prestw-566,64-47-1,C30H44N6O8S,"['Central Nervous System', 'Neuromuscular', 'Ophthalmology']",['Antiglaucoma']
+422,Plate02,B15,Plate07,A08,Daunorubicin hydrochloride,Prestw-487,23541-50-6,C27H30ClNO10,"['Infectiology', 'Oncology']","['Antibacterial', 'Antineoplastic']"
+423,Plate02,B16,Plate08,A08,Itraconazole,Prestw-1139,84625-61-6,C35H38Cl2N8O4,"['Infectiology', 'Metabolism']",['Antifungal']
+424,Plate02,B17,Plate07,A09,Dosulepin hydrochloride,Prestw-488,897-15-4,C19H22ClNS,['Central Nervous System'],"['Antidepressant', 'CNS Stimulant']"
+425,Plate02,B18,Plate08,A09,Acarbose,Prestw-1174,56180-94-0,C25H43NO18,['Endocrinology'],['Antidiabetic']
+426,Plate02,B19,Plate07,A10,Ceftazidime pentahydrate,Prestw-489,78439-06-2,C22H32N6O12S2,"['Infectiology', 'Metabolism']",['Antibacterial']
+427,Plate02,B20,Plate08,A10,Entacapone,Prestw-1403,130929-57-6,C14H15N3O5,['Central Nervous System'],['Antiparkinsonian']
+428,Plate02,B21,Plate07,A11,Iobenguane sulfate,Prestw-490,103346-16-3,C8H12IN3O4S,['Oncology'],['Antineoplastic']
+429,Plate02,B22,Plate08,A11,Nicotinamide,Prestw-1449,98-92-0,C6H6N2O,['Dermatology'],[nan]
+430,Plate02,B23,Plate07,A12,DMSO,nan,nan,nan,,
+431,Plate02,B24,Plate08,A12,DMSO,nan,nan,nan,,
+432,Plate02,C01,Plate05,B01,DMSO,nan,nan,nan,,
+433,Plate02,C02,Plate06,B01,DMSO,nan,nan,nan,,
+434,Plate02,C03,Plate05,B02,Tremorine dihydrochloride,Prestw-331,51-73-0,C12H22Cl2N2,['Central Nervous System'],['CNS Stimulant']
+435,Plate02,C04,Plate06,B02,Androsterone,Prestw-411,53-41-8,C19H30O2,['Endocrinology'],['Anabolic']
+436,Plate02,C05,Plate05,B03,Practolol,Prestw-332,6673-35-4,C14H22N2O3,['Cardiovascular'],"['Antianginal', 'Antihypertensive']"
+437,Plate02,C06,Plate06,B03,Amifostine,Prestw-1489,20537-88-6,C5H15N2O3PS,['Diagnostic'],[nan]
+438,Plate02,C07,Plate05,B04,"Zidovudine, AZT",Prestw-333,30516-87-1,C10H13N5O4,"['Infectiology', 'Metabolism']",['Antiviral']
+439,Plate02,C08,Plate06,B04,Carbarsone,Prestw-413,121-59-5,C7H9AsN2O4,['Infectiology'],"['Antiamebic', 'Antiprotozoal']"
+440,Plate02,C09,Plate05,B05,Sulfisoxazole,Prestw-334,127-69-5,C11H13N3O3S,"['Infectiology', 'Metabolism']",['Antibacterial']
+441,Plate02,C10,Plate06,B05,Amlodipine,Prestw-1219,88150-42-9,C20H25ClN2O5,['Cardiovascular'],['Antihypertensive']
+442,Plate02,C11,Plate05,B06,Zaprinast,Prestw-335,37762-06-4,C13H13N5O2,['Cardiovascular'],['Erectile dysfunction treatment']
+443,Plate02,C12,Plate06,B06,Modafinil,Prestw-1147,68693-11-8,C15H15NO2S,['Central Nervous System'],['CNS Stimulant']
+444,Plate02,C13,Plate05,B07,Chlormezanone,Prestw-336,80-77-3,C11H12ClNO3S,"['Central Nervous System', 'Neuromuscular']","['Anxiolytic', 'Muscle relaxant']"
+445,Plate02,C14,Plate06,B07,Bacampicillin hydrochloride,Prestw-416,37661-08-8,C21H28ClN3O7S,"['Infectiology', 'Metabolism']",['Antibacterial']
+446,Plate02,C15,Plate05,B08,Procainamide hydrochloride,Prestw-337,614-39-1,C13H22ClN3O,"['Cardiovascular', 'Neuromuscular']","['Antiarrhythmic', 'Local anesthetic', 'Vasodilator']"
+447,Plate02,C16,Plate06,B08,Lamivudine,Prestw-1298,134678-17-4,C8H11N3O3S,"['Infectiology', 'Metabolism']",['Antiviral']
+448,Plate02,C17,Plate05,B09,N6-methyladenosine,Prestw-338,1867-73-8,C11H15N5O4,['Oncology'],['Antineoplastic']
+449,Plate02,C18,Plate06,B09,Biotin,Prestw-418,58-85-5,C10H16N2O3S,['Metabolism'],[nan]
+450,Plate02,C19,Plate05,B10,Guanfacine hydrochloride,Prestw-339,29110-48-3,C9H10Cl3N3O,"['Cardiovascular', 'Central Nervous System']",['Antihypertensive']
+451,Plate02,C20,Plate06,B10,Bisacodyl,Prestw-419,603-50-9,C22H19NO4,['Gastroenterology'],['Laxative']
+452,Plate02,C21,Plate05,B11,Domperidone,Prestw-340,57808-66-9,C22H24ClN5O2,['Central Nervous System'],['Antiemetic']
+453,Plate02,C22,Plate06,B11,Erlotinib,Prestw-1242,183321-74-6,C22H23N3O4,['Oncology'],['Antineoplastic']
+454,Plate02,C23,Plate05,B12,DMSO,nan,nan,nan,,
+455,Plate02,C24,Plate06,B12,DMSO,nan,nan,nan,,
+456,Plate02,D01,Plate07,B01,DMSO,nan,nan,nan,,
+457,Plate02,D02,Plate08,B01,DMSO,nan,nan,nan,,
+458,Plate02,D03,Plate07,B02,Metixene hydrochloride,Prestw-491,1553-34-0,C20H24ClNS,"['Central Nervous System', 'Neuromuscular']","['Antiparkinsonian', 'Antispastic']"
+459,Plate02,D04,Plate08,B02,Tetracaïne hydrochloride,Prestw-571,136-47-0,C15H25ClN2O2,['Neuromuscular'],[nan]
+460,Plate02,D05,Plate07,B03,Nitrofural,Prestw-492,59-87-0,C6H6N4O4,['Infectiology'],['Antibacterial']
+461,Plate02,D06,Plate08,B03,Mometasone furoate,Prestw-572,83919-23-7,C27H30Cl2O6,['Endocrinology'],['Anti-inflammatory']
+462,Plate02,D07,Plate07,B04,Omeprazole,Prestw-493,73590-58-6,C17H19N3O3S,['Gastroenterology'],['Antiulcer']
+463,Plate02,D08,Plate08,B04,Troglitazone,Prestw-1467,97322-87-7,C24H27NO5S,['Metabolism'],"['Antidiabetic', 'Anti-inflammatory']"
+464,Plate02,D09,Plate07,B05,Propylthiouracil,Prestw-494,51-52-5,C7H10N2OS,['Metabolism'],['Antihyperthyroid']
+465,Plate02,D10,Plate08,B05,Dacarbazine,Prestw-574,4342-03-4,C6H10N6O,['Oncology'],['Antineoplastic']
+466,Plate02,D11,Plate07,B06,Terconazole,Prestw-495,67915-31-5,C26H31Cl2N5O3,"['Infectiology', 'Metabolism']",['Antifungal']
+467,Plate02,D12,Plate08,B06,Tenatoprazole,Prestw-1351,113712-98-4,C16H18N4O3S,['Metabolism'],['Antiulcer']
+468,Plate02,D13,Plate07,B07,Tiaprofenic acid,Prestw-496,33005-95-7,C14H12O3S,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+469,Plate02,D14,Plate08,B07,Acetopromazine maleate salt,Prestw-576,3598-37-6,C23H26N2O5S,['Central Nervous System'],"['Antiemetic', 'Antipsychotic', 'Antitussive', 'Sedative']"
+470,Plate02,D15,Plate07,B08,Vancomycin hydrochloride,Prestw-497,1404-93-9,C66H76Cl3N9O24,"['Infectiology', 'Metabolism']",['Antibacterial']
+471,Plate02,D16,Plate08,B08,Escitalopram oxalate,Prestw-1271,128196-01-0,C22H23FN2O5,['Central Nervous System'],['Antidepressant']
+472,Plate02,D17,Plate07,B09,Artemisinin,Prestw-498,63968-64-9,C15H22O5,['Infectiology'],['Antimalarial']
+473,Plate02,D18,Plate08,B09,Ropinirole HCl,Prestw-1158,91374-20-8,C16H25ClN2O,['Central Nervous System'],['Antiparkinsonian']
+474,Plate02,D19,Plate07,B10,Propafenone hydrochloride,Prestw-499,34183-22-7,C21H28ClNO3,['Cardiovascular'],['Antiarrhythmic']
+475,Plate02,D20,Plate08,B10,Lacidipine,Prestw-1297,103890-78-4,C26H33NO6,['Cardiovascular'],['Antihypertensive']
+476,Plate02,D21,Plate07,B11,Ethamivan,Prestw-500,304-84-7,C12H17NO3,['Central Nervous System'],"['Analeptic', 'CNS stimulant']"
+477,Plate02,D22,Plate08,B11,Argatroban,Prestw-1228,74863-84-6,C23H36N6O5S,['Hematology'],['Anticoagulant']
+478,Plate02,D23,Plate07,B12,DMSO,nan,nan,nan,,
+479,Plate02,D24,Plate08,B12,DMSO,nan,nan,nan,,
+480,Plate02,E01,Plate05,C01,DMSO,nan,nan,nan,,
+481,Plate02,E02,Plate06,C01,DMSO,nan,nan,nan,,
+482,Plate02,E03,Plate05,C02,Furosemide,Prestw-341,54-31-9,C12H11ClN2O5S,['Metabolism'],"['Antihypertensive', 'Diuretic']"
+483,Plate02,E04,Plate06,C02,Suloctidil,Prestw-421,54063-56-8,C20H35NOS,['Neuromuscular'],"['Antiplatelet', 'Vasodilator']"
+484,Plate02,E05,Plate05,C03,Methapyrilene hydrochloride,Prestw-342,135-23-9,C14H20ClN3S,"['Allergology', 'Central Nervous System']","['Antihistaminic', 'Sedative']"
+485,Plate02,E06,Plate06,C03,Zotepine,Prestw-1368,26615-21-4,C18H18ClNOS,['Central Nervous System'],['Antipsychotic']
+486,Plate02,E07,Plate05,C04,Desipramine hydrochloride,Prestw-343,58-28-6,C18H23ClN2,['Central Nervous System'],"['Antidepressant', 'CNS Stimulant']"
+487,Plate02,E08,Plate06,C04,Carisoprodol,Prestw-423,78-44-4,C12H24N2O4,['Central Nervous System'],"['Analgesic', 'Antipyretic', 'Muscle relaxant', 'Sedative']"
+488,Plate02,E09,Plate05,C05,Clorgyline hydrochloride,Prestw-344,17780-75-5,C13H16Cl3NO,['Central Nervous System'],['Antidepressant']
+489,Plate02,E10,Plate06,C05,"Cephalosporanic acid, 7-amino",Prestw-424,957-68-6,C10H12N2O5S,"['Infectiology', 'Metabolism']",['Antibacterial']
+490,Plate02,E11,Plate05,C06,Clenbuterol hydrochloride,Prestw-345,21898-19-1,C12H19Cl3N2O,"['Neuromuscular', 'Respiratory']","['Antiasthmatic', 'Bronchodilator', 'Tocolytic']"
+491,Plate02,E12,Plate06,C06,Chicago sky blue 6B,Prestw-425,2610-05-1,C34H24N6Na4O16S4,['Central Nervous System'],[nan]
+492,Plate02,E13,Plate05,C07,Maprotiline hydrochloride,Prestw-346,10347-81-6,C20H24ClN,['Central Nervous System'],"['Antidepressant', 'Anxiolytic']"
+493,Plate02,E14,Plate06,C07,Buflomedil hydrochloride,Prestw-426,35543-24-9,C17H26ClNO4,['Cardiovascular'],['Vasodilator']
+494,Plate02,E15,Plate05,C08,Thioguanosine,Prestw-347,85-31-4,C10H13N5O4S,"['Metabolism', 'Oncology']",['Antineoplastic']
+495,Plate02,E16,Plate06,C08,Dibenzepine hydrochloride,Prestw-1393,315-80-0,C18H22ClN3O,['Central Nervous System'],['Antidepressant']
+496,Plate02,E17,Plate05,C09,Chlorprothixene hydrochloride,Prestw-348,6469-93-8,C18H19Cl2NS,['Central Nervous System'],"['Antiemetic', 'Antipsychotic']"
+497,Plate02,E18,Plate06,C09,Roxatidine Acetate HCl,Prestw-428,93793-83-0,C19H29ClN2O4,['Gastroenterology'],['Antiulcer']
+498,Plate02,E19,Plate05,C10,Ritodrine hydrochloride,Prestw-349,23239-51-2,C17H22ClNO3,['Neuromuscular'],['Tocolytic']
+499,Plate02,E20,Plate06,C10,Valacyclovir hydrochloride,Prestw-1505,124832-27-5,C13H21ClN6O4,"['Infectiology', 'Metabolism']",['Antiviral']
+500,Plate02,E21,Plate05,C11,Clozapine,Prestw-350,5786-21-0,C18H19ClN4,['Central Nervous System'],"['Antiparkinsonian', 'Antipsychotic']"
+501,Plate02,E22,Plate06,C11,Cisapride,Prestw-430,81098-60-4,C23H29ClFN3O4,['Gastroenterology'],['Gastroprokinetic']
+502,Plate02,E23,Plate05,C12,DMSO,nan,nan,nan,,
+503,Plate02,E24,Plate06,C12,DMSO,nan,nan,nan,,
+504,Plate02,F01,Plate07,C01,DMSO,nan,nan,nan,,
+505,Plate02,F02,Plate08,C01,DMSO,nan,nan,nan,,
+506,Plate02,F03,Plate07,C02,Vigabatrin,Prestw-501,60643-86-9,C6H11NO2,['Central Nervous System'],"['Anticonvulsant', 'Antiepileptic']"
+507,Plate02,F04,Plate08,C02,Reboxetine mesylate,Prestw-1328,98769-81-4,C20H27NO6S,['Central Nervous System'],['Antidepressant']
+508,Plate02,F05,Plate07,C03,Biperiden hydrochloride,Prestw-502,1235-82-1,C21H30ClNO,['Central Nervous System'],['Antiparkinsonian']
+509,Plate02,F06,Plate08,C03,Camylofine chlorhydrate,Prestw-1498,54-30-8,C19H34Cl2N2O2,[nan],[nan]
+510,Plate02,F07,Plate07,C04,Cetirizine dihydrochloride,Prestw-503,83881-52-1,C21H27Cl3N2O3,['Allergology'],"['Antihistaminic', 'Antipruritic']"
+511,Plate02,F08,Plate08,C04,Papaverine hydrochloride,Prestw-583,61-25-6,C20H22ClNO4,"['Cardiovascular', 'Gastroenterology', 'Respiratory']","['Antispastic', 'Antitussive', 'Erectile dysfunction treatment', 'Vasodilator']"
+512,Plate02,F09,Plate07,C05,Etifenin,Prestw-504,63245-28-3,C16H22N2O5,['Diagnostic'],['Chemosensitizer']
+513,Plate02,F10,Plate08,C05,Yohimbine hydrochloride,Prestw-584,65-19-0,C21H27ClN2O3,['Cardiovascular'],"['Erectile dysfunction treatment', 'Vasodilator']"
+514,Plate02,F11,Plate07,C06,"Metaproterenol sulfate, orciprenaline sulfate",Prestw-505,5874-97-5,C22H36N2O10S,['Respiratory'],['Bronchodilator']
+515,Plate02,F12,Plate08,C06,Voriconazole,Prestw-1500,137234-62-9,C16H14F3N5O,"['Infectiology', 'Metabolism']",['Antifungal']
+516,Plate02,F13,Plate07,C07,Sisomicin sulfate,Prestw-506,53179-09-2,C19H39N5O11S,"['Infectiology', 'Metabolism']",['Antibacterial']
+517,Plate02,F14,Plate08,C07,Alfacalcidol,Prestw-1211,41294-56-8,C27H44O2,['Metabolism'],['Antiosteoporetic']
+518,Plate02,F15,Plate07,C08,Sibutramine HCl,Prestw-1159,125494-59-9,C17H27Cl2N,['Central Nervous System'],[nan]
+519,Plate02,F16,Plate08,C08,Cilostazol,Prestw-587,73963-72-1,C20H27N5O2,['Hematology'],['Anticoagulant']
+520,Plate02,F17,Plate07,C09,Acenocoumarol,Prestw-110,152-72-7,C19H15NO6,['Hematology'],['Anticoagulant']
+521,Plate02,F18,Plate08,C09,Galanthamine hydrobromide,Prestw-588,1953-04-4,C17H22BrNO3,['Central Nervous System'],"['Analgesic', 'Anti-Alzheimer', 'Anti-fatigue']"
+522,Plate02,F19,Plate07,C10,Bromperidol,Prestw-509,10457-90-6,C21H23BrFNO2,['Central Nervous System'],['Antipsychotic']
+523,Plate02,F20,Plate08,C10,Azelastine HCl,Prestw-1130,79307-93-0,C22H25Cl2N3O,['Immunology'],['Antihistaminic']
+524,Plate02,F21,Plate07,C11,Cyclizine hydrochloride,Prestw-510,303-25-3,C18H23ClN2,"['Allergology', 'Central Nervous System']","['Antiemetic', 'Antihistaminic', 'Antivertigo', 'Sedative']"
+525,Plate02,F22,Plate08,C11,Etretinate,Prestw-1409,54350-48-0,C23H30O3,['Dermatology'],['Antipsoriatic']
+526,Plate02,F23,Plate07,C12,DMSO,nan,nan,nan,,
+527,Plate02,F24,Plate08,C12,DMSO,nan,nan,nan,,
+528,Plate02,G01,Plate05,D01,DMSO,nan,nan,nan,,
+529,Plate02,G02,Plate06,D01,DMSO,nan,nan,nan,,
+530,Plate02,G03,Plate05,D02,Chlorthalidone,Prestw-351,77-36-1,C14H11ClN2O4S,['Metabolism'],"['Antihypertensive', 'Diuretic']"
+531,Plate02,G04,Plate06,D02,Pefloxacine,Prestw-1303,70458-92-3,C17H20FN3O3,"['Infectiology', 'Metabolism']",['Antibacterial']
+532,Plate02,G05,Plate05,D03,Dobutamine hydrochloride,Prestw-352,49745-95-1,C18H24ClNO3,['Cardiovascular'],"['Analeptic', 'Cardiotonic', 'Positive inotropic']"
+533,Plate02,G06,Plate06,D03,Corticosterone,Prestw-432,50-22-6,C21H30O4,['Endocrinology'],"['Anti-inflammatory', 'Immunosuppressant']"
+534,Plate02,G07,Plate05,D04,Moclobemide,Prestw-353,71320-77-9,C13H17ClN2O2,['Central Nervous System'],['Antidepressant']
+535,Plate02,G08,Plate06,D04,Cyanocobalamin,Prestw-433,68-19-9,C63H88CoN14O14P,['Metabolism'],['Analgesic']
+536,Plate02,G09,Plate05,D05,Clopamide,Prestw-354,636-54-4,C14H20ClN3O3S,['Metabolism'],"['Antihypertensive', 'Diuretic']"
+537,Plate02,G10,Plate06,D05,Cefadroxil,Prestw-434,50370-12-2,C16H17N3O5S,"['Infectiology', 'Metabolism']",['Antibacterial']
+538,Plate02,G11,Plate05,D06,Hycanthone,Prestw-355,3105-97-3,C20H24N2O2S,['Infectiology'],"['Antihelmintic', 'Antiparasitic']"
+539,Plate02,G12,Plate06,D06,Cyclosporin A,Prestw-435,59865-13-3,C62H111N11O12,['Immunology'],['Immunosuppressant']
+540,Plate02,G13,Plate05,D07,Adenosine 5'-monophosphate monohydrate,Prestw-356,18422-05-4,C10H16N5O8P,"['Cardiovascular', 'Metabolism']",['Antiarrhythmic']
+541,Plate02,G14,Plate06,D07,Digitoxigenin,Prestw-436,143-62-4,C23H34O4,['Cardiovascular'],['Cardiotonic']
+542,Plate02,G15,Plate05,D08,Amoxicillin,Prestw-357,26787-78-0,C16H19N3O5S,"['Metabolism', 'Infectiology']",['Antibacterial']
+543,Plate02,G16,Plate06,D08,Digoxin,Prestw-437,20830-75-5,C41H64O14,['Cardiovascular'],['Cardiotonic']
+544,Plate02,G17,Plate05,D09,Pemirolast potassium,Prestw-1603,100299-08-9,C10H7KN6O,['Ophthalmology'],"['Anti-inflammatory', 'Antipruritic', 'Antihistaminic']"
+545,Plate02,G18,Plate06,D09,Doxorubicin hydrochloride,Prestw-438,25316-40-9,C27H30ClNO11,"['Infectiology', 'Oncology']","['Antibacterial', 'Antineoplastic', 'Immunosuppressant']"
+546,Plate02,G19,Plate05,D10,Dextromethorphan hydrobromide monohydrate,Prestw-359,6700-34-1,C18H28BrNO2,['Central Nervous System'],['Antitussive']
+547,Plate02,G20,Plate06,D10,Carbimazole,Prestw-439,22232-54-8,C7H10N2O2S,['Metabolism'],['Antihyperthyroid']
+548,Plate02,G21,Plate05,D11,Droperidol,Prestw-360,548-73-2,C22H22FN3O2,['Central Nervous System'],['Antipsychotic']
+549,Plate02,G22,Plate06,D11,Epiandrosterone,Prestw-440,481-29-8,C19H30O2,['Endocrinology'],['Anabolic']
+550,Plate02,G23,Plate05,D12,DMSO,nan,nan,nan,,
+551,Plate02,G24,Plate06,D12,DMSO,nan,nan,nan,,
+552,Plate02,H01,Plate07,D01,DMSO,nan,nan,nan,,
+553,Plate02,H02,Plate08,D01,DMSO,nan,nan,nan,,
+554,Plate02,H03,Plate07,D02,Fluoxetine hydrochloride,Prestw-511,59333-67-4,C17H19ClF3NO,['Central Nervous System'],['Antidepressant']
+555,Plate02,H04,Plate08,D02,Emedastine,Prestw-1274,87233-61-2,C25H34N4O9,['Allergology'],['Antihistaminic']
+556,Plate02,H05,Plate07,D03,Iohexol,Prestw-512,66108-95-0,C19H26I3N3O9,['Diagnostic'],['Contrastant']
+557,Plate02,H06,Plate08,D03,Etofenamate,Prestw-1407,30544-47-9,C18H18F3NO4,['Metabolism'],['Anti-inflammatory']
+558,Plate02,H07,Plate07,D04,Norcyclobenzaprine,Prestw-513,303-50-4,C19H19N,['Gastroenterology'],['Antiulcer']
+559,Plate02,H08,Plate08,D04,Zaleplon,Prestw-1369,151319-34-5,C17H15N5O,['Central Nervous System'],"['Hypnotic', 'Sedative']"
+560,Plate02,H09,Plate07,D05,Pyrazinamide,Prestw-514, 98-96-4,C5H5N3O,"['Infectiology', 'Metabolism']",['Antibacterial']
+561,Plate02,H10,Plate08,D05,Diclofenac sodium,Prestw-594,15307-79-6,C14H10Cl2NNaO2,"['Central Nervous System', 'Metabolism']",['Anti-inflammatory']
+562,Plate02,H11,Plate07,D06,Trimethadione,Prestw-515,127-48-0,C6H9NO3,['Central Nervous System'],"['Anticonvulsant', 'Antiepileptic']"
+563,Plate02,H12,Plate08,D06,Exemestane,Prestw-1410,107868-30-4,C20H24O2,"['Endocrinology', 'Oncology']",['Antineoplastic']
+564,Plate02,H13,Plate07,D07,Lovastatin,Prestw-516,75330-75-5,C24H36O5,['Metabolism'],['Hypocholesterolemic']
+565,Plate02,H14,Plate08,D07,Fomepizole,Prestw-1499,7554-65-6,C4H6N2,['Metabolism'],[nan]
+566,Plate02,H15,Plate07,D08,Nystatine,Prestw-517,1400-61-9,C47H75NO17,['Infectiology'],['Antifungal']
+567,Plate02,H16,Plate08,D08,Temozolomide,Prestw-1183,85622-93-1,C6H6N6O2,['Oncology'],['Antineoplastic']
+568,Plate02,H17,Plate07,D09,Budesonide,Prestw-518,51333-22-3,C25H34O6,['Endocrinology'],['Anti-inflammatory']
+569,Plate02,H18,Plate08,D09,Xylazine,Prestw-598,7361-61-7,C12H16N2S,['Central Nervous System'],"['Analgesic', 'Sedative']"
+570,Plate02,H19,Plate07,D10,Imipenem,Prestw-519,74431-23-5,C12H17N3O4S,"['Infectiology', 'Metabolism']",['Antibacterial']
+571,Plate02,H20,Plate08,D10,Celiprolol HCl,Prestw-1132,57470-78-7,C20H34ClN3O4,['Cardiovascular'],"['Antianginal', 'Antihypertensive']"
+572,Plate02,H21,Plate07,D11,Sulfasalazine,Prestw-520,599-79-1,C18H14N4O5S,"['Infectiology', 'Metabolism']","['Antibacterial', 'Anti-inflammatory']"
+573,Plate02,H22,Plate08,D11,Zopiclone,Prestw-1367,43200-80-2,C17H17ClN6O3,['Central Nervous System'],"['Hypnotic', 'Sedative']"
+574,Plate02,H23,Plate07,D12,DMSO,nan,nan,nan,,
+575,Plate02,H24,Plate08,D12,DMSO,nan,nan,nan,,
+576,Plate02,I01,Plate05,E01,DMSO,nan,nan,nan,,
+577,Plate02,I02,Plate06,E01,DMSO,nan,nan,nan,,
+578,Plate02,I03,Plate05,E02,Bambuterol hydrochloride,Prestw-361,81732-46-9,C18H30ClN3O5,"['Neuromuscular', 'Respiratory']","['Bronchodilator', 'Tocolytic']"
+579,Plate02,I04,Plate06,E02,Estradiol-17 beta,Prestw-441,50-28-2,C18H24O2,['Endocrinology'],['Antigonadotropin']
+580,Plate02,I05,Plate05,E03,Betamethasone,Prestw-362,378-44-9,C22H29FO5,['Endocrinology'],"['Anti-inflammatory', 'Antipruritic', 'Immunosuppressant']"
+581,Plate02,I06,Plate06,E03,Clobutinol hydrochloride,Prestw-1380,1215-83-4,C14H23Cl2NO,['Central Nervous System'],['Antitussive']
+582,Plate02,I07,Plate05,E04,Colchicine,Prestw-363,64-86-8,C22H25NO6,['Metabolism'],"['Antigout', 'Anti-inflammatory']"
+583,Plate02,I08,Plate06,E04,Gabazine bromide,Prestw-443,105538-73-6,C15H18BrN3O3,['Central Nervous System'],['CNS Stimulant']
+584,Plate02,I09,Plate05,E05,Metergoline,Prestw-364,17692-51-2,C25H29N3O2,['Central Nervous System'],['Antiprolactin']
+585,Plate02,I10,Plate06,E05,Oxcarbazepine,Prestw-1156,28721-07-5,C15H12N2O2,['Central Nervous System'],['Anticonvulsant']
+586,Plate02,I11,Plate05,E06,Brinzolamide,Prestw-365,138890-62-7,C12H21N3O5S3,['Metabolism'],"['Antiglaucoma', 'Diuretic']"
+587,Plate02,I12,Plate06,E06,Cyclobenzaprine hydrochloride,Prestw-445,6202-23-9,C20H22ClN,['Neuromuscular'],['Muscle relaxant']
+588,Plate02,I13,Plate05,E07,Ambroxol hydrochloride,Prestw-366,23828-92-4,C13H19Br2ClN2O,['Respiratory'],"['Expectorant', 'Mucolytic']"
+589,Plate02,I14,Plate06,E07,Carteolol hydrochloride,Prestw-446,51781-21-6,C16H25ClN2O3,"['Cardiovascular', 'Ophthalmology']","['Antiglaucoma', 'Antihypertensive']"
+590,Plate02,I15,Plate05,E08,Benfluorex,Prestw-367,23602-78-0,C19H20F3NO2,['Central Nervous System'],"['Anorectic', 'Antidiabetic', 'CNS Stimulant']"
+591,Plate02,I16,Plate06,E08,Hydrocortisone base,Prestw-447,50-23-7,C21H30O5,['Endocrinology'],['Anti-inflammatory']
+592,Plate02,I17,Plate05,E09,Bepridil hydrochloride ,Prestw-368,74764-40-2,C24H35ClN2O,['Cardiovascular'],"['Antianginal', 'Antiarrhythmic', 'Antihypotensive', 'Vasodilator']"
+593,Plate02,I18,Plate06,E09,"Hydroxytacrine maleate (R,S)",Prestw-448,118909-22-1,C17H18N2O5,['Central Nervous System'],['Anti-Alzheimer']
+594,Plate02,I19,Plate05,E10,Meloxicam,Prestw-369,71125-38-7,C14H13N3O4S2,['Metabolism'],['Anti-inflammatory']
+595,Plate02,I20,Plate06,E10,Pilocarpine nitrate,Prestw-449,148-72-1,C11H17N3O5,['Ophthalmology'],['Antiglaucoma']
+596,Plate02,I21,Plate05,E11,Benzbromarone,Prestw-370,3562-84-3,C17H12Br2O3,['Cardiovascular'],"['Antianginal', 'Antigout', 'Antispastic', 'Uricosuric', 'Vasodilator']"
+597,Plate02,I22,Plate06,E11,Dicloxacillin sodium salt hydrate,Prestw-450,13412-64-1,C19H18Cl2N3NaO6S,"['Infectiology', 'Metabolism']",['Antibacterial']
+598,Plate02,I23,Plate05,E12,DMSO,nan,nan,nan,,
+599,Plate02,I24,Plate06,E12,DMSO,nan,nan,nan,,
+600,Plate02,J01,Plate07,E01,DMSO,nan,nan,nan,,
+601,Plate02,J02,Plate08,E01,DMSO,nan,nan,nan,,
+602,Plate02,J03,Plate07,E02,Lofexidine,Prestw-1430,31036-80-3,C11H12Cl2N2O,['Cardiovascular'],['Antihypertensive']
+603,Plate02,J04,Plate08,E02,Tranilast,Prestw-1198,53902-12-8,C18H17NO5,['Allergology'],['Antiallergic']
+604,Plate02,J05,Plate07,E03,Thiostrepton,Prestw-522,1393-48-2,C72H85N19O18S5,['Infectiology'],['Antibacterial']
+605,Plate02,J06,Plate08,E03,Tizanidine HCl,Prestw-1182,51322-75-9,C9H9Cl2N5S,['Metabolism'],['Muscle relaxant']
+606,Plate02,J07,Plate07,E04,Miglitol,Prestw-1169,72432-03-2,C8H17NO5,"['Endocrinology', 'Metabolism']",['Antidiabetic']
+607,Plate02,J08,Plate08,E04,Zafirlukast,Prestw-1364,107753-78-6,C31H33N3O6S,['Respiratory'],['Antiasthmatic']
+608,Plate02,J09,Plate07,E05,Tiabendazole,Prestw-524,148-79-8,C10H7N3S,"['Infectiology', 'Metabolism']","['Antifungal', 'Antihelmintic', 'Antiparasitic']"
+609,Plate02,J10,Plate08,E05,Butenafine Hydrochloride,Prestw-1252,101828-21-1,C23H28ClN,"['Infectiology', 'Metabolism']",['Antifungal']
+610,Plate02,J11,Plate07,E06,Rifampicin,Prestw-525,13292-46-1,C43H58N4O12,"['Infectiology', 'Metabolism']",['Antibacterial']
+611,Plate02,J12,Plate08,E06,Carbadox,Prestw-1121,6804-07-5,C11H10N4O4,['Infectiology'],['Antibacterial']
+612,Plate02,J13,Plate07,E07,Ethionamide,Prestw-526,536-33-4,C8H10N2S,"['Infectiology', 'Metabolism']",['Antibacterial']
+613,Plate02,J14,Plate08,E07,Rimantadine Hydrochloride,Prestw-1331,13392-28-4,C12H22ClN,['Infectiology'],['Antiviral']
+614,Plate02,J15,Plate07,E08,Tenoxicam,Prestw-527,59804-37-4,C13H11N3O4S2,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+615,Plate02,J16,Plate08,E08,Eburnamonine (-),Prestw-607,4880-88-0,C19H22N2O,['Central Nervous System'],['Vasodilator']
+616,Plate02,J17,Plate07,E09,Triflusal,Prestw-528,322-79-2,C10H7F3O4,['Hematology'],"['Anticoagulant', 'Antiplatelet']"
+617,Plate02,J18,Plate08,E09,Oxibendazol,Prestw-1460,20559-55-1,C12H15N3O3,['Metabolism'],[nan]
+618,Plate02,J19,Plate07,E10,Mesoridazine besylate,Prestw-529,32672-69-8,C27H32N2O4S3,['Central Nervous System'],['Antipsychotic']
+619,Plate02,J20,Plate08,E10,Ipsapirone,Prestw-1292,95847-70-4,C19H23N5O3S,['Central Nervous System'],[nan]
+620,Plate02,J21,Plate07,E11,Trolox,Prestw-530,53188-07-1,C14H18O4,['Metabolism'],['Anti-oxidant']
+621,Plate02,J22,Plate08,E11,Hydroxychloroquine sulfate,Prestw-1284,747-36-4,C18H28ClN3O5S,['Metabolism'],['Antimalarial']
+622,Plate02,J23,Plate07,E12,DMSO,nan,nan,nan,,
+623,Plate02,J24,Plate08,E12,DMSO,nan,nan,nan,,
+624,Plate02,K01,Plate05,F01,DMSO,nan,nan,nan,,
+625,Plate02,K02,Plate06,F01,DMSO,nan,nan,nan,,
+626,Plate02,K03,Plate05,F02,Ketotifen fumarate,Prestw-371,34580-14-8,C23H23NO5S,['Allergology'],['Antihistaminic']
+627,Plate02,K04,Plate06,F02,Alizapride HCl,Prestw-451,59338-87-3,C16H22ClN5O2,['Central Nervous System'],['Antiemetic']
+628,Plate02,K05,Plate05,F03,Debrisoquin sulfate,Prestw-372,581-88-4,C20H28N6O4S,['Cardiovascular'],['Antihypertensive']
+629,Plate02,K06,Plate06,F03,Stanozolol,Prestw-1161,10418-03-8,C21H32N2O,['Endocrinology'],[nan]
+630,Plate02,K07,Plate05,F04,"Amethopterin (R,S)",Prestw-373,60388-53-6,C20H22N8O5,"['Immunology', 'Metabolism', 'Oncology']","['Anti-inflammatory', 'Antineoplastic', 'Immunosuppressant']"
+631,Plate02,K08,Plate06,F04,Calcipotriene,Prestw-1257,112965-21-6,C27H40O3,"['Dermatology', 'Metabolism']",['Antipsoriatic']
+632,Plate02,K09,Plate05,F05,Methylergometrine maleate,Prestw-374,57432-61-8,C24H29N3O6,['Neuromuscular'],"['Hemostatic', 'Oxytocic']"
+633,Plate02,K10,Plate06,F05,Linezolid,Prestw-1429,165800-03-3,C16H20FN3O4,"['Infectiology', 'Metabolism']",['Antibacterial']
+634,Plate02,K11,Plate05,F06,Methiothepin maleate,Prestw-375,19728-88-2,C24H28N2O4S2,['Central Nervous System'],['Antipsychotic']
+635,Plate02,K12,Plate06,F06,"Mebhydroline 1,5-naphtalenedisulfonate",Prestw-455,6153-33-9,C48H48N4O6S2,['Allergology'],['Antihistaminic']
+636,Plate02,K13,Plate05,F07,Clofazimine,Prestw-376,2030-63-9,C27H22Cl2N4,['Infectiology'],['Antibacterial']
+637,Plate02,K14,Plate06,F07,Meclocycline sulfosalicylate,Prestw-456,73816-42-9,C29H27ClN2O14S,"['Infectiology', 'Metabolism']",['Antibacterial']
+638,Plate02,K15,Plate05,F08,Nafronyl oxalate,Prestw-377,3200-06-4,C26H35NO7,"['Cardiovascular', 'Neuromuscular']","['Anti-ischemic', 'Antispastic', 'Vasodilator']"
+639,Plate02,K16,Plate06,F08,Meclozine dihydrochloride,Prestw-457,1104-22-9,C25H29Cl3N2,"['Allergology', 'Central Nervous System']","['Antiemetic', 'Antihistaminic', 'Sedative']"
+640,Plate02,K17,Plate05,F09,Bezafibrate,Prestw-378,41859-67-0,C19H20ClNO4,['Metabolism'],"['Antilipemic', 'Hypocholesterolemic', 'Lipid-lowering']"
+641,Plate02,K18,Plate06,F09,Melatonin,Prestw-458,73-31-4,C13H16N2O2,"['Central Nervous System', 'Endocrinology', 'Immunology']","['Anticonvulsant', 'Anti-oxidant', 'Immunostimulant']"
+642,Plate02,K19,Plate05,F10,Nefazodone HCl,Prestw-1152,82752-99-6,C25H33Cl2N5O2,['Central Nervous System'],['Antidepressant']
+643,Plate02,K20,Plate06,F10,Butalbital,Prestw-1251,77-26-9,C11H16N2O3,['Central Nervous System'],"['Hypnotic', 'Sedative']"
+644,Plate02,K21,Plate05,F11,Clebopride maleate,Prestw-380,84370-95-6,C24H28ClN3O6,['Central Nervous System'],"['Antiemetic', 'Antispastic']"
+645,Plate02,K22,Plate06,F11,Dinoprost trometamol,Prestw-460,38362-01-5,C24H45NO8,['Endocrinology'],['Oxytocic']
+646,Plate02,K23,Plate05,F12,DMSO,nan,nan,nan,,
+647,Plate02,K24,Plate06,F12,DMSO,nan,nan,nan,,
+648,Plate02,L01,Plate07,F01,DMSO,nan,nan,nan,,
+649,Plate02,L02,Plate08,F01,DMSO,nan,nan,nan,,
+650,Plate02,L03,Plate07,F02,Pirenperone,Prestw-531, 75444-65-4,C23H24FN3O2,['Central Nervous System'],[nan]
+651,Plate02,L04,Plate08,F02,Loracarbef,Prestw-1431,121961-22-6,C16H16ClN3O4,"['Infectiology', 'Metabolism']",['Antibacterial']
+652,Plate02,L05,Plate07,F03,"Isoquinoline, 6,7-dimethoxy-1-methyl-1,2,3,4-tetrahydro, hydrochloride",Prestw-532,2984-97-0,C12H18ClNO2,[nan],[nan]
+653,Plate02,L06,Plate08,F03,Fenipentol,Prestw-1501,583-03-9,C11H16O,['Metabolism'],['Choleretic']
+654,Plate02,L07,Plate07,F04,Phenacetin,Prestw-533,62-44-2,C10H13NO2,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Antipyretic']"
+655,Plate02,L08,Plate08,F04,Diosmin,Prestw-1503,520-27-4,C28H32O15,['Cardiovascular'],[nan]
+656,Plate02,L09,Plate07,F05,Atovaquone,Prestw-534,95233-18-4,C22H19ClO3,['Infectiology'],"['Antimalarial', 'Antiprotozoal']"
+657,Plate02,L10,Plate08,F05,Carbidopa,Prestw-1177,28860-95-9,C10H14N2O4,['Central Nervous System'],['Antiparkinsonian']
+658,Plate02,L11,Plate07,F06,Methoxamine hydrochloride,Prestw-535,61-16-5,C11H18ClNO3,['Cardiovascular'],"['Antihypotensive', 'Vasoconstrictor']"
+659,Plate02,L12,Plate08,F06,(-)-Emtricitabine,Prestw-1604,143491-57-0,C8H10FN3O3S,['Infectiology'],['Antiviral']
+660,Plate02,L13,Plate07,F07,(S)-(-)-Atenolol,Prestw-953,93379-54-5,C14H22N2O3,['Cardiovascular'],"['Antianginal', 'Antiarrhythmic', 'Antihypertensive']"
+661,Plate02,L14,Plate08,F07,Demecarium bromide,Prestw-616,56-94-0,C32H52Br2N4O4,['Ophthalmology'],['Antiglaucoma']
+662,Plate02,L15,Plate07,F08,Piracetam,Prestw-537,7491-74-9,C6H10N2O2,['Central Nervous System'],['CNS Stimulant']
+663,Plate02,L16,Plate08,F08,Quipazine dimaleate salt,Prestw-617,150323-78-7,C21H23N3O8,['Central Nervous System'],['Antiemetic']
+664,Plate02,L17,Plate07,F09,Phenindione,Prestw-538,83-12-5,C15H10O2,['Hematology'],['Anticoagulant']
+665,Plate02,L18,Plate08,F09,Acipimox,Prestw-1127,51037-30-0,C6H6N2O3,['Metabolism'],['Antilipemic']
+666,Plate02,L19,Plate07,F10,Thiocolchicoside,Prestw-539,602-41-5,C27H33NO10S,['Central Nervous System'],"['Antispastic', 'Muscle relaxant']"
+667,Plate02,L20,Plate08,F10,Diflorasone Diacetate,Prestw-619,33564-31-7,C26H32F2O7,['Endocrinology'],"['Anti-inflammatory', 'Antipruritic', 'Antipsoriatic']"
+668,Plate02,L21,Plate07,F11,Clorsulon,Prestw-540,60200-06-8,C8H8Cl3N3O4S2,"['Infectiology', 'Metabolism']",['Antihelmintic']
+669,Plate02,L22,Plate08,F11,Acamprosate calcium,Prestw-1502,77337-73-6,C10H20CaN2O8S2,"['Central Nervous System', 'Metabolism']",[nan]
+670,Plate02,L23,Plate07,F12,DMSO,nan,nan,nan,,
+671,Plate02,L24,Plate08,F12,DMSO,nan,nan,nan,,
+672,Plate02,M01,Plate05,G01,DMSO,nan,nan,nan,,
+673,Plate02,M02,Plate06,G01,DMSO,nan,nan,nan,,
+674,Plate02,M03,Plate05,G02,Lidoflazine,Prestw-381,3416-26-0,C30H35F2N3O,['Cardiovascular'],"['Antianginal', 'Antiarrhythmic', 'Vasodilator']"
+675,Plate02,M04,Plate06,G02,Tropisetron HCl,Prestw-461,105826-92-4,C17H21ClN2O2,['Central Nervous System'],['Antiemetic']
+676,Plate02,M05,Plate05,G03,Betaxolol hydrochloride,Prestw-382,63659-19-8,C18H30ClNO3,"['Cardiovascular', 'Ophthalmology']","['Antiglaucoma', 'Antihypertensive']"
+677,Plate02,M06,Plate06,G03,Cefixime,Prestw-462,79350-37-1,C16H15N5O7S2,"['Infectiology', 'Metabolism']",['Antibacterial']
+678,Plate02,M07,Plate05,G04,Nicardipine hydrochloride,Prestw-383,54527-84-3,C26H30ClN3O6,['Cardiovascular'],"['Antianginal', 'Antihypertensive']"
+679,Plate02,M08,Plate06,G04,Metrizamide,Prestw-463,31112-62-6,C18H22I3N3O8,['Diagnostic'],['Contrastant']
+680,Plate02,M09,Plate05,G05,Probucol,Prestw-384,23288-49-5,C31H48O2S2,['Metabolism'],"['Antilipemic', 'Hypocholesterolemic']"
+681,Plate02,M10,Plate06,G05,Quetiapine hemifumarate,Prestw-1323,111974-72-2,C46H54N6O8S2,['Central Nervous System'],['Antipsychotic']
+682,Plate02,M11,Plate05,G06,Mitoxantrone dihydrochloride,Prestw-385,70476-82-3,C22H30Cl2N4O6,['Oncology'],['Antineoplastic']
+683,Plate02,M12,Plate06,G06,Tosufloxacin hydrochloride,Prestw-1464,100490-36-6,C19H16ClF3N4O3,"['Infectiology', 'Metabolism']",['Antibacterial']
+684,Plate02,M13,Plate05,G07,GBR 12909 dihydrochloride,Prestw-386,67469-78-7,C28H34Cl2F2N2O,['Central Nervous System'],['Antidepressant']
+685,Plate02,M14,Plate06,G07,Efavirenz,Prestw-1400,154598-52-4,C14H9ClF3NO2,"['Infectiology', 'Metabolism']",['Antiviral']
+686,Plate02,M15,Plate05,G08,Carbetapentane citrate,Prestw-387,23142-01-0,C26H39NO10,"['Central Nervous System', 'Neuromuscular']","['Antispastic', 'Antitussive', 'Local anesthetic']"
+687,Plate02,M16,Plate06,G08,Rifapentine,Prestw-1157,61379-65-5,C47H64N4O12,"['Infectiology', 'Metabolism']",['Antibacterial']
+688,Plate02,M17,Plate05,G09,Dequalinium dichloride,Prestw-388,522-51-0,C30H40Cl2N4,['Infectiology'],"['Antibacterial', 'Antiseptic']"
+689,Plate02,M18,Plate06,G09,Neostigmine bromide,Prestw-468,114-80-7,C12H19BrN2O2,['Diagnostic'],['Anti-fatigue']
+690,Plate02,M19,Plate05,G10,Ketoconazole,Prestw-389,65277-42-1,C26H28Cl2N4O4,"['Infectiology', 'Metabolism']",['Antifungal']
+691,Plate02,M20,Plate06,G10,Niridazole,Prestw-469,61-57-4,C6H6N4O3S,"['Infectiology', 'Metabolism']","['Antihelmintic', 'Antiparasitic', 'Antiprotozoal']"
+692,Plate02,M21,Plate05,G11,Fusidic acid sodium salt,Prestw-390,751-94-0,C31H47NaO6,"['Infectiology', 'Metabolism']",['Antibacterial']
+693,Plate02,M22,Plate06,G11,Ceforanide,Prestw-470,60925-61-3,C20H21N7O6S2,"['Infectiology', 'Metabolism']",['Antibacterial']
+694,Plate02,M23,Plate05,G12,DMSO,nan,nan,nan,,
+695,Plate02,M24,Plate06,G12,DMSO,nan,nan,nan,,
+696,Plate02,N01,Plate07,G01,DMSO,nan,nan,nan,,
+697,Plate02,N02,Plate08,G01,DMSO,nan,nan,nan,,
+698,Plate02,N03,Plate07,G02,Ciclopirox ethanolamine,Prestw-541,41621-49-2,C14H24N2O3,"['Infectiology', 'Metabolism']","['Antibacterial', 'Antifungal']"
+699,Plate02,N04,Plate08,G02,Mizolastine,Prestw-1506,108612-45-9,C24H25FN6O,['Allergology'],[nan]
+700,Plate02,N05,Plate07,G03,Probenecid,Prestw-542,57-66-9,C13H19NO4S,['Metabolism'],"['Antigout', 'Uricosuric']"
+701,Plate02,N06,Plate08,G03,Amisulpride,Prestw-1217,71675-85-9,C17H27N3O4S,['Central Nervous System'],['Antipsychotic']
+702,Plate02,N07,Plate07,G04,Betahistine mesylate,Prestw-543,54856-23-4,C10H20N2O6S2,['Allergology'],['Vasodilator']
+703,Plate02,N08,Plate08,G04,Pyridoxine hydrochloride,Prestw-623,58-56-0,C8H12ClNO3,['Metabolism'],[nan]
+704,Plate02,N09,Plate07,G05,Tobramycin,Prestw-544,32986-56-4,C18H37N5O9,"['Infectiology', 'Metabolism']",['Antibacterial']
+705,Plate02,N10,Plate08,G05,Mercaptopurine,Prestw-1469,50-44-2,C5H4N4S,"['Immunology', 'Oncology']",['Immunosuppressant']
+706,Plate02,N11,Plate07,G06,Tetramisole hydrochloride,Prestw-545,5086-74-8,C11H13ClN2S,"['Immunology', 'Infectiology']","['Antihelmintic', 'Antiparasitic', 'Immunomodulator']"
+707,Plate02,N12,Plate08,G06,Cytarabine,Prestw-1134,147-94-4,C9H13N3O5,['Oncology'],['Antineoplastic']
+708,Plate02,N13,Plate07,G07,Pregnenolone,Prestw-546,145-13-1,C21H32O2,['Endocrinology'],"['Anabolic', 'Anti-inflammatory']"
+709,Plate02,N14,Plate08,G07,Racecadotril,Prestw-626,81110-73-8,C21H23NO4S,['Gastroenterology'],['Antidiarrheal']
+710,Plate02,N15,Plate07,G08,Molsidomine,Prestw-547,25717-80-0,C9H14N4O4,"['Cardiovascular', 'Hematology']","['Antianginal', 'Anticoagulant', 'Antiplatelet', 'Vasodilator']"
+711,Plate02,N16,Plate08,G08,Folic acid,Prestw-627,59-30-3,C19H19N7O6,['Metabolism'],[nan]
+712,Plate02,N17,Plate07,G09,Chloroquine diphosphate,Prestw-548,50-63-5,C18H32ClN3O8P2,['Metabolism'],"['Anti-inflammatory', 'Antimalarial', 'Antiprotozoal']"
+713,Plate02,N18,Plate08,G09,Benazepril HCl,Prestw-1129,86541-74-4,C24H29ClN2O5,['Cardiovascular'],['Antihypertensive']
+714,Plate02,N19,Plate07,G10,Trimetazidine dihydrochloride,Prestw-549,13171-25-0,C14H24Cl2N2O3,['Cardiovascular'],"['Antianginal', 'Anti-ischemic', 'Vasodilator']"
+715,Plate02,N20,Plate08,G10,Aniracetam,Prestw-1178,72432-10-1,C12H13NO3,['Central Nervous System'],['Anti-Alzheimer']
+716,Plate02,N21,Plate07,G11,Parthenolide,Prestw-550,20554-84-1,C15H20O3,['Metabolism'],"['Anti-inflammatory', 'Antispastic']"
+717,Plate02,N22,Plate08,G11,Dimethisoquin hydrochloride,Prestw-630,2773-92-4,C17H25ClN2O,['Neuromuscular'],"['Antipruritic', 'Local anesthetic']"
+718,Plate02,N23,Plate07,G12,DMSO,nan,nan,nan,,
+719,Plate02,N24,Plate08,G12,DMSO,nan,nan,nan,,
+720,Plate02,O01,Plate05,H01,DMSO,nan,nan,nan,,
+721,Plate02,O02,Plate06,H01,DMSO,nan,nan,nan,,
+722,Plate02,O03,Plate05,H02,Terbutaline hemisulfate,Prestw-391,23031-32-5,C24H40N2O10S,['Respiratory'],"['Antiasthmatic', 'Bronchodilator', 'Muscle relaxant']"
+723,Plate02,O04,Plate06,H02,Vatalanib,Prestw-1358,212141-54-3,C20H15ClN4,['Oncology'],['Antineoplastic']
+724,Plate02,O05,Plate05,H03,Ketanserin tartrate hydrate,Prestw-392,83846-83-7,C26H30FN3O10,['Cardiovascular'],"['Antihypertensive', 'Vasodilator']"
+725,Plate02,O06,Plate06,H03,Itopride,Prestw-1295,122898-67-3,C20H26N2O4,['Metabolism'],[nan]
+726,Plate02,O07,Plate05,H04,Hemicholinium bromide,Prestw-393,312-45-8,C24H34Br2N2O4,['Neuromuscular'],['Curarizing']
+727,Plate02,O08,Plate06,H04,Cefotetan,Prestw-473,69712-56-7,C17H17N7O8S4,"['Infectiology', 'Metabolism']",['Antibacterial']
+728,Plate02,O09,Plate05,H05,Kanamycin A sulfate,Prestw-394,25389-94-0,C18H38N4O15S,"['Infectiology', 'Metabolism']",['Antibacterial']
+729,Plate02,O10,Plate06,H05,Fentiazac,Prestw-1254,18046-21-4,C17H12ClNO2S,['Metabolism'],['Anti-inflammatory']
+730,Plate02,O11,Plate05,H06,Amikacin hydrate,Prestw-395,37517-28-5,C22H47N5O15,"['Infectiology', 'Metabolism']",['Antibacterial']
+731,Plate02,O12,Plate06,H06,Brompheniramine maleate,Prestw-475,980-71-2,C20H23BrN2O4,['Allergology'],"['Antihistaminic', 'Antipruritic', 'Antitussive', 'Sedative']"
+732,Plate02,O13,Plate05,H07,Etoposide,Prestw-396,33419-42-0,C29H32O13,['Oncology'],['Antineoplastic']
+733,Plate02,O14,Plate06,H07,Primaquine diphosphate,Prestw-476,63-45-6,C15H27N3O9P2,['Infectiology'],['Antimalarial']
+734,Plate02,O15,Plate05,H08,"Clomiphene citrate (Z,E)",Prestw-397,50-41-9,C32H36ClNO8,['Endocrinology'],[nan]
+735,Plate02,O16,Plate06,H08,Progesterone,Prestw-477,57-83-0,C21H30O2,['Endocrinology'],['Progestogen']
+736,Plate02,O17,Plate05,H09,Oxantel pamoate,Prestw-398,68813-55-8,C49H48N4O8,['Infectiology'],['Antihelmintic']
+737,Plate02,O18,Plate06,H09,Felodipine,Prestw-478,72509-76-3,C18H19Cl2NO4,['Neuromuscular'],"['Antianginal', 'Antihypertensive']"
+738,Plate02,O19,Plate05,H10,Prochlorperazine dimaleate,Prestw-399,84-02-6,C28H32ClN3O8S,['Central Nervous System'],"['Antiemetic', 'Antipsychotic']"
+739,Plate02,O20,Plate06,H10,Raclopride,Prestw-1325,84225-95-6,C15H20Cl2N2O3,['Central Nervous System'],[nan]
+740,Plate02,O21,Plate05,H11,Hesperidin ,Prestw-400,520-26-3,C28H34O15,['Oncology'],"['Anti-haemorrhoids', 'Antineoplastic', 'Anti-oxidant']"
+741,Plate02,O22,Plate06,H11,Closantel,Prestw-1385,57808-65-8,C22H14Cl2I2N2O2,"['Infectiology', 'Metabolism']","['Antihelmintic', 'Antiparasitic']"
+742,Plate02,O23,Plate05,H12,DMSO,nan,nan,nan,,
+743,Plate02,O24,Plate06,H12,DMSO,nan,nan,nan,,
+744,Plate02,P01,Plate07,H01,DMSO,nan,nan,nan,,
+745,Plate02,P02,Plate08,H01,DMSO,nan,nan,nan,,
+746,Plate02,P03,Plate07,H02,Hexetidine,Prestw-551,141-94-6,C21H45N3,['Infectiology'],"['Antifungal', 'Antiseptic']"
+747,Plate02,P04,Plate08,H02,Alendronate sodium,Prestw-1210,121268-17-5,C4H12NNaO7P2,['Metabolism'],['Antiosteoporetic']
+748,Plate02,P05,Plate07,H03,Selegiline hydrochloride,Prestw-552,14611-52-0,C13H18ClN,['Central Nervous System'],['Antiparkinsonian']
+749,Plate02,P06,Plate08,H03,Dipivefrin hydrochloride,Prestw-632,64019-93-8,C19H30ClNO5,['Ophthalmology'],['Antiglaucoma']
+750,Plate02,P07,Plate07,H04,Pentamidine isethionate,Prestw-553,140-64-7,C23H36N4O10S2,['Infectiology'],"['Antifungal', 'Antiparasitic', 'Antiprotozoal']"
+751,Plate02,P08,Plate08,H04,Thiorphan,Prestw-633,76721-89-6,C12H15NO3S,['Gastroenterology'],['Antidiarrheal']
+752,Plate02,P09,Plate07,H05,Tolazamide,Prestw-554,1156-19-0,C14H21N3O3S,['Metabolism'],['Antidiabetic']
+753,Plate02,P10,Plate08,H05,Tomoxetine hydrochloride,Prestw-1463,82248-59-7,C17H22ClNO,['Central Nervous System'],[nan]
+754,Plate02,P11,Plate07,H06,Nifuroxazide,Prestw-555,965-52-6,C12H9N3O5,"['Infectiology', 'Metabolism']",['Antibacterial']
+755,Plate02,P12,Plate08,H06,Aceclidine Hydrochloride,Prestw-1511,6109-70-2,C9H16ClNO2,['Ophthalmology'],['Antiglaucoma']
+756,Plate02,P13,Plate07,H07,Mirtazapine,Prestw-1144,61337-67-5,C17H19N3,['Central Nervous System'],['Antidepressant']
+757,Plate02,P14,Plate08,H07,Penciclovir,Prestw-1488,39809-25-1,C10H15N5O3,"['Infectiology', 'Metabolism']",['Antiviral']
+758,Plate02,P15,Plate07,H08,Dirithromycin,Prestw-557,62013-04-1,C42H78N2O14,"['Infectiology', 'Metabolism']",['Antibacterial']
+759,Plate02,P16,Plate08,H08,Levetiracetam,Prestw-1427,102767-28-2,C8H14N2O2,['Central Nervous System'],['Anticonvulsant']
+760,Plate02,P17,Plate07,H09,Gliclazide,Prestw-558,21187-98-4,C15H21N3O3S,['Metabolism'],"['Anticoagulant', 'Antidiabetic']"
+761,Plate02,P18,Plate08,H09,Dexfenfluramine hydrochloride,Prestw-1392,3239-45-0,C12H17ClF3N,['Central Nervous System'],['Anorectic']
+762,Plate02,P19,Plate07,H10,DO 897/99,Prestw-559,not available,C26H33Cl2N3O2,['Central Nervous System'],['Antidepressant']
+763,Plate02,P20,Plate08,H10,Etoricoxib,Prestw-1408,202409-33-4,C18H15ClN2O2S,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory']"
+764,Plate02,P21,Plate07,H11,Prenylamine lactate,Prestw-560,69-43-2,C27H33NO3,"['Cardiovascular', 'Central Nervous System']","['Antianginal', 'Anxiolytic', 'Vasodilator']"
+765,Plate02,P22,Plate08,H11,Sertindole,Prestw-1341,106516-24-9,C24H26ClFN4O,['Central Nervous System'],['Antipsychotic']
+766,Plate02,P23,Plate07,H12,DMSO,nan,nan,nan,,
+767,Plate02,P24,Plate08,H12,DMSO,nan,nan,nan,,
+768,Plate03,A01,Plate09,A01,DMSO,nan,nan,nan,,
+769,Plate03,A02,Plate10,A01,DMSO,nan,nan,nan,,
+770,Plate03,A03,Plate09,A02,Sulmazole,Prestw-641,73384-60-8,C14H13N3O2S,"['Cardiovascular', 'Metabolism']",['Cardiotonic']
+771,Plate03,A04,Plate10,A02,Althiazide,Prestw-721,5588-16-9,C11H14ClN3O4S3,['Metabolism'],"['Antihypertensive', 'Diuretic']"
+772,Plate03,A05,Plate09,A03,Gefitinib,Prestw-1270,184475-35-2,C22H24ClFN4O3,['Oncology'],['Antineoplastic']
+773,Plate03,A06,Plate10,A03,Isopyrin hydrochloride,Prestw-722,18342-39-7,C14H20ClN3O,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+774,Plate03,A07,Plate09,A04,Flunisolide,Prestw-643,3385-03-3,C24H31FO6,['Endocrinology'],['Anti-inflammatory']
+775,Plate03,A08,Plate10,A04,Phenethicillin potassium salt,Prestw-723,132-93-4,C17H19KN2O5S,"['Infectiology', 'Metabolism']",['Antibacterial']
+776,Plate03,A09,Plate09,A05,N-Acetyl-DL-homocysteine Thiolactone,Prestw-644,1195-16-0,C6H9NO2S,['Respiratory'],['Expectorant']
+777,Plate03,A10,Plate10,A05,Sulfamethoxypyridazine,Prestw-724,80-35-3,C11H12N4O3S,"['Infectiology', 'Metabolism']",['Antibacterial']
+778,Plate03,A11,Plate09,A06,Flurandrenolide,Prestw-645,1524-88-5,C24H33FO6,"['Dermatology', 'Endocrinology']","['Anti-inflammatory', 'Antipruritic']"
+779,Plate03,A12,Plate10,A06,Deferoxamine mesylate,Prestw-725,138-14-7,C26H52N6O11S,"['Diagnostic', 'Hematology']",['Chelating']
+780,Plate03,A13,Plate09,A07,Oxiconazole Nitrate,Prestw-1125,64211-46-7,C18H14Cl4N4O4,"['Infectiology', 'Metabolism']",['Antifungal']
+781,Plate03,A14,Plate10,A07,Mephentermine hemisulfate,Prestw-726,1212-72-2,C22H36N2O4S,['Cardiovascular'],"['Antihypotensive', 'Vasoconstrictor']"
+782,Plate03,A15,Plate09,A08,Rebamipide,Prestw-1166,90098-04-7,C19H15ClN2O4,['Metabolism'],['Antiulcer']
+783,Plate03,A16,Plate10,A08,Liranaftate,Prestw-1140,88678-31-3,C18H20N2O2S,"['Infectiology', 'Metabolism']",['Antifungal']
+784,Plate03,A17,Plate09,A09,Nilvadipine,Prestw-1154,75530-68-6,C19H19N3O6,['Cardiovascular'],"['Antianginal', 'Antihypertensive']"
+785,Plate03,A18,Plate10,A09,Sulfadimethoxine,Prestw-728,122-11-2,C12H14N4O4S,"['Infectiology', 'Metabolism']",['Antibacterial']
+786,Plate03,A19,Plate09,A10,Etanidazole,Prestw-649,22668-01-5,C7H10N4O4,['Oncology'],"['Antineoplastic', 'Chemosensitizer']"
+787,Plate03,A20,Plate10,A10,Sulfanilamide,Prestw-729,63-74-1,C6H8N2O2S,"['Infectiology', 'Metabolism']",['Antibacterial']
+788,Plate03,A21,Plate09,A11,Pinaverium bromide,Prestw-1601,53251-94-8,C26H41Br2NO4,['Neuromuscular'],['Antispastic']
+789,Plate03,A22,Plate10,A11,Balsalazide Sodium,Prestw-730,80573-04-2,C17H13N3Na2O6,['Gastroenterology'],['Anti-inflammatory']
+790,Plate03,A23,Plate09,A12,DMSO,nan,nan,nan,,
+791,Plate03,A24,Plate10,A12,DMSO,nan,nan,nan,,
+792,Plate03,B01,Plate11,A01,DMSO,nan,nan,nan,,
+793,Plate03,B02,Plate12,A01,DMSO,nan,nan,nan,,
+794,Plate03,B03,Plate11,A02,Carbinoxamine maleate salt,Prestw-801,3505-38-2,C20H23ClN2O5,"['Allergology', 'Metabolism']",['Antihistaminic']
+795,Plate03,B04,Plate12,A02,Niacin,Prestw-881,59-67-6,C6H5NO2,['Cardiovascular'],"['Antilipemic', 'Vasodilator']"
+796,Plate03,B05,Plate11,A03,Methazolamide,Prestw-802,554-57-4,C5H8N4O3S2,"['Metabolism', 'Ophthalmology']","['Antiglaucoma', 'Diuretic']"
+797,Plate03,B06,Plate12,A03,Bemegride,Prestw-882,64-65-3,C8H13NO2,"['Central Nervous System', 'Respiratory']",['CNS stimulant']
+798,Plate03,B07,Plate11,A04,Pyrithyldione,Prestw-803,77-04-3,C9H13NO2,['Central Nervous System'],"['Hypnotic', 'Sedative']"
+799,Plate03,B08,Plate12,A04,Digoxigenin,Prestw-883,1672-46-4,C23H34O5,['Diagnostic'],[nan]
+800,Plate03,B09,Plate11,A05,Spectinomycin dihydrochloride,Prestw-804,21736-83-4,C14H26Cl2N2O7,"['Metabolism', 'Infectiology']",['Antibacterial']
+801,Plate03,B10,Plate12,A05,Meglumine,Prestw-884,6284-40-8,C7H17NO5,"['Metabolism', 'Respiratory']","['Antileishmanial', 'Antiseptic', 'Expectorant']"
+802,Plate03,B11,Plate11,A06,Piromidic acid,Prestw-805,19562-30-2,C14H16N4O3,"['Metabolism', 'Infectiology']",['Antibacterial']
+803,Plate03,B12,Plate12,A06,Dolasetron mesilate,Prestw-1510,115956-13-3,C20H26N2O7S,['Central Nervous System'],['Antiemetic']
+804,Plate03,B13,Plate11,A07,Trimipramine maleate salt,Prestw-806,521-78-8,C24H30N2O4,['Central Nervous System'],['Antidepressant']
+805,Plate03,B14,Plate12,A07,Clioquinol,Prestw-886,130-26-7,C9H5ClINO,['Metabolism'],"['Antiamebic', 'Antifungal', 'Antiseptic']"
+806,Plate03,B15,Plate11,A08,Chloropyramine hydrochloride,Prestw-807,6170-42-9,C16H21Cl2N3,['Allergology'],['Antihistaminic']
+807,Plate03,B16,Plate12,A08,Oxybenzone,Prestw-887,131-57-7,C14H12O3,['Dermatology'],[nan]
+808,Plate03,B17,Plate11,A09,Furazolidone,Prestw-808,67-45-8,C8H7N3O5,['Metabolism'],[nan]
+809,Plate03,B18,Plate12,A09,Promethazine hydrochloride,Prestw-888,58-33-3,C17H21ClN2S,"['Allergology', 'Central Nervous System']","['Antihistaminic', 'Sedative']"
+810,Plate03,B19,Plate11,A10,Dichlorphenamide,Prestw-809,120-97-8,C6H6Cl2N2O4S2,['Ophthalmology'],['Antiglaucoma']
+811,Plate03,B20,Plate12,A10,Diacerein,Prestw-1167,13739-02-1,C19H12O8,['Immunology'],['Antiarthritic']
+812,Plate03,B21,Plate11,A11,Sulconazole nitrate,Prestw-810,61318-91-0,C18H16Cl3N3O3S,['Metabolism'],['Antifungal']
+813,Plate03,B22,Plate12,A11,Esmolol hydrochloride,Prestw-1137,81161-17-3,C16H26ClNO4,['Cardiovascular'],['Antiarrhythmic']
+814,Plate03,B23,Plate11,A12,DMSO,nan,nan,nan,,
+815,Plate03,B24,Plate12,A12,DMSO,nan,nan,nan,,
+816,Plate03,C01,Plate09,B01,DMSO,nan,nan,nan,,
+817,Plate03,C02,Plate10,B01,DMSO,nan,nan,nan,,
+818,Plate03,C03,Plate09,B02,Glimepiride,Prestw-651,93479-97-1,C24H34N4O5S,['Endocrinology'],['Antidiabetic']
+819,Plate03,C04,Plate10,B02,Sulfaquinoxaline sodium salt,Prestw-731,967-80-6,C14H11N4NaO2S,"['Infectiology', 'Metabolism']",['Antibacterial']
+820,Plate03,C05,Plate09,B03,Picrotoxinin,Prestw-652,17617-45-7,C15H16O6,['Central Nervous System'],['Analeptic']
+821,Plate03,C06,Plate10,B03,Streptozotocin,Prestw-732,18883-66-4,C8H15N3O7,['Oncology'],['Antineoplastic']
+822,Plate03,C07,Plate09,B04,Mepenzolate bromide,Prestw-653,76-90-4,C21H26BrNO3,['Neuromuscular'],"['Antispastic', 'Antiulcer']"
+823,Plate03,C08,Plate10,B04,"Metoprolol-(+,-) (+)-tartrate salt",Prestw-733,56392-17-7,C34H56N2O12,['Cardiovascular'],"['Antiarrhythmic', 'Antihypertensive']"
+824,Plate03,C09,Plate09,B05,Benfotiamine,Prestw-654,22457-89-2,C19H23N4O6PS,['Metabolism'],[nan]
+825,Plate03,C10,Plate10,B05,Flumethasone,Prestw-734,2135-17-3,C22H28F2O5,['Metabolism'],['Anti-inflammatory']
+826,Plate03,C11,Plate09,B06,Halcinonide,Prestw-655,3093-35-4,C24H32ClFO5,"['Dermatology', 'Endocrinology']","['Anti-inflammatory', 'Antipruritic']"
+827,Plate03,C12,Plate10,B06,Flecainide acetate,Prestw-735,54143-56-5,C19H24F6N2O5,['Cardiovascular'],['Antiarrhythmic']
+828,Plate03,C13,Plate09,B07,Lanatoside C,Prestw-656,17575-22-3,C49H76O20,['Cardiovascular'],['Cardiotonic']
+829,Plate03,C14,Plate10,B07,Cefazolin sodium salt,Prestw-736,27164-46-1,C14H13N8NaO4S3,"['Metabolism', 'Infectiology']",['Antibacterial']
+830,Plate03,C15,Plate09,B08,Benzamil hydrochloride,Prestw-657,2898-76-2,C13H15Cl2N7O,['Metabolism'],"['Antihypertensive', 'Diuretic']"
+831,Plate03,C16,Plate10,B08,Trimetozine,Prestw-1702,635-41-6,C14H19NO5,['Central Nervous System'],['Sedative']
+832,Plate03,C17,Plate09,B09,Suxibuzone,Prestw-658,27470-51-5,C24H26N2O6,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+833,Plate03,C18,Plate10,B09,Folinic acid calcium salt,Prestw-738,6035-45-6,C20H21CaN7O7,['Hematology'],['Antianemic']
+834,Plate03,C19,Plate09,B10,6-Furfurylaminopurine,Prestw-659,525-79-1,C10H9N5O,"['Dermatology', 'Metabolism']",[nan]
+835,Plate03,C20,Plate10,B10,Levonordefrin,Prestw-739,829-74-3,C9H13NO3,['Cardiovascular'],['Vasoconstrictor']
+836,Plate03,C21,Plate09,B11,Avermectin B1a,Prestw-660,71751-41-2,C48H72O14,['Infectiology'],['Antihelmintic']
+837,Plate03,C22,Plate10,B11,Ebselen,Prestw-740,60940-34-3,C13H9NOSe,['Metabolism'],['Anti-inflammatory']
+838,Plate03,C23,Plate09,B12,DMSO,nan,nan,nan,,
+839,Plate03,C24,Plate10,B12,DMSO,nan,nan,nan,,
+840,Plate03,D01,Plate11,B01,DMSO,nan,nan,nan,,
+841,Plate03,D02,Plate12,B01,DMSO,nan,nan,nan,,
+842,Plate03,D03,Plate11,B02,Auranofin,Prestw-1233,34031-32-8,C20H34AuO9PS,['Metabolism'],['Analgesic']
+843,Plate03,D04,Plate12,B02,Cortisol acetate,Prestw-1486,50-03-3,C23H32O6,['Metabolism'],['Anti-inflammatory']
+844,Plate03,D05,Plate11,B03,Cromolyn disodium salt,Prestw-812,15826-37-6,C23H14Na2O11,"['Allergology', 'Metabolism', 'Respiratory']","['Antiasthmatic', 'Anti-inflammatory']"
+845,Plate03,D06,Plate12,B03,Flubendazol,Prestw-1416,31430-15-6,C16H12FN3O3,['Metabolism'],[nan]
+846,Plate03,D07,Plate11,B04,Bucladesine sodium salt,Prestw-813,16980-89-5,C18H23N5NaO8P,['Cardiovascular'],[nan]
+847,Plate03,D08,Plate12,B04,Felbinac,Prestw-893,5728-52-9,C14H12O2,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory']"
+848,Plate03,D09,Plate11,B05,Cefsulodin sodium salt,Prestw-814,52152-93-9,C22H19N4NaO8S2,"['Metabolism', 'Infectiology']",['Antibacterial']
+849,Plate03,D10,Plate12,B05,Butylparaben,Prestw-894,94-26-8,C11H14O3,['Metabolism'],['Antifungal']
+850,Plate03,D11,Plate11,B06,Fosfosal,Prestw-815,6064-83-1,C7H7O6P,['Central Nervous System'],['Analgesic']
+851,Plate03,D12,Plate12,B06,Aminohippuric acid,Prestw-895,61-78-9,C9H10N2O3,['Diagnostic'],[nan]
+852,Plate03,D13,Plate11,B07,Suprofen,Prestw-816,40828-46-4,C14H12O3S,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory']"
+853,Plate03,D14,Plate12,B07,N-Acetyl-L-leucine,Prestw-896,1188-21-2,C8H15NO3,['Central Nervous System'],['Antivertigo']
+854,Plate03,D15,Plate11,B08,Deflazacort,Prestw-1509,14484-47-0,C25H31NO6,"['Immunology', 'Metabolism']","['Anti-inflammatory', 'Immunosuppressant']"
+855,Plate03,D16,Plate12,B08,Pipemidic acid,Prestw-897,51940-44-4,C14H17N5O3,"['Metabolism', 'Infectiology']",['Antibacterial']
+856,Plate03,D17,Plate11,B09,Nadolol,Prestw-818,42200-33-9,C17H27NO4,['Cardiovascular'],"['Antianginal', 'Antihypertensive']"
+857,Plate03,D18,Plate12,B09,Dioxybenzone,Prestw-898,131-53-3,C14H12O4,['Dermatology'],[nan]
+858,Plate03,D19,Plate11,B10,Moxalactam disodium salt,Prestw-819,64953-12-4,C20H18N6Na2O9S,"['Metabolism', 'Infectiology']",['Antibacterial']
+859,Plate03,D20,Plate12,B10,Adrenosterone,Prestw-899,382-45-6,C19H24O3,['Endocrinology'],[nan]
+860,Plate03,D21,Plate11,B11,Aminophylline,Prestw-820,317-34-0,C16H24N10O4,"['Cardiovascular', 'Central Nervous System', 'Metabolism', 'Respiratory']","['Bronchodilator', 'CNS Stimulant', 'Diuretic', 'Muscle relaxant', 'Vasodilator']"
+861,Plate03,D22,Plate12,B11,Methylatropine nitrate,Prestw-900,52-88-0,C18H26N2O6,"['Neuromuscular', 'Ophthalmology']","['Antispastic', 'Mydriatic']"
+862,Plate03,D23,Plate11,B12,DMSO,nan,nan,nan,,
+863,Plate03,D24,Plate12,B12,DMSO,nan,nan,nan,,
+864,Plate03,E01,Plate09,C01,DMSO,nan,nan,nan,,
+865,Plate03,E02,Plate10,C01,DMSO,nan,nan,nan,,
+866,Plate03,E03,Plate09,C02,Pranlukast,Prestw-1317,103177-37-3,C27H23N5O4,['Respiratory'],['Antiasthmatic']
+867,Plate03,E04,Plate10,C02,Nadide,Prestw-741,53-84-9,C21H27N7O14P2,['Metabolism'],[nan]
+868,Plate03,E05,Plate09,C03,"D,L-Penicillamine",Prestw-1477,52-66-4,C5H11NO2S,['Central Nervous System'],['Analgesic']
+869,Plate03,E06,Plate10,C03,Sulfamethizole,Prestw-742,144-82-1,C9H10N4O2S2,"['Metabolism', 'Infectiology']",['Antibacterial']
+870,Plate03,E07,Plate09,C04,Zileuton,Prestw-1365,111406-87-2,C11H12N2O2S,['Respiratory'],['Antiasthmatic']
+871,Plate03,E08,Plate10,C04,Medrysone,Prestw-743,2668-66-8,C22H32O3,['Metabolism'],['Anti-inflammatory']
+872,Plate03,E09,Plate09,C05,Loratadine,Prestw-1432,79794-75-5,C22H23ClN2O2,['Allergology'],['Antihistaminic']
+873,Plate03,E10,Plate10,C05,Flunixin meglumine,Prestw-744,42461-84-7,C21H28F3N3O7,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+874,Plate03,E11,Plate09,C06,Tetraethylenepentamine pentahydrochloride,Prestw-1387,4961-41-5,C8H28Cl5N5,['Metabolism'],['Antilipemic']
+875,Plate03,E12,Plate10,C06,Spiramycin,Prestw-745,8025-81-8,C43H73N2O14R,"['Metabolism', 'Infectiology']",['Antibacterial']
+876,Plate03,E13,Plate09,C07,Nisoldipine,Prestw-666,63675-72-9,C20H24N2O6,['Cardiovascular'],"['Antianginal', 'Antihypertensive']"
+877,Plate03,E14,Plate10,C07,Glycopyrrolate,Prestw-746,596-51-0,C19H28BrNO3,"['Gastroenterology', 'Neuromuscular']",['Antispastic']
+878,Plate03,E15,Plate09,C08,Acefylline,Prestw-1507,652-37-9,C9H10N4O4,['Central Nervous System'],['CNS Stimulant']
+879,Plate03,E16,Plate10,C08,Aprepitant,Prestw-1600,170729-80-3,C23H21F7N4O3,['Metabolism'],['Antiemetic']
+880,Plate03,E17,Plate09,C09,Acitretin,Prestw-1165,55079-83-9,C21H26O3,['Dermatology'],['Antipsoriatic']
+881,Plate03,E18,Plate10,C09,Monensin sodium salt,Prestw-748,22373-78-0,C36H61NaO11,['Infectiology'],['Antibacterial']
+882,Plate03,E19,Plate09,C10,Zonisamide,Prestw-1162,68291-97-4,C8H8N2O3S,['Central Nervous System'],['Anticonvulsant']
+883,Plate03,E20,Plate10,C10,Isoetharine mesylate salt,Prestw-749,7279-75-6,C14H25NO6S,['Respiratory'],['Bronchodilator']
+884,Plate03,E21,Plate09,C11,Irsogladine maleate,Prestw-1173,84504-69-8,C13H11Cl2N5O4,['Metabolism'],['Antiulcer']
+885,Plate03,E22,Plate10,C11,"Mevalonic-D, L acid lactone",Prestw-750,674-26-0,C6H10O3,['Cardiovascular'],['Antilipemic']
+886,Plate03,E23,Plate09,C12,DMSO,nan,nan,nan,,
+887,Plate03,E24,Plate10,C12,DMSO,nan,nan,nan,,
+888,Plate03,F01,Plate11,C01,DMSO,nan,nan,nan,,
+889,Plate03,F02,Plate12,C01,DMSO,nan,nan,nan,,
+890,Plate03,F03,Plate11,C02,Azlocillin sodium salt,Prestw-821,37091-65-9,C20H22N5NaO6S,"['Metabolism', 'Infectiology']",['Antibacterial']
+891,Plate03,F04,Plate12,C02,Hymecromone,Prestw-901,90-33-5,C10H8O3,['Metabolism'],['Muscle relaxant']
+892,Plate03,F05,Plate11,C03,Clidinium bromide,Prestw-822,3485-62-9,C22H26BrNO3,['Neuromuscular'],['Antispastic']
+893,Plate03,F06,Plate12,C03,Abacavir Sulfate,Prestw-1512,188062-50-2,C28H38N12O6S,"['Infectiology', 'Metabolism']",['Antiviral']
+894,Plate03,F07,Plate11,C04,Sulfamonomethoxine,Prestw-823,1220-83-3,C11H12N4O3S,['Metabolism'],['Antibacterial']
+895,Plate03,F08,Plate12,C04,Diloxanide furoate,Prestw-903,3736-81-0,C14H11Cl2NO4,['Metabolism'],['Antiamebic']
+896,Plate03,F09,Plate11,C05,Benzthiazide,Prestw-824,91-33-8,C15H14ClN3O4S3,['Cardiovascular'],"['Antihypertensive', 'Diuretic']"
+897,Plate03,F10,Plate12,C05,Metyrapone,Prestw-904,54-36-4,C14H14N2O,['Endocrinology'],[nan]
+898,Plate03,F11,Plate11,C06,Trichlormethiazide,Prestw-825,133-67-5,C8H8Cl3N3O4S2,['Cardiovascular'],"['Antihypertensive', 'Diuretic']"
+899,Plate03,F12,Plate12,C06,Urapidil hydrochloride,Prestw-905,64887-14-5,C20H30ClN5O3,['Cardiovascular'],"['Antihypertensive', 'Vasodilator']"
+900,Plate03,F13,Plate11,C07,Oxalamine citrate salt,Prestw-826,1949-20-8,C20H27N3O8,"['Central Nervous System', 'Metabolism', 'Respiratory']","['Anti-inflammatory', 'Antispastic', 'Antitussive']"
+901,Plate03,F14,Plate12,C07,Fluspirilen,Prestw-906,1841-19-6,C29H31F2N3O,['Central Nervous System'],['Antipsychotic']
+902,Plate03,F15,Plate11,C08,Propantheline bromide,Prestw-827,50-34-0,C23H30BrNO3,['Neuromuscular'],['Antispastic']
+903,Plate03,F16,Plate12,C08,S-(+)-ibuprofen,Prestw-907,51146-56-6,C13H18O2,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory']"
+904,Plate03,F17,Plate11,C09,Viloxazine hydrochloride,Prestw-1361,35604-67-2,C13H20ClNO3,['Central Nervous System'],['Antidepressant']
+905,Plate03,F18,Plate12,C09,Ethynodiol diacetate,Prestw-908,297-76-7,C24H32O4,['Endocrinology'],['Contraceptive']
+906,Plate03,F19,Plate11,C10,Dimethadione,Prestw-829,695-53-4,C5H7NO3,['Central Nervous System'],['Anticonvulsant']
+907,Plate03,F20,Plate12,C10,Nabumetone,Prestw-909,42924-53-8,C15H16O2,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory']"
+908,Plate03,F21,Plate11,C11,Ethaverine hydrochloride,Prestw-830,985-13-7,C24H30ClNO4,['Central Nervous System'],['Antispastic']
+909,Plate03,F22,Plate12,C11,Nisoxetine hydrochloride,Prestw-910,57754-86-6,C17H22ClNO2,['Central Nervous System'],['Antidepressant']
+910,Plate03,F23,Plate11,C12,DMSO,nan,nan,nan,,
+911,Plate03,F24,Plate12,C12,DMSO,nan,nan,nan,,
+912,Plate03,G01,Plate09,D01,DMSO,nan,nan,nan,,
+913,Plate03,G02,Plate10,D01,DMSO,nan,nan,nan,,
+914,Plate03,G03,Plate09,D02,Dydrogesterone,Prestw-671,152-62-5,C21H28O2,['Endocrinology'],['Progestogen']
+915,Plate03,G04,Plate10,D02,Terazosin hydrochloride,Prestw-751,63590-64-7,C19H26ClN5O4,['Cardiovascular'],['Antihypertensive']
+916,Plate03,G05,Plate09,D03,Sumatriptan succinate,Prestw-1346,103628-48-4,C18H27N3O6S,['Central Nervous System'],['Antimigraine']
+917,Plate03,G06,Plate10,D03,Phenazopyridine hydrochloride,Prestw-752,136-40-3,C11H12ClN5,['Central Nervous System'],['Analgesic']
+918,Plate03,G07,Plate09,D04,Opipramol dihydrochloride,Prestw-1456,909-39-7,C23H31Cl2N3O,['Central Nervous System'],"['Antidepressant', 'Antipsychotic']"
+919,Plate03,G08,Plate10,D04,Demeclocycline hydrochloride,Prestw-753,64-73-3,C21H22Cl2N2O8,"['Metabolism', 'Infectiology']",['Antibacterial']
+920,Plate03,G09,Plate09,D05,Nalidixic acid sodium salt,Prestw-1447,3374-05-8,C12H11N2NaO3,"['Infectiology', 'Metabolism']",['Antibacterial']
+921,Plate03,G10,Plate10,D05,Fenoprofen calcium salt dihydrate,Prestw-754,53746-45-5,C30H30CaO8,['Metabolism'],['Anti-inflammatory']
+922,Plate03,G11,Plate09,D06,Oxacillin sodium,Prestw-1475,1173-88-2,C19H18N3NaO5S,"['Infectiology', 'Metabolism']",['Antibacterial']
+923,Plate03,G12,Plate10,D06,Piperacillin sodium salt,Prestw-755,59703-84-3,C23H26N5NaO7S,"['Metabolism', 'Infectiology']",['Antibacterial']
+924,Plate03,G13,Plate09,D07,Beta-Escin,Prestw-676,11072-93-8,C55H86O24,"['Metabolism', 'Oncology']","['Antineoplastic', 'Diuretic']"
+925,Plate03,G14,Plate10,D07,Diethylstilbestrol,Prestw-756,56-53-1,C18H20O2,"['Endocrinology', 'Oncology']",[nan]
+926,Plate03,G15,Plate09,D08,Thiamine hydrochloride,Prestw-631,67-03-8,C12H18Cl2N4OS,"['Immunology', 'Metabolism']",['Immunostimulant']
+927,Plate03,G16,Plate10,D08,Chlorotrianisene,Prestw-757,569-57-3,C23H21ClO3,"['Endocrinology', 'Oncology']",['Antineoplastic']
+928,Plate03,G17,Plate09,D09,Tazobactam,Prestw-1349,89786-04-9,C10H12N4O5S,"['Infectiology', 'Metabolism']",['Antibacterial']
+929,Plate03,G18,Plate10,D09,Ribostamycin sulfate salt,Prestw-758,53797-35-6,C17H36N4O14S,"['Metabolism', 'Infectiology']",['Antibacterial']
+930,Plate03,G19,Plate09,D10,Ibandronate sodium ,Prestw-1285,114084-78-5,C9H22NNaO7P2,['Metabolism'],['Antiosteoporetic']
+931,Plate03,G20,Plate10,D10,Methacholine chloride,Prestw-759,62-51-1,C8H18ClNO2,"['Diagnostic', 'Respiratory']",[nan]
+932,Plate03,G21,Plate09,D11,Warfarin,Prestw-1363,81-81-2,C19H16O4,['Hematology'],['Anticoagulant']
+933,Plate03,G22,Plate10,D11,Pipenzolate bromide,Prestw-760,125-51-9,C22H28BrNO3,"['Gastroenterology', 'Neuromuscular']",['Antispastic']
+934,Plate03,G23,Plate09,D12,DMSO,nan,nan,nan,,
+935,Plate03,G24,Plate10,D12,DMSO,nan,nan,nan,,
+936,Plate03,H01,Plate11,D01,DMSO,nan,nan,nan,,
+937,Plate03,H02,Plate12,D01,DMSO,nan,nan,nan,,
+938,Plate03,H03,Plate11,D02,Butacaine,Prestw-831,149-16-6,C18H30N2O2,['Dermatology'],['Anesthetic']
+939,Plate03,H04,Plate12,D02,(+)-Isoproterenol (+)-bitartrate salt,Prestw-911,14638-70-1,C15H23NO9,['Respiratory'],"['Antiasthmatic', 'Bronchodilator', 'Vasodilator']"
+940,Plate03,H05,Plate11,D03,Cefoxitin sodium salt,Prestw-832,33564-30-6,C16H16N3NaO7S2,"['Metabolism', 'Infectiology']",['Antibacterial']
+941,Plate03,H06,Plate12,D03,Monobenzone,Prestw-912,103-16-2,C13H12O2,['Dermatology'],[nan]
+942,Plate03,H07,Plate11,D04,Ifosfamide,Prestw-833,3778-73-2,C7H15Cl2N2O2P,['Oncology'],['Antineoplastic']
+943,Plate03,H08,Plate12,D04,2-Aminobenzenesulfonamide,Prestw-913,3306-62-5,C6H8N2O2S,['Metabolism'],['Diuretic']
+944,Plate03,H09,Plate11,D05,Novobiocin sodium salt,Prestw-834,1476-53-5,C31H35N2NaO11,"['Metabolism', 'Infectiology']",['Antibacterial']
+945,Plate03,H10,Plate12,D05,Estrone,Prestw-914,53-16-7,C18H22O2,['Endocrinology'],[nan]
+946,Plate03,H11,Plate11,D06,"Tetrahydroxy-1,4-quinone hydrate",Prestw-835,123334-16-7,C6H6O7,['Dermatology'],['Keratolytic']
+947,Plate03,H12,Plate12,D06,Lorglumide sodium salt,Prestw-915,97964-56-2,C22H31Cl2N2NaO4,['Metabolism'],['Antiulcer']
+948,Plate03,H13,Plate11,D07,Indoprofen,Prestw-836,31842-01-0,C17H15NO3,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory']"
+949,Plate03,H14,Plate12,D07,Nitrendipine,Prestw-916,39562-70-4,C18H20N2O6,['Cardiovascular'],['Antihypertensive']
+950,Plate03,H15,Plate11,D08,Carbenoxolone disodium salt,Prestw-837,7421-40-1,C34H48Na2O7,['Metabolism'],['Antiulcer']
+951,Plate03,H16,Plate12,D08,Flurbiprofen,Prestw-917,5104-49-4,C15H13FO2,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory']"
+952,Plate03,H17,Plate11,D09,Iocetamic acid,Prestw-838,16034-77-8,C12H13I3N2O3,['Diagnostic'],['Contrastant']
+953,Plate03,H18,Plate12,D09,Nimodipine,Prestw-918,66085-59-4,C21H26N2O7,['Cardiovascular'],['Vasodilator']
+954,Plate03,H19,Plate11,D10,Ganciclovir,Prestw-839,82410-32-0,C9H13N5O4,['Metabolism'],['Antiviral']
+955,Plate03,H20,Plate12,D10,Bacitracin,Prestw-919,1405-87-4,C66H103N17O16S,['Metabolism'],['Antibacterial']
+956,Plate03,H21,Plate11,D11,Ethopropazine hydrochloride,Prestw-840,1094-08-2,C19H25ClN2S,['Central Nervous System'],['Antiparkinsonian']
+957,Plate03,H22,Plate12,D11,L(-)-vesamicol hydrochloride,Prestw-920,112709-59-8,C17H26ClNO,['Neuromuscular'],[nan]
+958,Plate03,H23,Plate11,D12,DMSO,nan,nan,nan,,
+959,Plate03,H24,Plate12,D12,DMSO,nan,nan,nan,,
+960,Plate03,I01,Plate09,E01,DMSO,nan,nan,nan,,
+961,Plate03,I02,Plate10,E01,DMSO,nan,nan,nan,,
+962,Plate03,I03,Plate09,E02,Pranoprofen,Prestw-1318,52549-17-4,C15H13NO3,['Metabolism'],['Anti-inflammatory']
+963,Plate03,I04,Plate10,E02,Butamben,Prestw-761,94-25-7,C11H15NO2,['Central Nervous System'],['Anesthetic']
+964,Plate03,I05,Plate09,E03,Secnidazole,Prestw-1340,3366-95-8,C7H11N3O3,"['Infectiology', 'Metabolism']",['Antiamebic']
+965,Plate03,I06,Plate10,E03,Sulfapyridine,Prestw-762,144-83-2,C11H11N3O2S,"['Metabolism', 'Infectiology']",['Antibacterial']
+966,Plate03,I07,Plate09,E04,Pempidine tartrate,Prestw-683,546-48-5,C14H27NO6,['Cardiovascular'],"['Antihypotensive', 'Vasodilator']"
+967,Plate03,I08,Plate10,E04,Meclofenoxate hydrochloride,Prestw-763,3685-84-5,C12H17Cl2NO3,['Central Nervous System'],['CNS Stimulant']
+968,Plate03,I09,Plate09,E05,Clodronate,Prestw-1381,22560-50-5,CH2Cl2Na2O6P2,['Metabolism'],[nan]
+969,Plate03,I10,Plate10,E05,Furaltadone hydrochloride,Prestw-764,3759-92-0,C13H17ClN4O6,['Infectiology'],['Antibacterial']
+970,Plate03,I11,Plate09,E06,Ibutilide fumarate,Prestw-1508,122647-32-9,C44H76N4O10S2,['Cardiovascular'],['Antiarrhythmic']
+971,Plate03,I12,Plate10,E06,Ethoxyquin,Prestw-765,91-53-2,C14H19NO,['Metabolism'],['Antifungal']
+972,Plate03,I13,Plate09,E07,Thimerosal,Prestw-1194,54-64-8,C9H9HgNaO2S,['Infectiology'],['Antiseptic']
+973,Plate03,I14,Plate10,E07,Tinidazole,Prestw-766,19387-91-8,C8H13N3O4S,['Infectiology'],"['Antiamebic', 'Antibacterial']"
+974,Plate03,I15,Plate09,E08,Tramadol hydrochloride,Prestw-1465,27203-92-5,C16H26ClNO2,['Central Nervous System'],['Analgesic']
+975,Plate03,I16,Plate10,E08,Guanadrel sulfate,Prestw-767,22195-34-2,C20H40N6O8S,['Cardiovascular'],['Antihypertensive']
+976,Plate03,I17,Plate09,E09,Estropipate,Prestw-688,7280-37-7,C22H32N2O5S,['Endocrinology'],[nan]
+977,Plate03,I18,Plate10,E09,Vidarabine,Prestw-768,5536-17-4,C10H13N5O4,['Metabolism'],['Antiviral']
+978,Plate03,I19,Plate09,E10,Butylscopolammonium (n-) bromide,Prestw-1253,149-64-4,C21H30BrNO4,['Central Nervous System'],['Antispastic']
+979,Plate03,I20,Plate10,E10,Sulfameter,Prestw-769,651-06-9,C11H12N4O3S,"['Metabolism', 'Infectiology']",['Antibacterial']
+980,Plate03,I21,Plate09,E11,Irinotecan hydrochloride trihydrate,Prestw-1494,136572-09-3,C33H45ClN4O9,['Oncology'],['Antineoplastic']
+981,Plate03,I22,Plate10,E11,Isopropamide iodide,Prestw-770,71-81-8,C23H33IN2O,['Metabolism'],['Antiulcer']
+982,Plate03,I23,Plate09,E12,DMSO,nan,nan,nan,,
+983,Plate03,I24,Plate10,E12,DMSO,nan,nan,nan,,
+984,Plate03,J01,Plate11,E01,DMSO,nan,nan,nan,,
+985,Plate03,J02,Plate12,E01,DMSO,nan,nan,nan,,
+986,Plate03,J03,Plate11,E02,Olanzapine,Prestw-1455,132539-06-1,C17H20N4S,['Central Nervous System'],['Antipsychotic']
+987,Plate03,J04,Plate12,E02,Nizatidine,Prestw-921,76963-41-2,C12H21N5O2S2,['Metabolism'],['Antiulcer']
+988,Plate03,J05,Plate11,E03,Trimeprazine tartrate,Prestw-842,4330-99-8,C40H50N4O6S2,"['Allergology', 'Central Nervous System', 'Dermatology']","['Antihistaminic', 'Antipruritic', 'Sedative']"
+989,Plate03,J06,Plate12,E03,Thioperamide maleate,Prestw-922,106243-16-7,C19H28N4O4S,['Central Nervous System'],['Antiemetic']
+990,Plate03,J07,Plate11,E04,Nafcillin sodium salt monohydrate,Prestw-843,7177-50-6,C21H23N2NaO6S,"['Metabolism', 'Infectiology']",['Antibacterial']
+991,Plate03,J08,Plate12,E04,Xamoterol hemifumarate,Prestw-923,73210-73-8,C36H54N6O14,['Cardiovascular'],[nan]
+992,Plate03,J09,Plate11,E05,Procyclidine hydrochloride,Prestw-844,1508-76-5,C19H30ClNO,['Central Nervous System'],"['Antiparkinsonian', 'Muscle relaxant']"
+993,Plate03,J10,Plate12,E05,Rolipram,Prestw-924,61413-54-5,C16H21NO3,['Central Nervous System'],"['Antidepressant', 'Antipsychotic', 'Antipsychotic']"
+994,Plate03,J11,Plate11,E06,Amiprilose hydrochloride,Prestw-845,60414-06-4,C14H28ClNO6,['Immunology'],['Immunomodulator']
+995,Plate03,J12,Plate12,E06,Thonzonium bromide,Prestw-925,553-08-2,C32H55BrN4O,['Dermatology'],['Antiseptic']
+996,Plate03,J13,Plate11,E07,Ethynylestradiol 3-methyl ether,Prestw-846,72-33-3,C21H26O2,['Endocrinology'],[nan]
+997,Plate03,J14,Plate12,E07,Idazoxan hydrochloride,Prestw-926,79944-56-2,C11H13ClN2O2,['Central Nervous System'],"['Antiparkinsonian', 'Antipsychotic']"
+998,Plate03,J15,Plate11,E08,(-) -Levobunolol hydrochloride,Prestw-847,27912-14-7,C17H26ClNO3,['Ophthalmology'],['Antiglaucoma']
+999,Plate03,J16,Plate12,E08,Quinapril HCl,Prestw-927,82586-55-8,C25H31ClN2O5,['Cardiovascular'],['Antihypertensive']
+1000,Plate03,J17,Plate11,E09,Iodixanol,Prestw-848,92339-11-2,C35H44I6N6O15,['Diagnostic'],['Contrastant']
+1001,Plate03,J18,Plate12,E09,Nilutamide,Prestw-928,63612-50-0,C12H10F3N3O4,['Oncology'],['Antineoplastic']
+1002,Plate03,J19,Plate11,E10,Clinafloxacin,Prestw-1379,105956-97-6,C17H17ClFN3O3,"['Infectiology', 'Metabolism']",['Antibacterial']
+1003,Plate03,J20,Plate12,E10,Ketorolac tromethamine,Prestw-929,74103-07-4,C19H24N2O6,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+1004,Plate03,J21,Plate11,E11,Equilin,Prestw-850,474-86-2,C18H20O2,['Endocrinology'],[nan]
+1005,Plate03,J22,Plate12,E11,Protriptyline hydrochloride,Prestw-930,1225-55-4,C19H22ClN,['Central Nervous System'],['Antidepressant']
+1006,Plate03,J23,Plate11,E12,DMSO,nan,nan,nan,,
+1007,Plate03,J24,Plate12,E12,DMSO,nan,nan,nan,,
+1008,Plate03,K01,Plate09,F01,DMSO,nan,nan,nan,,
+1009,Plate03,K02,Plate10,F01,DMSO,nan,nan,nan,,
+1010,Plate03,K03,Plate09,F02,Tylosin,Prestw-1353,1401-69-0,C46H77NO17,"['Infectiology', 'Metabolism']",['Antibacterial']
+1011,Plate03,K04,Plate10,F02,Alclometasone dipropionate,Prestw-771,66734-13-2,C28H37ClO7,['Metabolism'],['Anti-inflammatory']
+1012,Plate03,K05,Plate09,F03,Citalopram Hydrobromide,Prestw-692,59729-32-7,C20H22BrFN2O,['Central Nervous System'],['Antidepressant']
+1013,Plate03,K06,Plate10,F03,Leflunomide,Prestw-772,75706-12-6,C12H9F3N2O2,['Immunology'],['Immunosuppressant']
+1014,Plate03,K07,Plate09,F04,Promazine hydrochloride,Prestw-693,53-60-1,C17H21ClN2S,['Central Nervous System'],['Antipsychotic']
+1015,Plate03,K08,Plate10,F04,Norgestrel-(-)-D,Prestw-773,797-63-7,C21H28O2,['Endocrinology'],['Contraceptive']
+1016,Plate03,K09,Plate09,F05,Sulfamerazine,Prestw-694,127-79-7,C11H12N4O2S,"['Infectiology', 'Metabolism']",['Antibacterial']
+1017,Plate03,K10,Plate10,F05,Fluocinonide,Prestw-774,356-12-7,C26H32F2O7,['Metabolism'],['Anti-inflammatory']
+1018,Plate03,K11,Plate09,F06,Venlafaxine,Prestw-1170,93413-69-5,C17H27NO2,['Central Nervous System'],['Antidepressant']
+1019,Plate03,K12,Plate10,F06,Sulfamethazine sodium salt,Prestw-775,1981-58-4,C12H13N4NaO2S,"['Metabolism', 'Infectiology']",['Antibacterial']
+1020,Plate03,K13,Plate09,F07,Ethotoin,Prestw-696,86-35-1,C11H12N2O2,['Central Nervous System'],['Anticonvulsant']
+1021,Plate03,K14,Plate10,F07,Guaifenesin,Prestw-776,93-14-1,C10H14O4,['Respiratory'],"['Bronchodilator', 'Expectorant']"
+1022,Plate03,K15,Plate09,F08,3-alpha-Hydroxy-5-beta-androstan-17-one,Prestw-697,53-42-9,C19H30O2,['Endocrinology'],[nan]
+1023,Plate03,K16,Plate10,F08,Alexidine dihydrochloride,Prestw-777,22573-93-9,C26H58Cl2N10,['Infectiology'],['Antibacterial']
+1024,Plate03,K17,Plate09,F09,Tetrahydrozoline hydrochloride,Prestw-698,522-48-5,C13H17ClN2,['Cardiovascular'],"['Nasal Decongestant', 'Vasoconstrictor']"
+1025,Plate03,K18,Plate10,F09,Proadifen hydrochloride,Prestw-778,62-68-0,C23H32ClNO2,['Neuromuscular'],['Local anesthetic']
+1026,Plate03,K19,Plate09,F10,Hexestrol,Prestw-699,84-16-2,C18H22O2,"['Endocrinology', 'Oncology']",['Antineoplastic']
+1027,Plate03,K20,Plate10,F10,Zomepirac sodium salt,Prestw-779,64092-48-4,C15H13ClNNaO3,['Metabolism'],['Anti-inflammatory']
+1028,Plate03,K21,Plate09,F11,Cefmetazole sodium salt,Prestw-700,56796-39-5,C15H16N7NaO5S3,"['Infectiology', 'Metabolism']",['Antibacterial']
+1029,Plate03,K22,Plate10,F11,Cinoxacin,Prestw-780,28657-80-9,C12H10N2O5,"['Metabolism', 'Infectiology']",['Antibacterial']
+1030,Plate03,K23,Plate09,F12,DMSO,nan,nan,nan,,
+1031,Plate03,K24,Plate10,F12,DMSO,nan,nan,nan,,
+1032,Plate03,L01,Plate11,F01,DMSO,nan,nan,nan,,
+1033,Plate03,L02,Plate12,F01,DMSO,nan,nan,nan,,
+1034,Plate03,L03,Plate11,F02,Paroxetine Hydrochloride,Prestw-851,110429-35-1,C19H21ClFNO3,['Central Nervous System'],"['Antidepressant', 'CNS Stimulant']"
+1035,Plate03,L04,Plate12,F02,Propofol,Prestw-931,2078-54-8,C12H18O,['Central Nervous System'],"['Anesthetic', 'Sedative']"
+1036,Plate03,L05,Plate11,F03,Nylidrin,Prestw-1454,447-41-6,C19H25NO2,['Cardiovascular'],['Vasodilator']
+1037,Plate03,L06,Plate12,F03,S(-)Eticlopride hydrochloride,Prestw-932,97612-24-3,C17H26Cl2N2O3,['Central Nervous System'],[nan]
+1038,Plate03,L07,Plate11,F04,Liothyronine,Prestw-853,6893-02-3,C15H12I3NO4,['Endocrinology'],[nan]
+1039,Plate03,L08,Plate12,F04,Primidone,Prestw-933,125-33-7,C12H14N2O2,['Central Nervous System'],['Anticonvulsant']
+1040,Plate03,L09,Plate11,F05,Roxithromycin,Prestw-854,80214-83-1,C41H76N2O15,"['Metabolism', 'Infectiology']",['Antibacterial']
+1041,Plate03,L10,Plate12,F05,Flucytosine,Prestw-934,2022-85-7,C4H4FN3O,['Metabolism'],['Antifungal']
+1042,Plate03,L11,Plate11,F06,Beclomethasone dipropionate,Prestw-855,5534-09-8,C28H37ClO7,['Metabolism'],['Anti-inflammatory']
+1043,Plate03,L12,Plate12,F06,(-)-MK 801 hydrogen maleate,Prestw-935,77086-19-2,C20H19NO4,['Central Nervous System'],['Anticonvulsant']
+1044,Plate03,L13,Plate11,F07,Tolmetin sodium salt dihydrate,Prestw-856,64490-92-2,C15H18NNaO5,['Metabolism'],['Anti-inflammatory']
+1045,Plate03,L14,Plate12,F07,Bephenium hydroxynaphthoate,Prestw-936,3818-50-6,C28H29NO4,['Metabolism'],[nan]
+1046,Plate03,L15,Plate11,F08,(+) -Levobunolol hydrochloride,Prestw-857,47141-41-3,C17H26ClNO3,['Ophthalmology'],['Antiglaucoma']
+1047,Plate03,L16,Plate12,F08,Dehydroisoandosterone 3-acetate,Prestw-937,853-23-6,C21H30O3,['Endocrinology'],[nan]
+1048,Plate03,L17,Plate11,F09,Doxazosin mesylate,Prestw-858,77883-43-3,C24H29N5O8S,['Cardiovascular'],['Antihypertensive']
+1049,Plate03,L18,Plate12,F09,Benserazide hydrochloride,Prestw-938,14919-77-8,C10H16ClN3O5,['Central Nervous System'],['Antiparkinsonian']
+1050,Plate03,L19,Plate11,F10,Fluvastatin sodium salt,Prestw-859,93957-55-2,C24H25FNNaO4,['Cardiovascular'],['Antilipemic']
+1051,Plate03,L20,Plate12,F10,Iodipamide,Prestw-939,606-17-7,C20H14I6N2O6,['Diagnostic'],['Contrastant']
+1052,Plate03,L21,Plate11,F11,Methylhydantoin-5-(L),Prestw-860,40856-73-3,C4H6N2O2,['Central Nervous System'],['Anticonvulsant']
+1053,Plate03,L22,Plate12,F11,Allopurinol,Prestw-1213,315-30-0,C5H4N4O,['Metabolism'],[nan]
+1054,Plate03,L23,Plate11,F12,DMSO,nan,nan,nan,,
+1055,Plate03,L24,Plate12,F12,DMSO,nan,nan,nan,,
+1056,Plate03,M01,Plate09,G01,DMSO,nan,nan,nan,,
+1057,Plate03,M02,Plate10,G01,DMSO,nan,nan,nan,,
+1058,Plate03,M03,Plate09,G02,"Trihexyphenidyl-D,L Hydrochloride",Prestw-701,58947-95-8,C20H32ClNO,['Central Nervous System'],['Antiparkinsonian']
+1059,Plate03,M04,Plate10,G02,Clobetasol propionate,Prestw-781,25122-46-7,C25H32ClFO5,['Metabolism'],['Anti-inflammatory']
+1060,Plate03,M05,Plate09,G03,Succinylsulfathiazole,Prestw-702,116-43-8,C13H13N3O5S2,"['Infectiology', 'Metabolism']",['Antibacterial']
+1061,Plate03,M06,Plate10,G03,Podophyllotoxin,Prestw-782,518-28-5,C22H22O8,['Metabolism'],['Antiviral']
+1062,Plate03,M07,Plate09,G04,Famprofazone,Prestw-703,22881-35-2,C24H31N3O,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Antipyretic']"
+1063,Plate03,M08,Plate10,G04,Clofibric acid,Prestw-783,882-09-7,C10H11ClO3,['Metabolism'],['Antilipemic']
+1064,Plate03,M09,Plate09,G05,Bromopride,Prestw-704,4093-35-0,C14H22BrN3O2,['Central Nervous System'],['Antiemetic']
+1065,Plate03,M10,Plate10,G05,Bendroflumethiazide,Prestw-784,73-48-3,C15H14F3N3O4S2,['Cardiovascular'],"['Antihypertensive', 'Diuretic']"
+1066,Plate03,M11,Plate09,G06,Methyl benzethonium chloride,Prestw-705,25155-18-4,C28H44ClNO2,['Infectiology'],['Antibacterial']
+1067,Plate03,M12,Plate10,G06,Dicumarol,Prestw-785,66-76-2,C19H12O6,['Hematology'],['Anticoagulant']
+1068,Plate03,M13,Plate09,G07,Chlorcyclizine hydrochloride,Prestw-706,1620-21-9,C18H22Cl2N2,"['Allergology', 'Central Nervous System']","['Antiemetic', 'Antihistaminic', 'Sedative']"
+1069,Plate03,M14,Plate10,G07,Methimazole,Prestw-786,60-56-0,C4H6N2S,['Endocrinology'],[nan]
+1070,Plate03,M15,Plate09,G08,Diphenylpyraline hydrochloride,Prestw-707,132-18-3,C19H24ClNO,"['Allergology', 'Central Nervous System']","['Antihistaminic', 'Antipruritic', 'Sedative']"
+1071,Plate03,M16,Plate10,G08,Merbromin,Prestw-787,129-16-8,C20H8Br2HgNa2O6,['Infectiology'],['Antibacterial']
+1072,Plate03,M17,Plate09,G09,Benzethonium chloride,Prestw-708,121-54-0,C27H42ClNO2,['Infectiology'],"['Antibacterial', 'Antiseptic']"
+1073,Plate03,M18,Plate10,G09,Hexylcaine hydrochloride,Prestw-788,532-76-3,C16H24ClNO2,['Dermatology'],['Anesthetic']
+1074,Plate03,M19,Plate09,G10,Trioxsalen,Prestw-709,3902-71-4,C14H12O3,['Dermatology'],[nan]
+1075,Plate03,M20,Plate10,G10,Drofenine hydrochloride,Prestw-789,548-66-3,C20H32ClNO2,['Neuromuscular'],['Antispastic']
+1076,Plate03,M21,Plate09,G11,Doxofylline,Prestw-1136,69975-86-6,C11H14N4O4,['Respiratory'],['Bronchodilator']
+1077,Plate03,M22,Plate10,G11,Cycloheximide,Prestw-790,66-81-9,C15H23NO4,['Infectiology'],['Antibacterial']
+1078,Plate03,M23,Plate09,G12,DMSO,nan,nan,nan,,
+1079,Plate03,M24,Plate10,G12,DMSO,nan,nan,nan,,
+1080,Plate03,N01,Plate11,G01,DMSO,nan,nan,nan,,
+1081,Plate03,N02,Plate12,G01,DMSO,nan,nan,nan,,
+1082,Plate03,N03,Plate11,G02,Gabapentin,Prestw-861,60142-96-3,C9H17NO2,['Central Nervous System'],['Anticonvulsant']
+1083,Plate03,N04,Plate12,G02,Pentetic acid,Prestw-941,67-43-6,C14H23N3O10,['Oncology'],"['Chelating', 'Radioprotectant']"
+1084,Plate03,N05,Plate11,G03,Raloxifene hydrochloride,Prestw-862,82640-04-8,C28H28ClNO4S,"['Endocrinology', 'Oncology']",[nan]
+1085,Plate03,N06,Plate12,G03,Bretylium tosylate,Prestw-942,61-75-6,C18H24BrNO3S,"['Cardiovascular', 'Central Nervous System']","['Anesthetic', 'Antiarrhythmic', 'Antihypertensive']"
+1086,Plate03,N07,Plate11,G04,"Etidronic acid, disodium salt",Prestw-863,7414-83-7,C2H6Na2O7P2,['Metabolism'],"['Antiosteoporetic', 'Chelating']"
+1087,Plate03,N08,Plate12,G04,Pralidoxime chloride,Prestw-943,51-15-0,C7H9ClN2O,['Neuromuscular'],[nan]
+1088,Plate03,N09,Plate11,G05,Methylhydantoin-5-(D),Prestw-864,55147-68-7,C4H6N2O2,[nan],[nan]
+1089,Plate03,N10,Plate12,G05,Phenoxybenzamine hydrochloride,Prestw-944,63-92-3,C18H23Cl2NO,['Cardiovascular'],['Antihypertensive']
+1090,Plate03,N11,Plate11,G06,Simvastatin,Prestw-865,79902-63-9,C25H38O5,['Cardiovascular'],['Antilipemic']
+1091,Plate03,N12,Plate12,G06,Salmeterol,Prestw-945,89365-50-4,C25H37NO4,['Respiratory'],['Bronchodilator']
+1092,Plate03,N13,Plate11,G07,Azacytidine-5,Prestw-866,320-67-2,C8H12N4O5,['Oncology'],['Antineoplastic']
+1093,Plate03,N14,Plate12,G07,Altretamine,Prestw-946,645-05-6,C9H18N6,['Oncology'],['Antineoplastic']
+1094,Plate03,N15,Plate11,G08,Paromomycin sulfate,Prestw-867,1263-89-4,C23H47N5O18S,"['Metabolism', 'Infectiology']","['Antiamebic', 'Antibacterial']"
+1095,Plate03,N16,Plate12,G08,Prazosin hydrochloride,Prestw-947,19237-84-4,C19H22ClN5O4,['Cardiovascular'],['Antihypertensive']
+1096,Plate03,N17,Plate11,G09,Acetaminophen,Prestw-868,103-90-2,C8H9NO2,['Central Nervous System'],"['Analgesic', 'Antipyretic']"
+1097,Plate03,N18,Plate12,G09,Timolol maleate salt,Prestw-948,26921-17-5,C17H28N4O7S,"['Cardiovascular', 'Ophthalmology']","['Antianginal', 'Antiarrhythmic', 'Antiglaucoma', 'Antihypertensive']"
+1098,Plate03,N19,Plate11,G10,Phthalylsulfathiazole,Prestw-869,85-73-4,C17H13N3O5S2,"['Metabolism', 'Infectiology']",['Antibacterial']
+1099,Plate03,N20,Plate12,G10,"(+,-)-Octopamine hydrochloride",Prestw-949,770-05-8,C8H12ClNO2,['Cardiovascular'],[nan]
+1100,Plate03,N21,Plate11,G11,Luteolin,Prestw-870,491-70-3,C15H10O6,['Respiratory'],['Expectorant']
+1101,Plate03,N22,Plate12,G11,Stavudine,Prestw-1279,3056-17-5,C10H12N2O4,"['Infectiology', 'Metabolism']",['Antiviral']
+1102,Plate03,N23,Plate11,G12,DMSO,nan,nan,nan,,
+1103,Plate03,N24,Plate12,G12,DMSO,nan,nan,nan,,
+1104,Plate03,O01,Plate09,H01,DMSO,nan,nan,nan,,
+1105,Plate03,O02,Plate10,H01,DMSO,nan,nan,nan,,
+1106,Plate03,O03,Plate09,H02,Sulfabenzamide,Prestw-711,127-71-9,C13H12N2O3S,"['Infectiology', 'Metabolism']",['Antibacterial']
+1107,Plate03,O04,Plate10,H02,(R) -Naproxen sodium salt,Prestw-791,23979-41-1,C14H13NaO3,['Metabolism'],['Anti-inflammatory']
+1108,Plate03,O05,Plate09,H03,Benzocaine,Prestw-712,94-09-7,C9H11NO2,['Neuromuscular'],['Local anesthetic']
+1109,Plate03,O06,Plate10,H03,Propidium iodide,Prestw-792,25535-16-4,C27H34I2N4,['Infectiology'],['Antibacterial']
+1110,Plate03,O07,Plate09,H04,Dipyrone,Prestw-713,5907-38-0,C13H16N3NaO4S,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Antiasthmatic', 'Antipyretic', 'Bronchodilator']"
+1111,Plate03,O08,Plate10,H04,Cloperastine hydrochloride,Prestw-793,14984-68-0,C20H25Cl2NO,['Respiratory'],['Antitussive']
+1112,Plate03,O09,Plate09,H05,Isosorbide dinitrate,Prestw-714,87-33-2,C6H8N2O8,['Cardiovascular'],['Antianginal']
+1113,Plate03,O10,Plate10,H05,Eucatropine hydrochloride,Prestw-794,536-93-6,C17H26ClNO3,"['Neuromuscular', 'Ophthalmology']",['Antiglaucoma']
+1114,Plate03,O11,Plate09,H06,Sulfachloropyridazine,Prestw-715,80-32-0,C10H9ClN4O2S,"['Infectiology', 'Metabolism']",['Antibacterial']
+1115,Plate03,O12,Plate10,H06,Isocarboxazid,Prestw-795,59-63-2,C12H13N3O2,['Central Nervous System'],['Antidepressant']
+1116,Plate03,O13,Plate09,H07,Pramoxine hydrochloride,Prestw-716,637-58-1,C17H28ClNO3,['Neuromuscular'],['Local anesthetic']
+1117,Plate03,O14,Plate10,H07,Lithocholic acid,Prestw-796,434-13-9,C24H40O3,['Metabolism'],"['Cholagogue', 'Choleretic']"
+1118,Plate03,O15,Plate09,H08,Finasteride,Prestw-717,98319-26-7,C23H36N2O2,['Endocrinology'],"['Anti-alopecia', 'Antineoplastic']"
+1119,Plate03,O16,Plate10,H08,Methotrimeprazine maleat salt,Prestw-797,7104-38-3,C23H28N2O5S,['Central Nervous System'],"['Analgesic', 'Antiemetic', 'Sedative']"
+1120,Plate03,O17,Plate09,H09,Fluorometholone,Prestw-718,426-13-1,C22H29FO4,['Endocrinology'],['Anti-inflammatory']
+1121,Plate03,O18,Plate10,H09,Dienestrol,Prestw-798,84-17-3,C18H18O2,['Endocrinology'],[nan]
+1122,Plate03,O19,Plate09,H10,Cephalothin sodium salt,Prestw-719,58-71-9,C16H15N2NaO6S2,"['Infectiology', 'Metabolism']",['Antibacterial']
+1123,Plate03,O20,Plate10,H10,Pridinol methanesulfonate salt,Prestw-799,6856-31-1,C21H29NO4S,['Central Nervous System'],['Antiparkinsonian']
+1124,Plate03,O21,Plate09,H11,Cefuroxime sodium salt,Prestw-720,56238-63-2,C16H15N4NaO8S,"['Infectiology', 'Metabolism']",['Antibacterial']
+1125,Plate03,O22,Plate10,H11,Amrinone,Prestw-800,60719-84-8,C10H9N3O,['Cardiovascular'],[nan]
+1126,Plate03,O23,Plate09,H12,DMSO,nan,nan,nan,,
+1127,Plate03,O24,Plate10,H12,DMSO,nan,nan,nan,,
+1128,Plate03,P01,Plate11,H01,DMSO,nan,nan,nan,,
+1129,Plate03,P02,Plate12,H01,DMSO,nan,nan,nan,,
+1130,Plate03,P03,Plate11,H02,Iopamidol,Prestw-871,60166-93-0,C17H22I3N3O8,['Diagnostic'],['Contrastant']
+1131,Plate03,P04,Plate12,H02,Crotamiton,Prestw-951,483-63-6,C13H17NO,"['Dermatology', 'Metabolism']",['Antipruritic']
+1132,Plate03,P05,Plate11,H03,Iopromide,Prestw-872,73334-07-3,C18H24I3N3O8,['Diagnostic'],['Contrastant']
+1133,Plate03,P06,Plate12,H03,Toremifene,Prestw-1197,89778-26-7,C26H28ClNO,"['Endocrinology', 'Oncology']",['Antineoplastic']
+1134,Plate03,P07,Plate11,H04,Theophylline monohydrate,Prestw-873,5967-84-0,C7H10N4O3,"['Cardiovascular', 'Central Nervous System', 'Respiratory']","['Bronchodilator', 'CNS Stimulant', 'Diuretic', 'Vasodilator']"
+1135,Plate03,P08,Plate12,H04,(R)-(+)-Atenolol,Prestw-536,56715-13-0,C14H22N2O3,['Cardiovascular'],"['Antianginal', 'Antiarrhythmic', 'Antihypertensive', 'Antimigraine']"
+1136,Plate03,P09,Plate11,H05,Theobromine,Prestw-874,83-67-0,C7H8N4O2,"['Cardiovascular', 'Respiratory']","['Bronchodilator', 'Diuretic']"
+1137,Plate03,P10,Plate12,H05,Tyloxapol,Prestw-954,25301-02-4,C59H96O12,['Respiratory'],['Mucolytic']
+1138,Plate03,P11,Plate11,H06,Reserpine,Prestw-875,50-55-5,C33H40N2O9,['Central Nervous System'],['Antipsychotic']
+1139,Plate03,P12,Plate12,H06,Florfenicol,Prestw-955,73231-34-2,C12H14Cl2FNO4S,"['Metabolism', 'Infectiology']",['Antibacterial']
+1140,Plate03,P13,Plate11,H07,Bicalutamide,Prestw-1239,90357-06-5,C18H14F4N2O4S,"['Endocrinology', 'Oncology']",['Antineoplastic']
+1141,Plate03,P14,Plate12,H07,Megestrol acetate,Prestw-956,595-33-5,C24H32O4,"['Endocrinology', 'Oncology']","['Antineoplastic', 'Contraceptive']"
+1142,Plate03,P15,Plate11,H08,Scopolamine hydrochloride,Prestw-877,55-16-3,C17H22ClNO4,['Central Nervous System'],['Antiemetic']
+1143,Plate03,P16,Plate12,H08,Deoxycorticosterone,Prestw-957,64-85-7,C21H30O3,"['Endocrinology', 'Metabolism']",['Anti-inflammatory']
+1144,Plate03,P17,Plate11,H09,Ioversol,Prestw-878,87771-40-2,C18H24I3N3O9,['Diagnostic'],['Contrastant']
+1145,Plate03,P18,Plate12,H09,Urosiol,Prestw-958,128-13-2,C24H40O4,['Metabolism'],[nan]
+1146,Plate03,P19,Plate11,H10,Rabeprazole Sodium salt,Prestw-1495,117976-89-3,C18H21N3NaO3S,['Metabolism'],['Antiulcer']
+1147,Plate03,P20,Plate12,H10,Proparacaine hydrochloride,Prestw-959,5875-06-9,C16H27ClN2O3,['Central Nervous System'],['Anesthetic']
+1148,Plate03,P21,Plate11,H11,Carbachol,Prestw-880,51-83-2,C6H15ClN2O2,['Cardiovascular'],"['Antihypertensive', 'Vasodilator']"
+1149,Plate03,P22,Plate12,H11,Aminocaproic acid,Prestw-960,60-32-2,C6H13NO2,"['Allergology', 'Hematology']","['Antifibrinolytic', 'Hemostatic']"
+1150,Plate03,P23,Plate11,H12,DMSO,nan,nan,nan,,
+1151,Plate03,P24,Plate12,H12,DMSO,nan,nan,nan,,
+1152,Plate04,A01,Plate13,A01,DMSO,nan,nan,nan,,
+1153,Plate04,A02,Plate14,A01,DMSO,nan,nan,nan,,
+1154,Plate04,A03,Plate13,A02,Denatonium benzoate,Prestw-961,3734-33-6,C28H34N2O3,['Neuromuscular'],[nan]
+1155,Plate04,A04,Plate14,A02,Etomidate,Prestw-1041,33125-97-2,C14H16N2O2,['Central Nervous System'],"['Anesthetic', 'Hypnotic']"
+1156,Plate04,A05,Plate13,A03,Canrenone,Prestw-1259,976-71-6,C22H28O3,['Endocrinology'],['Diuretic']
+1157,Plate04,A06,Plate14,A03,Tridihexethyl chloride,Prestw-1042,4310-35-4,C21H36ClNO,['Neuromuscular'],['Antispastic']
+1158,Plate04,A07,Plate13,A04,Enilconazole,Prestw-963,35554-44-0,C14H14Cl2N2O,['Metabolism'],['Antifungal']
+1159,Plate04,A08,Plate14,A04,Penbutolol sulfate,Prestw-1043,38363-32-5,C36H60N2O8S,['Cardiovascular'],"['Antianginal', 'Antiarrhythmic', 'Antihypertensive']"
+1160,Plate04,A09,Plate13,A05,Methacycline hydrochloride,Prestw-964,3963-95-9,C22H23ClN2O8,"['Metabolism', 'Infectiology']",['Antibacterial']
+1161,Plate04,A10,Plate14,A05,Prednicarbate,Prestw-1044,73771-04-7,C27H36O8,['Metabolism'],['Anti-Inflammatory']
+1162,Plate04,A11,Plate13,A06,Floxuridine,Prestw-1415,50-91-9,C9H11FN2O5,['Oncology'],"['Antineoplastic', 'Antiviral']"
+1163,Plate04,A12,Plate14,A06,Sertaconazole nitrate,Prestw-1045,99592-39-9,C20H16Cl3N3O4S,"['Metabolism', 'Infectiology']","['Antibacterial', 'Antifungal']"
+1164,Plate04,A13,Plate13,A07,Sotalol hydrochloride,Prestw-966,959-24-0,C12H21ClN2O3S,['Cardiovascular'],"['Antianginal', 'Antiarrhythmic', 'Antihypertensive']"
+1165,Plate04,A14,Plate14,A07,Repaglinide,Prestw-1046,135062-02-1,C27H36N2O4,['Endocrinology'],['Antidiabetic']
+1166,Plate04,A15,Plate13,A08,Gestrinone,Prestw-1267,16320-04-0,C21H24O2,['Endocrinology'],['Contraceptive']
+1167,Plate04,A16,Plate14,A08,Piretanide,Prestw-1047,55837-27-9,C17H18N2O5S,['Cardiovascular'],"['Antihypertensive', 'Diuretic']"
+1168,Plate04,A17,Plate13,A09,Decamethonium bromide,Prestw-968,541-22-0,C16H38Br2N2,['Neuromuscular'],['Muscle relaxant']
+1169,Plate04,A18,Plate14,A09,Piperacetazine,Prestw-1048,3819-00-9,C24H30N2O2S,['Central Nervous System'],['Antipsychotic']
+1170,Plate04,A19,Plate13,A10,Darifenacin hydrobromide,Prestw-1514,133099-07-7,C28H31BrN2O2,['Neuromuscular'],[nan]
+1171,Plate04,A20,Plate14,A10,Oxyphenbutazone,Prestw-1049,129-20-4,C19H20N2O3,['Metabolism'],['Anti-inflammatory']
+1172,Plate04,A21,Plate13,A11,Indatraline hydrochloride,Prestw-1602,86939-10-8,C16H16Cl3N,['Central Nervous System'],['Antidepressant']
+1173,Plate04,A22,Plate14,A11,Quinethazone,Prestw-1050,73-49-4,C10H12ClN3O3S,['Cardiovascular'],"['Antihypertensive', 'Diuretic']"
+1174,Plate04,A23,Plate13,A12,DMSO,nan,nan,nan,,
+1175,Plate04,A24,Plate14,A12,DMSO,nan,nan,nan,,
+1176,Plate04,B01,Plate15,A01,DMSO,nan,nan,nan,,
+1177,Plate04,B02,Plate16,A01,DMSO,nan,nan,nan,,
+1178,Plate04,B03,Plate15,A02,Buspirone hydrochloride,Prestw-1283,33386-08-2,C21H32ClN5O2,['Central Nervous System'],[nan]
+1179,Plate04,B04,Plate16,A02,Nelfinavir mesylate,Prestw-1764,159989-65-8,C33H49N3O7S2,"['Infectiology', 'Oncology']","['Antiviral', 'Antineoplastic']"
+1180,Plate04,B05,Plate15,A03,Anastrozole,Prestw-1222,120511-73-1,C17H19N5,['Oncology'],['Antineoplastic']
+1181,Plate04,B06,Plate16,A03,Silodosin,Prestw-1749,160970-54-7,C25H32F3N3O4,['Cardiovascular'],['Antihypertensive']
+1182,Plate04,B07,Plate15,A04,Doxycycline hydrochloride,Prestw-1399,10592-13-9,C22H25ClN2O8,['Metabolism'],['Antibacterial']
+1183,Plate04,B08,Plate16,A04,Trimebutine,Prestw-1777,39133-31-8,C22H29NO5,['Neuromuscular'],['Antispastic']
+1184,Plate04,B09,Plate15,A05,Sulbactam,Prestw-1345,68373-14-8,C8H11NO5S,"['Infectiology', 'Metabolism']",['Antibacterial']
+1185,Plate04,B10,Plate16,A05,Nevirapine,Prestw-1739,129618-40-2,C15H14N4O,['Infectiology'],['Antiviral']
+1186,Plate04,B11,Plate15,A06,Fleroxacin,Prestw-1414,79660-72-3,C17H18F3N3O3,['Infectiology'],['Antibacterial']
+1187,Plate04,B12,Plate16,A06,Doxapram hydrochloride,Prestw-1707,7081-53-0,C24H31ClN2O2,"['Respiratory', 'Cardiovascular']","['Analeptic', 'Eupneic']"
+1188,Plate04,B13,Plate15,A07,Clavulanate potassium salt,Prestw-1315,58001-44-8,C8H8KNO5,"['Infectiology', 'Metabolism']",['Antibacterial']
+1189,Plate04,B14,Plate16,A07,Amlexanox,Prestw-1718,68302-57-8,C16H14N2O4,"['Allergology', 'Dermatology']","['Anti-inflammatory', 'Immunomodulator']"
+1190,Plate04,B15,Plate15,A08,Valproic acid,Prestw-1482,99-66-1,C8H16O2,['Central Nervous System'],['Anticonvulsant']
+1191,Plate04,B16,Plate16,A08,Amorolfine hydrochloride,Prestw-1719,78613-38-4,C21H36ClNO,"['Infectiology', 'Dermatology']",['Antifungal']
+1192,Plate04,B17,Plate15,A09,Mepivacaine hydrochloride,Prestw-1280,1722-62-9,C15H23ClN2O,['Neuromuscular'],['Local anesthetic']
+1193,Plate04,B18,Plate16,A09,Enrofloxacin,Prestw-1786,93106-60-6,C19H22FN3O3,['Infectiology'],['Antibacterial']
+1194,Plate04,B19,Plate15,A10,Rifaximin,Prestw-1478,80621-81-4,C43H51N3O11,"['Infectiology', 'Metabolism']",['Antibacterial']
+1195,Plate04,B20,Plate16,A10,Ubenimex,Prestw-1784,58970-76-6,C16H24N2O4,"['Oncology', 'Immunology']","['Antineoplastic', 'Immunomodulator']"
+1196,Plate04,B21,Plate15,A11,Estradiol Valerate,Prestw-1473,979-32-8,C23H32O3,['Endocrinology'],['Contraceptive']
+1197,Plate04,B22,Plate16,A11,Troxipide,Prestw-1778,99777-81-8,C15H22N2O4,['Metabolism'],['Antiulcer']
+1198,Plate04,B23,Plate15,A12,DMSO,nan,nan,nan,,
+1199,Plate04,B24,Plate16,A12,DMSO,nan,nan,nan,,
+1200,Plate04,C01,Plate13,B01,DMSO,nan,nan,nan,,
+1201,Plate04,C02,Plate14,B01,DMSO,nan,nan,nan,,
+1202,Plate04,C03,Plate13,B02,Remoxipride Hydrochloride,Prestw-971,73220-03-8,C16H24BrClN2O3,['Central Nervous System'],['Antipsychotic']
+1203,Plate04,C04,Plate14,B02,Moricizine hydrochloride,Prestw-1051,31883-05-3,C22H26ClN3O4S,['Cardiovascular'],['Antiarrhythmic']
+1204,Plate04,C05,Plate13,B03,THIP Hydrochloride,Prestw-972,85118-33-8,C6H9ClN2O2,['Central Nervous System'],['Sedative']
+1205,Plate04,C06,Plate14,B03,Iopanoic acid,Prestw-1052,96-83-3,C11H12I3NO2,['Diagnostic'],['Contrastant']
+1206,Plate04,C07,Plate13,B04,Pirlindole mesylate,Prestw-973,60762-57-4,C16H22N2O3S,['Central Nervous System'],['Antidepressant']
+1207,Plate04,C08,Plate14,B04,Pivmecillinam hydrochloride,Prestw-1053,32887-03-9,C21H34ClN3O5S,"['Metabolism', 'Infectiology']",['Antibacterial']
+1208,Plate04,C09,Plate13,B05,Pronethalol hydrochloride,Prestw-974,51-02-5,C15H20ClNO,['Cardiovascular'],"['Antianginal', 'Antiarrhythmic', 'Antihypertensive']"
+1209,Plate04,C10,Plate14,B05,Levopropoxyphene napsylate,Prestw-1054,5714-90-9,C32H37NO5S,"['Central Nervous System', 'Respiratory']","['Analgesic', 'Antitussive']"
+1210,Plate04,C11,Plate13,B06,Naftopidil dihydrochloride,Prestw-975,57149-08-3,C24H30Cl2N2O3,['Cardiovascular'],['Antihypertensive']
+1211,Plate04,C12,Plate14,B06,Piperidolate hydrochloride,Prestw-1055,129-77-1,C21H26ClNO2,['Neuromuscular'],['Antispastic']
+1212,Plate04,C13,Plate13,B07,Tracazolate hydrochloride,Prestw-976,41094-88-6,C16H25ClN4O2,['Central Nervous System'],"['Anticonvulsant', 'Sedative']"
+1213,Plate04,C14,Plate14,B07,Trifluridine,Prestw-1056,70-00-8,C10H11F3N2O5,['Metabolism'],['Antiviral']
+1214,Plate04,C15,Plate13,B08,Zardaverine,Prestw-977,101975-10-4,C12H10F2N2O3,['Respiratory'],['Bronchodilator']
+1215,Plate04,C16,Plate14,B08,Oxprenolol hydrochloride,Prestw-1057,6452-73-9,C15H24ClNO3,['Cardiovascular'],"['Antianginal', 'Antiarrhythmic', 'Antihypertensive']"
+1216,Plate04,C17,Plate13,B09,Memantine Hydrochloride,Prestw-978,41100-52-1,C12H22ClN,"['Central Nervous System', 'Metabolism']","['Anti-Alzheimer', 'Antiparkinsonian', 'Antispastic']"
+1217,Plate04,C18,Plate14,B09,Ondansetron Hydrochloride,Prestw-1058,103639-04-9,C18H20ClN3O,['Central Nervous System'],['Antianemic']
+1218,Plate04,C19,Plate13,B10,Ozagrel hydrochloride,Prestw-979,78712-43-3,C13H13ClN2O2,"['Cardiovascular', 'Hematology']",['Antianginal']
+1219,Plate04,C20,Plate14,B10,Propoxycaine hydrochloride,Prestw-1059,550-83-4,C16H27ClN2O3,['Central Nervous System'],['Anesthetic']
+1220,Plate04,C21,Plate13,B11,Piribedil hydrochloride,Prestw-980,78213-63-5,C16H19ClN4O2,"['Cardiovascular', 'Central Nervous System']","['Antiparkinsonian', 'Vasodilator']"
+1221,Plate04,C22,Plate14,B11,Oxaprozin,Prestw-1060,21256-18-8,C18H15NO3,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory']"
+1222,Plate04,C23,Plate13,B12,DMSO,nan,nan,nan,,
+1223,Plate04,C24,Plate14,B12,DMSO,nan,nan,nan,,
+1224,Plate04,D01,Plate15,B01,DMSO,nan,nan,nan,,
+1225,Plate04,D02,Plate16,B01,DMSO,nan,nan,nan,,
+1226,Plate04,D03,Plate15,B02,Acetylcysteine,Prestw-1206,616-91-1,C5H9NO3S,['Metabolism'],['Mucolytic']
+1227,Plate04,D04,Plate16,B02,Ipriflavone,Prestw-1773,35212-22-7,C18H16O3,['Metabolism'],['Antiosteoporetic']
+1228,Plate04,D05,Plate15,B03,Melengestrol acetate,Prestw-1435,2919-66-6,C25H32O4,['Endocrinology'],[nan]
+1229,Plate04,D06,Plate16,B03,Ezetimibe,Prestw-1762,163222-33-1,C24H21F2NO3,"['Metabolism', 'Gastroenterology', 'Cardiovascular']",['Hypocholesterolemic']
+1230,Plate04,D07,Plate15,B04,Bromhexine hydrochloride,Prestw-1246,611-75-6,C14H21Br2ClN2,['Respiratory'],['Expectorant']
+1231,Plate04,D08,Plate16,B04,Rizatriptan benzoate,Prestw-1761,145202-66-0,C22H25N5O2,"['Central Nervous System', 'Cardiovascular']","['Antimigraine', 'Vasoconstrictor']"
+1232,Plate04,D09,Plate15,B05,Anethole-trithione,Prestw-1223,532-11-6,C10H8OS3,['Metabolism'],['Choleretic']
+1233,Plate04,D10,Plate16,B05,Tegaserod maleate,Prestw-1760,189188-57-6,C20H27N5O5,['Gastroenterology'],['Gastroprokinetic']
+1234,Plate04,D11,Plate15,B06,Amcinonide,Prestw-1476,51022-69-6,C28H35FO7,['Metabolism'],['Anti-inflammatory']
+1235,Plate04,D12,Plate16,B06,Pantoprazole sodium,Prestw-1758,138786-67-1,C16H14F2N3NaO4S,['Metabolism'],['Antiulcer']
+1236,Plate04,D13,Plate15,B07,Caffeine,Prestw-1256,58-08-2,C8H10N4O2,['Central Nervous System'],['CNS Stimulant']
+1237,Plate04,D14,Plate16,B07,Tegafur,Prestw-1753,17902-23-7,C8H9FN2O3,['Oncology'],['Antineoplastic']
+1238,Plate04,D15,Plate15,B08,Carvedilol,Prestw-1262,72956-09-3,C24H26N2O4,['Cardiovascular'],['Antihypertensive']
+1239,Plate04,D16,Plate16,B08,Tolcapone,Prestw-1732,134308-13-7,C14H11NO5,['Central Nervous System'],['Antiparkinsonian']
+1240,Plate04,D17,Plate15,B09,Methenamine,Prestw-1282,100-97-0,C6H12N4,['Infectiology'],['Antibacterial']
+1241,Plate04,D18,Plate16,B09,Altrenogest,Prestw-1716,850-52-2,C21H26O2,['Endocrinology'],['Progestogen']
+1242,Plate04,D19,Plate15,B10,Phentermine hydrochloride,Prestw-1308,1197-21-3,C10H16ClN,['Central Nervous System'],[nan]
+1243,Plate04,D20,Plate16,B10,Felbamate,Prestw-1711,25451-15-4,C11H14N2O4,['Central Nervous System'],['Antiepileptic']
+1244,Plate04,D21,Plate15,B11,Diclazuril,Prestw-1394,101831-37-2,C17H9Cl3N4O2,['Metabolism'],[nan]
+1245,Plate04,D22,Plate16,B11,Estramustine,Prestw-1709,2998-57-4,C23H31Cl2NO3,['Oncology'],['Antineoplastic']
+1246,Plate04,D23,Plate15,B12,DMSO,nan,nan,nan,,
+1247,Plate04,D24,Plate16,B12,DMSO,nan,nan,nan,,
+1248,Plate04,E01,Plate13,C01,DMSO,nan,nan,nan,,
+1249,Plate04,E02,Plate14,C01,DMSO,nan,nan,nan,,
+1250,Plate04,E03,Plate13,C02,Nitrocaramiphen hydrochloride,Prestw-981,98636-73-8 ,C18H27ClN2O4,['Central Nervous System'],[nan]
+1251,Plate04,E04,Plate14,C02,Phensuximide,Prestw-1061,86-34-0,C11H11NO2,['Central Nervous System'],['Anticonvulsant']
+1252,Plate04,E05,Plate13,C03,Nandrolone,Prestw-982,434-22-0,C18H26O2,"['Endocrinology', 'Hematology']",['Antianemic']
+1253,Plate04,E06,Plate14,C03,Ioxaglic acid ,Prestw-1062,59017-64-0,C24H21I6N5O8,['Diagnostic'],['Contrastant']
+1254,Plate04,E07,Plate13,C04,Dimaprit dihydrochloride,Prestw-983,23256-33-9,C6H17Cl2N3S,['Metabolism'],[nan]
+1255,Plate04,E08,Plate14,C04,Naftifine hydrochloride,Prestw-1063,65473-14-5,C21H22ClN,"['Infectiology', 'Metabolism']",['Antifungal']
+1256,Plate04,E09,Plate13,C05,Oxfendazol,Prestw-1459,53716-50-0,C15H13N3O3S,['Metabolism'],[nan]
+1257,Plate04,E10,Plate14,C05,Meprylcaine hydrochloride ,Prestw-1064,956-03-6,C14H22ClNO2,['Neuromuscular'],['Local anesthetic']
+1258,Plate04,E11,Plate13,C06,Guaiacol,Prestw-1268,90-05-1,C7H8O2,['Respiratory'],['Expectorant']
+1259,Plate04,E12,Plate14,C06,Milrinone,Prestw-1065,78415-72-2,C12H9N3O,['Cardiovascular'],['Vasodilator']
+1260,Plate04,E13,Plate13,C07,Proscillaridin A,Prestw-986,466-06-8,C30H42O8,['Cardiovascular'],[nan]
+1261,Plate04,E14,Plate14,C07,Methantheline bromide,Prestw-1066,53-46-3,C21H26BrNO3,['Neuromuscular'],['Antispastic']
+1262,Plate04,E15,Plate13,C08,Pramipexole dihydrochloride,Prestw-1316,104632-25-9,C10H19Cl2N3S,['Central Nervous System'],['Antiparkinsonian']
+1263,Plate04,E16,Plate14,C08,Ticarcillin sodium,Prestw-1067,74682-62-5,C15H15N2NaO6S2,"['Infectiology', 'Metabolism']",['Antibacterial']
+1264,Plate04,E17,Plate13,C09,Norgestimate,Prestw-1452,35189-28-7,C23H31NO3,['Endocrinology'],[nan]
+1265,Plate04,E18,Plate14,C09,Thiethylperazine dimalate ,Prestw-1068,52239-63-1,C30H41N3O10S2,['Central Nervous System'],"['Antiemetic', 'Antivertigo']"
+1266,Plate04,E19,Plate13,C10,Chlormadinone acetate,Prestw-1374,302-22-7,C23H29ClO4,"['Endocrinology', 'Oncology']",['Antineoplastic']
+1267,Plate04,E20,Plate14,C10,Mesalamine,Prestw-1069,89-57-6,C7H7NO3,['Metabolism'],['Anti-inflammatory']
+1268,Plate04,E21,Plate13,C11,Phenylbutazone,Prestw-1310,50-33-9,C19H20N2O2,['Metabolism'],['Anti-inflammatory']
+1269,Plate04,E22,Plate14,C11,Vorinostat,Prestw-1362,149647-78-9,C14H20N2O3,['Oncology'],['Antineoplastic']
+1270,Plate04,E23,Plate13,C12,DMSO,nan,nan,nan,,
+1271,Plate04,E24,Plate14,C12,DMSO,nan,nan,nan,,
+1272,Plate04,F01,Plate15,C01,DMSO,nan,nan,nan,,
+1273,Plate04,F02,Plate16,C01,DMSO,nan,nan,nan,,
+1274,Plate04,F03,Plate15,C02,Famciclovir,Prestw-1249,104227-87-4,C14H19N5O4,"['Infectiology', 'Metabolism']",['Antiviral']
+1275,Plate04,F04,Plate16,C02,(R)-Duloxetine hydrochloride,Prestw-1708,116539-60-7,C18H20ClNOS,[nan],[nan]
+1276,Plate04,F05,Plate15,C03,Dopamine hydrochloride,Prestw-1398,62-31-7,C8H12ClNO2,['Cardiovascular'],['Antihypertensive']
+1277,Plate04,F06,Plate16,C03,Donepezil hydrochloride,Prestw-1706,120011-70-3,C24H30ClNO3,['Central Nervous System'],"['Anti-Alzheimer', 'Antipsychotic', 'CNS Stimulant']"
+1278,Plate04,F07,Plate15,C04,Cefdinir,Prestw-1263,91832-40-5,C14H13N5O5S2,"['Infectiology', 'Metabolism']",['Antibacterial']
+1279,Plate04,F08,Plate16,C04,"1,8-Dihydroxyanthraquinone",Prestw-1703,117-10-2,C14H8O4,['Gastroenterology'],"['Laxative', 'Antiemetic']"
+1280,Plate04,F09,Plate15,C05,Carprofen,Prestw-1261,53716-49-7,C15H12ClNO2,['Metabolism'],['Anti-inflammatory']
+1281,Plate04,F10,Plate16,C05,Nitazoxanide,Prestw-1733,55981-09-4,C12H9N3O5S,['Infectiology'],['Antiprotozoal']
+1282,Plate04,F11,Plate15,C06,Celecoxib,Prestw-1371,169590-42-5,C17H14F3N3O2S,['Metabolism'],['Anti-inflammatory']
+1283,Plate04,F12,Plate16,C06,Nateglinide,Prestw-1748,105816-04-4,C19H27NO3,['Endocrinology'],['Antidiabetic']
+1284,Plate04,F13,Plate15,C07,Candesartan,Prestw-1258,139481-59-7,C24H20N6O3,['Cardiovascular'],['Antihypertensive']
+1285,Plate04,F14,Plate16,C07,Avobenzone,Prestw-1721,70356-09-1,C20H22O3,['Dermatology'],['Cytoprotectant']
+1286,Plate04,F15,Plate15,C08,Fludarabine,Prestw-1483,21679-14-1,C10H12FN5O4,['Oncology'],['Antineoplastic']
+1287,Plate04,F16,Plate16,C08,Algestone acetophenide,Prestw-1715,24356-94-3,C29H36O4,"['Endocrinology', 'Dermatology']","['Contraceptive', 'Anti-inflammatory']"
+1288,Plate04,F17,Plate15,C09,Cladribine,Prestw-1484,4291-63-8,C10H12ClN5O3,['Oncology'],['Antineoplastic']
+1289,Plate04,F18,Plate16,C09,Actarit,Prestw-1763,18699-02-0,C10H11NO3,['Immunology'],"['Anti-inflammatory', 'Immunomodulator']"
+1290,Plate04,F19,Plate15,C10,Vardenafil,Prestw-1356,224785-90-4,C23H32N6O4S,['Cardiovascular'],['Erectile dysfunction treatment']
+1291,Plate04,F20,Plate16,C10,Ethoxzolamide,Prestw-1710,452-35-7,C9H10N2O3S2,"['Ophthalmology', 'Gastroenterology', 'Central Nervous System']","['Antiglaucoma', 'Antiulcer', 'Diuretic', 'Antiepileptic']"
+1292,Plate04,F21,Plate15,C11,Fluconazole,Prestw-1417,86386-73-4,C13H12F2N6O,['Metabolism'],['Antifungal']
+1293,Plate04,F22,Plate16,C11,Azatadine maleate,Prestw-1722,3978-86-7,C28H30N2O8,"['Allergology', 'Central Nervous System']",['Antihistaminic']
+1294,Plate04,F23,Plate15,C12,DMSO,nan,nan,nan,,
+1295,Plate04,F24,Plate16,C12,DMSO,nan,nan,nan,,
+1296,Plate04,G01,Plate13,D01,DMSO,nan,nan,nan,,
+1297,Plate04,G02,Plate14,D01,DMSO,nan,nan,nan,,
+1298,Plate04,G03,Plate13,D02,Gliquidone,Prestw-991,33342-05-1,C27H33N3O6S,['Endocrinology'],['Antidiabetic']
+1299,Plate04,G04,Plate14,D02,Imidurea,Prestw-1071,39236-46-9,C11H16N8O8,['Infectiology'],['Antifungal']
+1300,Plate04,G05,Plate13,D03,Pizotifen malate,Prestw-992,5189-11-7,C23H27NO5S,"['Allergology', 'Cardiovascular', 'Central Nervous System']","['Antihistaminic', 'Antimigraine', 'Sedative']"
+1301,Plate04,G06,Plate14,D03,Lansoprazole,Prestw-1072,103577-45-3,C16H14F3N3O2S,['Metabolism'],['Antiulcer']
+1302,Plate04,G07,Plate13,D04,Ribavirin,Prestw-993,36791-04-5,C8H12N4O5,['Metabolism'],['Antiviral']
+1303,Plate04,G08,Plate14,D04,Bethanechol chloride,Prestw-1073,590-63-6,C7H17ClN2O2,['Metabolism'],[nan]
+1304,Plate04,G09,Plate13,D05,Cyclopenthiazide,Prestw-994,742-20-1,C13H18ClN3O4S2,['Cardiovascular'],"['Antihypertensive', 'Diuretic']"
+1305,Plate04,G10,Plate14,D05,Cyproterone acetate,Prestw-1074,427-51-0,C24H29ClO4,['Endocrinology'],"['Antineoplastic', 'Contraceptive']"
+1306,Plate04,G11,Plate13,D06,Fluvoxamine maleate,Prestw-995,61718-82-9,C19H25F3N2O6,['Central Nervous System'],"['Antidepressant', 'CNS Stimulant']"
+1307,Plate04,G12,Plate14,D06,(R)-Propranolol hydrochloride,Prestw-1075,13071-11-9,C16H22ClNO2,['Cardiovascular'],"['Antianginal', 'Antiarrhythmic', 'Antihypertensive', 'Antimigraine']"
+1308,Plate04,G13,Plate13,D07,Prothionamide,Prestw-1321,14222-60-7,C9H12N2S,"['Infectiology', 'Metabolism']",['Antibacterial']
+1309,Plate04,G14,Plate14,D07,Ciprofibrate,Prestw-1076,52214-84-3,C13H14Cl2O3,['Metabolism'],['Hypocholesterolemic']
+1310,Plate04,G15,Plate13,D08,Fluticasone propionate,Prestw-997,80474-14-2,C25H31F3O5S,"['Cardiovascular', 'Metabolism']","['Anti-inflammatory', 'Vasodilator']"
+1311,Plate04,G16,Plate14,D08,Formestane,Prestw-1420,566-48-3,C19H26O3,"['Endocrinology', 'Oncology']",['Antineoplastic']
+1312,Plate04,G17,Plate13,D09,Zuclopenthixol dihydrochloride,Prestw-998,633-59-0,C22H27Cl3N2OS,['Central Nervous System'],"['Antipsychotic', 'Antiviral', 'Sedative']"
+1313,Plate04,G18,Plate14,D09,Benzylpenicillin sodium,Prestw-1078,69-57-8,C16H17N2NaO4S,"['Infectiology', 'Metabolism']",['Antibacterial']
+1314,Plate04,G19,Plate13,D10,Proguanil hydrochloride,Prestw-999,637-32-1,C11H17Cl2N5,['Metabolism'],['Antimalarial']
+1315,Plate04,G20,Plate14,D10,Chlorambucil,Prestw-1079,305-03-3,C14H19Cl2NO2,['Oncology'],['Antineoplastic']
+1316,Plate04,G21,Plate13,D11,Lymecycline,Prestw-1000,992-21-2,C29H38N4O10,['Metabolism'],['Antibacterial']
+1317,Plate04,G22,Plate14,D11,Methiazole,Prestw-1080,108579-67-5,C12H15N3O2S,"['Infectiology', 'Metabolism']",['Antihelmintic']
+1318,Plate04,G23,Plate13,D12,DMSO,nan,nan,nan,,
+1319,Plate04,G24,Plate14,D12,DMSO,nan,nan,nan,,
+1320,Plate04,H01,Plate15,D01,DMSO,nan,nan,nan,,
+1321,Plate04,H02,Plate16,D01,DMSO,nan,nan,nan,,
+1322,Plate04,H03,Plate15,D02,5-fluorouracil,Prestw-1203,51-21-8,C4H3FN2O2,['Oncology'],['Antineoplastic']
+1323,Plate04,H04,Plate16,D02,Aminacrine,Prestw-1717,90-45-9,C13H10N2,"['Infectiology', 'Dermatology']",['Antiseptic']
+1324,Plate04,H05,Plate15,D03,Mesna,Prestw-1487,19767-45-4,C2H5NaO3S2,['Oncology'],['Chemoprotectant']
+1325,Plate04,H06,Plate16,D03,Pidotimod,Prestw-1792,121808-62-6,C9H12N2O4S,['Immunology'],['Immunostimulant']
+1326,Plate04,H07,Plate15,D04,Mitotane,Prestw-1444,53-19-0,C14H10Cl4,"['Endocrinology', 'Oncology']",['Antineoplastic']
+1327,Plate04,H08,Plate16,D04,Benidipine hydrochloride,Prestw-1766,91599-74-5,C28H32ClN3O6,['Cardiovascular'],['Antihypertensive']
+1328,Plate04,H09,Plate15,D05,Ambrisentan,Prestw-1497,177036-94-1,C22H22N2O4,['Cardiovascular'],['Antihypertensive']
+1329,Plate04,H10,Plate16,D05,Perospirone,Prestw-1770,150915-41-6,C23H30N4O2S,['Central Nervous System'],['Antipsychotic']
+1330,Plate04,H11,Plate15,D06,Triclosan,Prestw-1479,3380-34-5,C12H7Cl3O2,['Infectiology'],"['Antibacterial', 'Antifungal', 'Antiseptic']"
+1331,Plate04,H12,Plate16,D06,Cefpiramide,Prestw-1726,70797-11-4,C25H24N8O7S2,['Infectiology'],['Antibacterial']
+1332,Plate04,H13,Plate15,D07,Enoxacin,Prestw-1401,84294-96-2,C15H17FN4O3,"['Infectiology', 'Metabolism']",['Antibacterial']
+1333,Plate04,H14,Plate16,D07,Fenoldopam,Prestw-1713,67227-56-9,C16H16ClNO3,['Cardiovascular'],"['Antihypertensive', 'Vasodilator']"
+1334,Plate04,H15,Plate15,D08,Olopatadine hydrochloride,Prestw-1307,140462-76-6,C21H24ClNO3,['Allergology'],['Antihistaminic']
+1335,Plate04,H16,Plate16,D08,Adapalene,Prestw-1714,106685-40-9,C28H28O3,['Dermatology'],"['Keratolytic', 'Anti-inflammatory']"
+1336,Plate04,H17,Plate15,D09,Granisetron,Prestw-1187,109889-09-0,C18H24N4O,['Endocrinology'],['Antiemetic']
+1337,Plate04,H18,Plate16,D09,Diatrizoic acid dihydrate,Prestw-1705,50978-11-5,C11H13I3N2O6,['Diagnostic'],['Contrastant']
+1338,Plate04,H19,Plate15,D10,Anthralin,Prestw-1224,1143-38-0,C14H10O3,['Dermatology'],['Antipsoriatic']
+1339,Plate04,H20,Plate16,D10,Dofetilide,Prestw-1743,115256-11-6,C19H27N3O5S2,['Cardiovascular'],['Antiarrhythmic']
+1340,Plate04,H21,Plate15,D11,Lamotrigine,Prestw-1492,84057-84-1,C9H7Cl2N5,['Central Nervous System'],['Anticonvulsant']
+1341,Plate04,H22,Plate16,D11,Phenprobamate,Prestw-1776,673-31-4,C10H13NO2,"['Central Nervous System', 'Neuromuscular']","['Muscle relaxant', 'Sedative', 'Anticonvulsant', 'Anxiolytic']"
+1342,Plate04,H23,Plate15,D12,DMSO,nan,nan,nan,,
+1343,Plate04,H24,Plate16,D12,DMSO,nan,nan,nan,,
+1344,Plate04,I01,Plate13,E01,DMSO,nan,nan,nan,,
+1345,Plate04,I02,Plate14,E01,DMSO,nan,nan,nan,,
+1346,Plate04,I03,Plate13,E02,Alfadolone acetate,Prestw-1001,23930-37-2,C23H34O5,['Central Nervous System'],['Anesthetic']
+1347,Plate04,I04,Plate14,E02,(S)-propranolol hydrochloride,Prestw-1081,4199-10-4,C16H22ClNO2,['Cardiovascular'],"['Antianginal', 'Antiarrhythmic', 'Antihypertensive']"
+1348,Plate04,I05,Plate13,E03,Alfaxalone,Prestw-1002,23930-19-0,C21H32O3,['Central Nervous System'],['Anesthetic']
+1349,Plate04,I06,Plate14,E03,(-)-Eseroline fumarate salt,Prestw-1082,104015-29-4,C17H22N2O5,['Central Nervous System'],['Analgesic']
+1350,Plate04,I07,Plate13,E04,Azapropazone,Prestw-1003,13539-59-8,C16H20N4O2,"['Central Nervous System', 'Metabolism']","['Analgesic', 'Anti-inflammatory']"
+1351,Plate04,I08,Plate14,E04,Isosorbide mononitrate,Prestw-1294,16051-77-7,C6H9NO6,['Cardiovascular'],['Antianginal']
+1352,Plate04,I09,Plate13,E05,Meptazinol hydrochloride,Prestw-1004,59263-76-2,C15H24ClNO,['Central Nervous System'],['Analgesic']
+1353,Plate04,I10,Plate14,E05,Levalbuterol hydrochloride,Prestw-1516,50293-90-8,C13H22ClNO3,['Respiratory'],"['Antiasthmatic', 'Bronchodilator']"
+1354,Plate04,I11,Plate13,E06,Apramycin,Prestw-1005,37321-09-8,C21H41N5O11,"['Metabolism', 'Infectiology']",['Antibacterial']
+1355,Plate04,I12,Plate14,E06,Topiramate,Prestw-1493,97240-79-4,C12H21NO8S,['Central Nervous System'],"['Anticonvulsant', 'Antimigraine']"
+1356,Plate04,I13,Plate13,E07,Epitiostanol,Prestw-1006,2363-58-8,C19H30OS,['Oncology'],['Antineoplastic']
+1357,Plate04,I14,Plate14,E07,D-cycloserine,Prestw-1086,68-41-7,C3H6N2O2,"['Infectiology', 'Metabolism']",['Antibacterial']
+1358,Plate04,I15,Plate13,E08,Fursultiamine Hydrochloride,Prestw-1007,2105-43-3,C17H27ClN4O3S2,['Metabolism'],['Anti-Alzheimer']
+1359,Plate04,I16,Plate14,E08,2-Chloropyrazine,Prestw-1087,14508-49-7,C4H3ClN2,['Cardiovascular'],[nan]
+1360,Plate04,I17,Plate13,E09,Gabexate mesilate,Prestw-1008,56974-61-9,C17H27N3O7S,"['Hematology', 'Metabolism']",['Anticoagulant']
+1361,Plate04,I18,Plate14,E09,"(+,-)-Synephrine",Prestw-1088,94-07-5,C9H13NO2,['Cardiovascular'],['Vasoconstrictor']
+1362,Plate04,I19,Plate13,E10,Pivampicillin,Prestw-1009,33817-20-8,C22H29N3O6S,"['Metabolism', 'Infectiology']",['Antibacterial']
+1363,Plate04,I20,Plate14,E10,(S)-(-)-Cycloserine,Prestw-1089,339-72-0,C3H6N2O2,"['Infectiology', 'Metabolism']",['Antibacterial']
+1364,Plate04,I21,Plate13,E11,Lodoxamide,Prestw-1746,53882-12-5,C11H6ClN3O6,['Allergology'],['Antihistaminic']
+1365,Plate04,I22,Plate14,E11,Homosalate,Prestw-1090,118-56-9,C16H22O3,['Dermatology'],['Radioprotectant']
+1366,Plate04,I23,Plate13,E12,DMSO,nan,nan,nan,,
+1367,Plate04,I24,Plate14,E12,DMSO,nan,nan,nan,,
+1368,Plate04,J01,Plate15,E01,DMSO,nan,nan,nan,,
+1369,Plate04,J02,Plate16,E01,DMSO,nan,nan,nan,,
+1370,Plate04,J03,Plate15,E02,Clofibrate,Prestw-1383,637-07-0,C12H15ClO3,['Metabolism'],['Antilipemic']
+1371,Plate04,J04,Plate16,E02,Cefuroxime axetil,Prestw-1730,64544-07-6,C20H22N4O10S,['Infectiology'],['Antibacterial']
+1372,Plate04,J05,Plate15,E03,Cyclophosphamide,Prestw-1481,50-18-0,C7H15Cl2N2O2P,"['Immunology', 'Oncology']","['Antineoplastic', 'Immunosuppressant']"
+1373,Plate04,J06,Plate16,E03,Anagrelide,Prestw-1720,68475-42-3,C10H7Cl2N3O,"['Hematology', 'Oncology']",['Thrombolytic']
+1374,Plate04,J07,Plate15,E04,Aripiprazole,Prestw-1229,129722-12-9,C23H27Cl2N3O2,['Central Nervous System'],['Antipsychotic']
+1375,Plate04,J08,Plate16,E04,Clopidogrel,Prestw-1701,113665-84-2,C16H16ClNO2S,['Cardiovascular'],['Antiplatelet']
+1376,Plate04,J09,Plate15,E05,Ethinylestradiol,Prestw-1405,57-63-6,C20H24O2,['Endocrinology'],['Contraceptive']
+1377,Plate04,J10,Plate16,E05,Benzoxiquine,Prestw-1723,86-75-9,C16H11NO2,"['Infectiology', 'Dermatology']",['Antiseptic']
+1378,Plate04,J11,Plate15,E06,Fluocinolone acetonide,Prestw-1419,67-73-2,C24H30F2O6,['Metabolism'],['Anti-inflammatory']
+1379,Plate04,J12,Plate16,E06,Phenothiazine,Prestw-1785,92-84-2,C12H9NS,['Central Nervous System'],"['Antipsychotic', 'Antiemetic', 'Antimigraine']"
+1380,Plate04,J13,Plate15,E07,Sparfloxacin,Prestw-1343,110871-86-8,C19H22F2N4O3,"['Infectiology', 'Metabolism']",['Antibacterial']
+1381,Plate04,J14,Plate16,E07,Enalaprilat dihydrate,Prestw-1769,84680-54-6,C18H28N2O7,['Cardiovascular'],['Antihypertensive']
+1382,Plate04,J15,Plate15,E08,Desloratadine,Prestw-1390,100643-71-8,C19H19ClN2,['Allergology'],['Antihistaminic']
+1383,Plate04,J16,Plate16,E08,Pregabalin,Prestw-1791,148553-50-8,C8H17NO2,['Central Nervous System'],"['Anticonvulsant', 'Anxiolytic']"
+1384,Plate04,J17,Plate15,E09,Clarithromycin,Prestw-1378,81103-11-9,C38H69NO13,"['Infectiology', 'Metabolism']",['Antibacterial']
+1385,Plate04,J18,Plate16,E09,Homoveratrylamine,Prestw-1787,120-20-7,C10H16ClNO2,['Cardiovascular'],['Antihypertensive']
+1386,Plate04,J19,Plate15,E10,Tripelennamine hydrochloride,Prestw-1199,154-69-8,C16H22ClN3,['Allergology'],['Antihistaminic']
+1387,Plate04,J20,Plate16,E10,Zoledronic acid hydrate,Prestw-1731,165800-06-6,C5H12N2O8P2,"['Oncology', 'Metabolism']",['Antiosteoporetic']
+1388,Plate04,J21,Plate15,E11,Tulobuterol,Prestw-1352,41570-61-0,C12H18ClNO,['Respiratory'],['Bronchodilator']
+1389,Plate04,J22,Plate16,E11,Cefpodoxime proxetil,Prestw-1727,87239-81-4,C21H27N5O9S2,['Infectiology'],['Antibacterial']
+1390,Plate04,J23,Plate15,E12,DMSO,nan,nan,nan,,
+1391,Plate04,J24,Plate16,E12,DMSO,nan,nan,nan,,
+1392,Plate04,K01,Plate13,F01,DMSO,nan,nan,nan,,
+1393,Plate04,K02,Plate14,F01,DMSO,nan,nan,nan,,
+1394,Plate04,K03,Plate13,F02,Flucloxacillin sodium,Prestw-1011,1847-24-1,C19H16ClFN3NaO5S,"['Metabolism', 'Infectiology']",['Antibacterial']
+1395,Plate04,K04,Plate14,F02,Spaglumic acid,Prestw-1091,4910-46-7,C11H16N2O8,"['Allergology', 'Cardiovascular']","['Antiallergic', 'Vasodilator']"
+1396,Plate04,K05,Plate13,F03,Trapidil,Prestw-1012,15421-84-8,C10H15N5,['Cardiovascular'],['Vasodilator']
+1397,Plate04,K06,Plate14,F03,Ranolazine,Prestw-1092,95635-55-5,C24H33N3O4,['Cardiovascular'],['Antianginal']
+1398,Plate04,K07,Plate13,F04,Deptropine citrate,Prestw-1013,2169-75-7,C29H35NO8,"['Allergology', 'Cardiovascular', 'Respiratory']","['Antihistaminic', 'Bronchodilator', 'Vasodilator']"
+1399,Plate04,K08,Plate14,F04,Misoprostol,Prestw-1443,59122-46-2,C22H38O5,['Metabolism'],['Antiulcer']
+1400,Plate04,K09,Plate13,F05,Sertraline,Prestw-1014,79617-96-2,C17H17Cl2N,['Central Nervous System'],"['Antidepressant', 'CNS Stimulant']"
+1401,Plate04,K10,Plate14,F05,Sulfadoxine,Prestw-1094,2447-57-6,C12H14N4O4S,"['Infectiology', 'Metabolism']",['Antibacterial']
+1402,Plate04,K11,Plate13,F06,Ethamsylate,Prestw-1015,2624-44-4,C10H17NO5S,"['Cardiovascular', 'Hematology']","['Antiplatelet', 'Hemostatic']"
+1403,Plate04,K12,Plate14,F06,Cyclopentolate hydrochloride,Prestw-1095,5870-29-1,C17H26ClNO3,['Metabolism'],[nan]
+1404,Plate04,K13,Plate13,F07,Moxonidine,Prestw-1016,75438-57-2,C9H12ClN5O,['Cardiovascular'],['Antihypertensive']
+1405,Plate04,K14,Plate14,F07,Estriol,Prestw-1096,50-27-1,C18H24O3,['Endocrinology'],[nan]
+1406,Plate04,K15,Plate13,F08,Etilefrine hydrochloride,Prestw-1017,534-87-2,C10H16ClNO2,['Cardiovascular'],['Vasoconstrictor']
+1407,Plate04,K16,Plate14,F08,(-)-Isoproterenol hydrochloride,Prestw-1097,5984-95-2,C11H18ClNO3,"['Cardiovascular', 'Respiratory']","['Bronchodilator', 'Vasodilator']"
+1408,Plate04,K17,Plate13,F09,Alprostadil,Prestw-1018,745-65-3,C20H34O5,['Cardiovascular'],"['Erectile dysfunction treatment', 'Vasodilator']"
+1409,Plate04,K18,Plate14,F09,Sarafloxacin,Prestw-1339,98105-99-8,C20H17F2N3O3,"['Infectiology', 'Metabolism']",['Antibacterial']
+1410,Plate04,K19,Plate13,F10,Tribenoside,Prestw-1019,10310-32-4,C29H34O6,['Cardiovascular'],[nan]
+1411,Plate04,K20,Plate14,F10,Nialamide,Prestw-1099,51-12-7,C16H18N4O2,['Central Nervous System'],['Antidepressant']
+1412,Plate04,K21,Plate13,F11,Rimexolone,Prestw-1020,49697-38-3,C24H34O3,['Metabolism'],['Anti-inflammatory']
+1413,Plate04,K22,Plate14,F11,Toltrazuril,Prestw-1195,69004-03-1,C18H14F3N3O4S,['Infectiology'],['Anticoccidial']
+1414,Plate04,K23,Plate13,F12,DMSO,nan,nan,nan,,
+1415,Plate04,K24,Plate14,F12,DMSO,nan,nan,nan,,
+1416,Plate04,L01,Plate15,F01,DMSO,nan,nan,nan,,
+1417,Plate04,L02,Plate16,F01,DMSO,nan,nan,nan,,
+1418,Plate04,L03,Plate15,F02,Topotecan,Prestw-1196,123948-87-8,C23H23N3O5,['Oncology'],['Antineoplastic']
+1419,Plate04,L04,Plate16,F02,Irbesartan,Prestw-1736,138402-11-6,C25H28N6O,['Cardiovascular'],['Antihypertensive']
+1420,Plate04,L05,Plate15,F03,Atorvastatin,Prestw-1232,134523-00-5,C33H35FN2O5,['Metabolism'],[nan]
+1421,Plate04,L06,Plate16,F03,Indinavir sulfate,Prestw-1737,157810-81-6,C36H49N5O8S,['Infectiology'],['Antiviral']
+1422,Plate04,L07,Plate15,F04,Azithromycin,Prestw-1234,83905-01-5,C38H72N2O12,"['Infectiology', 'Metabolism']",['Antibacterial']
+1423,Plate04,L08,Plate16,F04,Terbinafine,Prestw-1750,91161-71-6,C21H25N,['Infectiology'],['Antifungal']
+1424,Plate04,L09,Plate15,F05,Ibudilast,Prestw-1286,50847-11-5,C14H18N2O,['Metabolism'],['Anti-inflammatory']
+1425,Plate04,L10,Plate16,F05,Histamine dihydrochloride,Prestw-1700,56-92-8,C5H11Cl2N3,"['Oncology', 'Neuromuscular']","['Antineoplastic', 'Analgesic']"
+1426,Plate04,L11,Plate15,F06,Losartan,Prestw-1433,114798-26-4,C22H23ClN6O,['Cardiovascular'],['Antihypertensive']
+1427,Plate04,L12,Plate16,F06,Rasagiline,Prestw-1734,136236-51-6,C12H13N,['Central Nervous System'],['Antiparkinsonian']
+1428,Plate04,L13,Plate15,F07,Benztropine mesylate,Prestw-1236,132-17-2,C22H29NO4S,['Central Nervous System'],['Antiparkinsonian']
+1429,Plate04,L14,Plate16,F07,Flumethasone pivalate,Prestw-1712,2002-29-1,C27H36F2O6,['Dermatology'],['Anti-inflammatory']
+1430,Plate04,L15,Plate15,F08,Vecuronium bromide,Prestw-1359,50700-72-6,C34H57BrN2O4,['Metabolism'],['Muscle relaxant']
+1431,Plate04,L16,Plate16,F08,Lofepramine,Prestw-1756,23047-25-8,C26H27ClN2O,['Central Nervous System'],"['Antidepressant', 'Anxiolytic', 'Sedative']"
+1432,Plate04,L17,Plate15,F09,Telmisartan,Prestw-1350,144701-48-4,C33H30N4O2,['Cardiovascular'],['Antihypertensive']
+1433,Plate04,L18,Plate16,F09,Valdecoxib,Prestw-1759,181695-72-7,C16H14N2O3S,"['Metabolism', 'Immunology']","['Antiarthritic', 'Anti-inflammatory']"
+1434,Plate04,L19,Plate15,F10,Nalmefene hydrochloride,Prestw-1490,58895-64-0,C21H26ClNO3,['Central Nervous System'],[nan]
+1435,Plate04,L20,Plate16,F10,Besifloxacin hydrochloride,Prestw-1740,141388-76-3,C19H22Cl2FN3O3,"['Ophthalmology', 'Infectiology']",['Antibacterial']
+1436,Plate04,L21,Plate15,F11,Bifonazole,Prestw-1241,60628-96-8,C22H18N2,"['Infectiology', 'Metabolism']",['Antifungal']
+1437,Plate04,L22,Plate16,F11,Ritonavir,Prestw-1782,155213-67-5,C37H48N6O5S2,['Infectiology'],['Antiviral']
+1438,Plate04,L23,Plate15,F12,DMSO,nan,nan,nan,,
+1439,Plate04,L24,Plate16,F12,DMSO,nan,nan,nan,,
+1440,Plate04,M01,Plate13,G01,DMSO,nan,nan,nan,,
+1441,Plate04,M02,Plate14,G01,DMSO,nan,nan,nan,,
+1442,Plate04,M03,Plate13,G02,Isradipine,Prestw-1021,75695-93-1,C19H21N3O5,['Cardiovascular'],"['Antianginal', 'Antihypertensive']"
+1443,Plate04,M04,Plate14,G02,Perindopril,Prestw-1101,82834-16-0,C19H32N2O5,['Cardiovascular'],['Antihypertensive']
+1444,Plate04,M05,Plate13,G03,Nifekalant,Prestw-1774,130636-43-0,C19H27N5O5,['Cardiovascular'],['Antiarrhythmic']
+1445,Plate04,M06,Plate14,G03,Fexofenadine HCl,Prestw-1102,153439-40-8,C32H40ClNO4,['Allergology'],['Antihistaminic']
+1446,Plate04,M07,Plate13,G04,Isometheptene mucate,Prestw-1023,7492-31-1,C24H48N2O8,['Cardiovascular'],"['Antimigraine', 'Vasoconstrictor']"
+1447,Plate04,M08,Plate14,G04,4-aminosalicylic acid,Prestw-1202,65-49-6,C7H7NO3,"['Infectiology', 'Metabolism']","['Antibacterial', 'Antifungal']"
+1448,Plate04,M09,Plate13,G05,Nifurtimox,Prestw-1024,23256-30-6,C10H13N3O5S,['Metabolism'],[nan]
+1449,Plate04,M10,Plate14,G05,Clonixin Lysinate,Prestw-1104,55837-30-4,C19H25ClN4O4,"['Central Nervous System', 'Infectiology']","['Analgesic', 'Antifungal']"
+1450,Plate04,M11,Plate13,G06,Letrozole,Prestw-1025,112809-51-5,C17H11N5,['Oncology'],['Antineoplastic']
+1451,Plate04,M12,Plate14,G06,Verteporfin,Prestw-1105,129497-78-5,C41H42N4O8,['Ophthalmology'],[nan]
+1452,Plate04,M13,Plate13,G07,Arbutin,Prestw-1026,497-76-7,C12H16O7,"['Metabolism', 'Infectiology']",['Antibacterial']
+1453,Plate04,M14,Plate14,G07,Meropenem,Prestw-1106,96036-03-2,C17H25N3O5S,"['Infectiology', 'Metabolism']",['Antibacterial']
+1454,Plate04,M15,Plate13,G08,Tocainide hydrochloride,Prestw-1027,71395-14-7,C11H17ClN2O,"['Cardiovascular', 'Central Nervous System']","['Anesthetic', 'Antiarrhythmic']"
+1455,Plate04,M16,Plate14,G08,Ramipril,Prestw-1107,87333-19-5,C23H32N2O5,"['Cardiovascular', 'Metabolism']",['Antihypertensive']
+1456,Plate04,M17,Plate13,G09,Benzathine benzylpenicillin,Prestw-1028,5928-84-7,C48H56N6O10S2,"['Metabolism', 'Infectiology']",['Antibacterial']
+1457,Plate04,M18,Plate14,G09,Mephenytoin,Prestw-1108,50-12-4,C12H14N2O2,['Central Nervous System'],['Anticonvulsant']
+1458,Plate04,M19,Plate13,G10,Risperidone,Prestw-1029,106266-06-2,C23H27FN4O2,['Central Nervous System'],['Antipsychotic']
+1459,Plate04,M20,Plate14,G10,Rifabutin,Prestw-1109,72559-06-9,C46H62N4O11,"['Infectiology', 'Metabolism']",['Antibacterial']
+1460,Plate04,M21,Plate13,G11,Torsemide,Prestw-1030,56211-40-6,C16H20N4O3S,['Cardiovascular'],"['Antihypertensive', 'Diuretic']"
+1461,Plate04,M22,Plate14,G11,Parbendazole,Prestw-1110,14255-87-9,C13H17N3O2,"['Infectiology', 'Metabolism']",[nan]
+1462,Plate04,M23,Plate13,G12,DMSO,nan,nan,nan,,
+1463,Plate04,M24,Plate14,G12,DMSO,nan,nan,nan,,
+1464,Plate04,N01,Plate15,G01,DMSO,nan,nan,nan,,
+1465,Plate04,N02,Plate16,G01,DMSO,nan,nan,nan,,
+1466,Plate04,N03,Plate15,G02,Gatifloxacin,Prestw-1265,112811-59-3,C19H22FN3O4,"['Infectiology', 'Metabolism']",['Antibacterial']
+1467,Plate04,N04,Plate16,G02,Epirubicin hydrochloride,Prestw-1752,56390-09-1,C27H30ClNO11,['Oncology'],['Antineoplastic']
+1468,Plate04,N05,Plate15,G03,Bosentan,Prestw-1244,147536-97-8,C27H29N5O6S,['Cardiovascular'],['Vasodilator']
+1469,Plate04,N06,Plate16,G03,Loteprednol etabonate,Prestw-1741,82034-46-6,C24H31ClO7,"['Ophthalmology', 'Allergology']",['Anti-inflammatory']
+1470,Plate04,N07,Plate15,G04,Gemcitabine,Prestw-1266,95058-81-4,C9H11F2N3O4,['Oncology'],['Antineoplastic']
+1471,Plate04,N08,Plate16,G04,Tolterodine tartrate,Prestw-1744,209747-05-7,C26H37NO7,['Neuromuscular'],['Muscle relaxant']
+1472,Plate04,N09,Plate15,G05,Olmesartan,Prestw-1190,144689-63-4,C29H30N6O6,['Cardiovascular'],['Antihypertensive']
+1473,Plate04,N10,Plate16,G05,Lomerizine hydrochloride,Prestw-1775,101477-54-7,C27H31ClF2N2O3,"['Central Nervous System', 'Cardiovascular']",['Antimigraine']
+1474,Plate04,N11,Plate15,G06,Racepinephrine HCl,Prestw-1480,329-63-5,C9H14ClNO3,"['Cardiovascular', 'Respiratory']","['Bronchodilator', 'Vasoconstrictor']"
+1475,Plate04,N12,Plate16,G06,Ampiroxicam,Prestw-1772,99464-64-9,C20H21N3O7S,"['Immunology', 'Metabolism']","['Anti-inflammatory', 'Analgesic']"
+1476,Plate04,N13,Plate15,G07,Montelukast,Prestw-1189,158966-92-8,C35H36ClNO3S,['Respiratory'],['Antiasthmatic']
+1477,Plate04,N14,Plate16,G07,Alosetron hydrochloride,Prestw-1781,122852-69-1,C17H19ClN4O,"['Central Nervous System', 'Gastroenterology']",['Antidiarrheal']
+1478,Plate04,N15,Plate15,G08,Docetaxel,Prestw-1180,114977-28-5,C43H53NO14,['Oncology'],['Antineoplastic']
+1479,Plate04,N16,Plate16,G08,Risedronic acid monohydrate,Prestw-1738,105462-24-6,C7H13NO8P2,['Metabolism'],['Antiosteoporetic']
+1480,Plate04,N17,Plate15,G09,Cilnidipine,Prestw-1376,132203-70-4,C27H28N2O7,['Cardiovascular'],['Antihypertensive']
+1481,Plate04,N18,Plate16,G09,Palonosetron hydrochloride,Prestw-1783,135729-62-3,C19H25ClN2O,['Central Nervous System'],['Antiemetic']
+1482,Plate04,N19,Plate15,G10,Imiquimod,Prestw-1291,99011-02-6,C14H16N4,"['Dermatology', 'Immunology', 'Infectiology', 'Oncology']",['Antiviral']
+1483,Plate04,N20,Plate16,G10,Oxymetholone,Prestw-1780,434-07-1,C21H32O3,['Endocrinology'],['Anabolic']
+1484,Plate04,N21,Plate15,G11,Fosinopril,Prestw-1423,98048-97-6,C30H46NO7P,['Cardiovascular'],['Antihypertensive']
+1485,Plate04,N22,Plate16,G11,Latanoprost,Prestw-1765,145773-22-4,C26H40O5,['Ophthalmology'],['Antiglaucoma']
+1486,Plate04,N23,Plate15,G12,DMSO,nan,nan,nan,,
+1487,Plate04,N24,Plate16,G12,DMSO,nan,nan,nan,,
+1488,Plate04,O01,Plate13,H01,DMSO,nan,nan,nan,,
+1489,Plate04,O02,Plate14,H01,DMSO,nan,nan,nan,,
+1490,Plate04,O03,Plate13,H02,Halofantrine hydrochloride,Prestw-1031,36167-63-2,C26H31Cl3F3NO,['Metabolism'],['Antimalarial']
+1491,Plate04,O04,Plate14,H02,Mecamylamine hydrochloride,Prestw-1111,826-39-1,C11H22ClN,['Cardiovascular'],['Antihypertensive']
+1492,Plate04,O05,Plate13,H03,Articaine hydrochloride,Prestw-1032,23964-57-0,C13H21ClN2O3S,['Central Nervous System'],['Anesthetic']
+1493,Plate04,O06,Plate14,H03,Procarbazine hydrochloride,Prestw-1112,366-70-1,C12H20ClN3O,['Oncology'],['Antineoplastic']
+1494,Plate04,O07,Plate13,H04,Nomegestrol acetate,Prestw-1033,58652-20-3,C23H30O4,['Endocrinology'],['Contraceptive']
+1495,Plate04,O08,Plate14,H04,Viomycin sulfate,Prestw-1113,37883-00-4,C25H45N13O14S,"['Infectiology', 'Metabolism']",['Antibacterial']
+1496,Plate04,O09,Plate13,H05,Pancuronium bromide,Prestw-1034,15500-66-0,C35H60Br2N2O4,['Neuromuscular'],['Muscle relaxant']
+1497,Plate04,O10,Plate14,H05,Saquinavir mesylate,Prestw-1114,149845-06-7,C39H54N6O8S,"['Immunology', 'Infectiology', 'Metabolism']",['Antiviral']
+1498,Plate04,O11,Plate13,H06,Molindone hydrochloride,Prestw-1035,15622-65-8,C16H25ClN2O2,['Central Nervous System'],['Antipsychotic']
+1499,Plate04,O12,Plate14,H06,Ronidazole,Prestw-1115,7681-76-7,C6H8N4O4,"['Infectiology', 'Metabolism']","['Antibacterial', 'Antiprotozoal', 'Antitrichomonal']"
+1500,Plate04,O13,Plate13,H07,Alcuronium chloride,Prestw-1036,15180-03-7,C44H50Cl2N4O2,['Neuromuscular'],['Muscle relaxant']
+1501,Plate04,O14,Plate14,H07,Dorzolamide hydrochloride,Prestw-1116,130693-82-2,C10H17ClN2O4S3,['Cardiovascular'],"['Antiglaucoma', 'Antihypertensive']"
+1502,Plate04,O15,Plate13,H08,Zalcitabine,Prestw-1037,7481-89-2,C9H13N3O3,['Metabolism'],['Antiviral']
+1503,Plate04,O16,Plate14,H08,Azaperone,Prestw-1117,1649-18-9,C19H22FN3O,['Central Nervous System'],"['Antipsychotic', 'Sedative']"
+1504,Plate04,O17,Plate13,H09,Methyldopate hydrochloride,Prestw-1038,2508-79-4,C12H18ClNO4,['Cardiovascular'],['Antihypertensive']
+1505,Plate04,O18,Plate14,H09,Cefepime hydrochloride,Prestw-1118,123171-59-5,C19H25ClN6O5S2,"['Infectiology', 'Metabolism']",['Antibacterial']
+1506,Plate04,O19,Plate13,H10,Levocabastine hydrochloride,Prestw-1039,79547-78-7,C26H30ClFN2O2,['Allergology'],['Antihistaminic']
+1507,Plate04,O20,Plate14,H10,Clocortolone pivalate,Prestw-1119,34097-16-0,C27H36ClFO5,['Endocrinology'],['Anti-inflammatory']
+1508,Plate04,O21,Plate13,H11,Pyrvinium pamoate,Prestw-1040,3546-41-6,C75H70N6O6,['Metabolism'],[nan]
+1509,Plate04,O22,Plate14,H11,Nadifloxacin,Prestw-1120,124858-35-1,C19H21FN2O4,"['Infectiology', 'Metabolism']",['Antibacterial']
+1510,Plate04,O23,Plate13,H12,DMSO,nan,nan,nan,,
+1511,Plate04,O24,Plate14,H12,DMSO,nan,nan,nan,,
+1512,Plate04,P01,Plate15,H01,DMSO,nan,nan,nan,,
+1513,Plate04,P02,Plate16,H01,DMSO,nan,nan,nan,,
+1514,Plate04,P03,Plate15,H02,Imatinib,Prestw-1290,152459-95-5,C29H31N7O,['Oncology'],['Antineoplastic']
+1515,Plate04,P04,Plate16,H02,Cisatracurium besylate,Prestw-1745,64228-79-1,C65H82N2O18S2,['Neuromuscular'],['Muscle relaxant']
+1516,Plate04,P05,Plate15,H03,Moxifloxacin,Prestw-1446,151096-09-2,C21H24FN3O4,"['Infectiology', 'Metabolism']",['Antibacterial']
+1517,Plate04,P06,Plate16,H03,Pemetrexed disodium,Prestw-1794,357166-30-4,C20H19N5Na2O6,['Oncology'],['Antineoplastic']
+1518,Plate04,P07,Plate15,H04,Formoterol fumarate,Prestw-1421,43229-80-7,C42H52N4O12,['Respiratory'],['Antiasthmatic']
+1519,Plate04,P08,Plate16,H04,Raltitrexed,Prestw-1793,112887-68-0 ,C21H22N4O6S,['Oncology'],['Antineoplastic']
+1520,Plate04,P09,Plate15,H05,Rufloxacin,Prestw-1338,101363-10-4,C17H18FN3O3S,"['Infectiology', 'Metabolism']",['Antibacterial']
+1521,Plate04,P10,Plate16,H05,Ceftibuten,Prestw-1729,97519-39-6,C15H14N4O6S2,['Infectiology'],['Antibacterial']
+1522,Plate04,P11,Plate15,H06,Pravastatin,Prestw-1319,81093-37-0,C23H36O7,['Metabolism'],['Antilipemic']
+1523,Plate04,P12,Plate16,H06,Valsartan,Prestw-1735,137862-53-4,C24H29N5O3,['Cardiovascular'],"['Vasodilator', 'Antihypertensive']"
+1524,Plate04,P13,Plate15,H07,Rosiglitazone Hydrochloride,Prestw-1337,122320-73-4,C18H20ClN3O3S,['Metabolism'],['Antidiabetic']
+1525,Plate04,P14,Plate16,H07,Milnacipran hydrochloride,Prestw-1788,101152-94-7,C15H23ClN2O,['Central Nervous System'],"['Antidepressant', 'Analgesic']"
+1526,Plate04,P15,Plate15,H08,Rivastigmine,Prestw-1334,123441-03-2,C14H22N2O2,['Central Nervous System'],[nan]
+1527,Plate04,P16,Plate16,H08,Triclabendazole,Prestw-1768,68786-66-3,C14H9Cl3N2OS,['Infectiology'],['Antihelmintic']
+1528,Plate04,P17,Plate15,H09,Sildenafil,Prestw-1342,139755-83-2,C22H30N6O4S,['Cardiovascular'],"['Antihypertensive', 'Erectile dysfunction treatment']"
+1529,Plate04,P18,Plate16,H09,Brimondine L-Tartrate,Prestw-1751,70359-46-5,C15H16BrN5O6,['Ophthalmology'],['Antiglaucoma']
+1530,Plate04,P19,Plate15,H10,Acetylsalicylic acid,Prestw-1207,50-78-2,C9H8O4,['Central Nervous System'],"['Analgesic', 'Anti-inflammatory', 'Antipyretic']"
+1531,Plate04,P20,Plate16,H10,Desonide,Prestw-1704,638-94-8,C24H32O6,['Dermatology'],['Antipsoriatic']
+1532,Plate04,P21,Plate15,H11,Hexachlorophene,Prestw-1472,70-30-4,C13H6Cl6O2,['Infectiology'],['Antiseptic']
+1533,Plate04,P22,Plate16,H11,Cefprozil,Prestw-1728,121123-17-9,C18H19N3O5S,['Infectiology'],['Antibacterial']
+1534,Plate04,P23,Plate15,H12,DMSO,nan,nan,nan,,
+1535,Plate04,P24,Plate16,H12,DMSO,nan,nan,nan,,
